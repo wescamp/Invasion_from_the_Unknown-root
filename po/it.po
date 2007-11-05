@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-10-25 17:56+0200\n"
-"PO-Revision-Date: 2007-10-25 17:56+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-11-04 17:39+0100\n"
+"Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,32 +13,32 @@ msgstr ""
 
 #: Invasion_from_the_Unknown.cfg:19 Invasion_from_the_Unknown/about.cfg:11
 msgid "Invasion from the Unknown"
-msgstr ""
+msgstr "Invasione dall'ignoto"
 
 #: Invasion_from_the_Unknown.cfg:25
 msgid "Fighter"
-msgstr ""
+msgstr "Guerriero"
 
 #: Invasion_from_the_Unknown.cfg:25
 msgid "(Normal)"
-msgstr ""
+msgstr "(normale)"
 
 #: Invasion_from_the_Unknown.cfg:26
 msgid "Hero"
-msgstr ""
+msgstr "Eroe"
 
 #: Invasion_from_the_Unknown.cfg:26
 msgid "(Difficult)"
-msgstr ""
+msgstr "(difficile)"
 
 #: Invasion_from_the_Unknown.cfg:27
 msgid "(Nightmare)"
-msgstr ""
+msgstr "(incubo)"
 
 #: Invasion_from_the_Unknown.cfg:27
 #: Invasion_from_the_Unknown/units/humans/Loyalist_Champion.cfg:5
 msgid "Champion"
-msgstr ""
+msgstr "Campione"
 
 #: Invasion_from_the_Unknown.cfg:31
 msgid ""
@@ -50,38 +50,45 @@ msgid ""
 "campaign's thread at www.wesnoth.org/forums (Scenario & Campaign "
 "development) is always appreciated."
 msgstr ""
+"Molto tempo dopo la “caduta”, gli ultimi elfi della foresta lottano per la "
+"propria sopravvivenza in terra straniera scacciati dalla loro valle. Che "
+"possano liberare il grande continente dal caos o morire provandoci.\n"
+"\n"
+"13 scenari completi. Difficoltà: da media a per esperti. I commenti nella "
+"discussione dedicata alla campagna a www.wesnoth.org/forums (Scenario & "
+"Campaign development) sono sempre apprezzati."
 
 #: Invasion_from_the_Unknown/about.cfg:12
 msgid "(read CREDITS for detailed list)"
-msgstr ""
+msgstr "(leggi CREDITS per l'elenco dettagliato)"
 
 #: Invasion_from_the_Unknown/about.cfg:15
 msgid "Creator and Maintainer"
-msgstr ""
+msgstr "Creatore e gestore"
 
 #: Invasion_from_the_Unknown/about.cfg:23
 msgid "WML Programming"
-msgstr ""
+msgstr "Programmazione WML"
 
 #: Invasion_from_the_Unknown/about.cfg:32
 msgid "Graphics"
-msgstr ""
+msgstr "Grafica"
 
 #: Invasion_from_the_Unknown/about.cfg:51
 msgid "Sound effects"
-msgstr ""
+msgstr "Effetti sonori"
 
 #: Invasion_from_the_Unknown/about.cfg:56
 msgid "Music"
-msgstr ""
+msgstr "Musica"
 
 #: Invasion_from_the_Unknown/about.cfg:61
 msgid "Additional thanks to"
-msgstr ""
+msgstr "Ringraziamenti a"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:4
 msgid "Border Patrol"
-msgstr ""
+msgstr "Pattuglia di confine"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:22
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:41
@@ -100,56 +107,64 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:36
 #: Invasion_from_the_Unknown/scenarios/12x_Interlude.cfg:16
 msgid "Galas"
-msgstr ""
+msgstr "Galas"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:51
 msgid "Surhan"
-msgstr ""
+msgstr "Surhan"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:72
 msgid "Grumnyr"
-msgstr ""
+msgstr "Grumnyr"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:106
 msgid "Aledil"
-msgstr ""
+msgstr "Aledil"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:118
 msgid "Hold fight as long as possible"
-msgstr ""
+msgstr "Continua a combattere il più possibile"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:119
 msgid "Start recruiting just in case."
-msgstr ""
+msgstr "Inizia a reclutare se vuoi."
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:125
 msgid "Move on, bunch of jerks, let us claim these lands for the Master!"
 msgstr ""
+"Muovetevi, branco di incapaci, dobbiamo reclamare queste terre per il "
+"padrone!"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:126
 msgid "Be careful, we were warned that there are still elves in this valley."
 msgstr ""
+"Fa' attenzione, ci hanno avvertito che ci sono ancora degli elfi in questa "
+"valle."
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:127
 msgid "That doesn't matter. We'll tear them to pieces, if they dare oppose us!"
-msgstr ""
+msgstr "Me ne frego. Li faremo a pezzi se osano fare resistenza!"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:128
 msgid ""
 "Humans in the southern dunes. It has been quite a long time without they "
 "wandering around."
 msgstr ""
+"Uomini sulle dune meridionali. È parecchio che non si perlustrano la zona."
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:129
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:367
 msgid "What should we do?"
-msgstr ""
+msgstr "Cosa dovremmo fare?"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:130
 msgid ""
 "Law is that we should always grant refuge to wanderers. But I somehow feel "
 "that this is a hostile group. In any case, let us wait before doing anything."
 msgstr ""
+"Secondo la legge dovremmo sempre offrire un rifugio ai viaggiatori. Però ho "
+"la sensazione che questo sia un gruppo ostile. Ad ogni modo, aspettiamo "
+"prima di fare qualcosa."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1607
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:240
@@ -162,15 +177,15 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1072
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1103
 msgid "Very well."
-msgstr ""
+msgstr "Benissimo."
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:151
 msgid "Attack! Let no one alive!"
-msgstr ""
+msgstr "All'attacco! Non fate prigionieri!"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:155
 msgid "They are attacking us!"
-msgstr ""
+msgstr "Ci stanno attaccando!"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:157
 msgid ""
@@ -178,10 +193,13 @@ msgid ""
 "outsiders enter our valley. I don't like this, but we shall have to kill "
 "their leaders."
 msgstr ""
+"Le nostre leggi sono molto chiare e severe su questo argomento. Non "
+"permetteremo a estranei ostili entrare nella nostra valle. Non mi piace ma "
+"dovremo uccidere i loro comandanti."
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:160
 msgid "Defeat both enemy leaders"
-msgstr ""
+msgstr "Sconfiggi i due comandanti nemici"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:156
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:197
@@ -210,7 +228,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:371
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:417
 msgid "Death of Galas"
-msgstr ""
+msgstr "Morte di Galas"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:158
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:199
@@ -236,47 +254,52 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:376
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:422
 msgid "Turns run out"
-msgstr ""
+msgstr "Fine dei turni"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:194
 msgid " *Argh* I have been... defeated..."
-msgstr ""
+msgstr " *Argh* Sono stato... sconfitto..."
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:204
 msgid ""
 "Oh no, their reinforcements have arrived! Our group is not strong enough to "
 "defend the valley from a full-sized army!"
 msgstr ""
+"Oh no, sono arrivati i loro rinforzi! Il nostro gruppo non è abbastanza "
+"forte oer difendere la valle da un esercito a pieni ranghi!"
 
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:210
 msgid ""
 "We defeated them on time. That raiding party was quite large for a typical "
 "tribe of humans. I hope that my fears are wrong."
 msgstr ""
+"Li abbiamo sconfitti appena in tempo. Questo gruppo di razziatori era "
+"piuttosto numeroso per una tribù tipica di uomini. Spero che i miei timori "
+"fossero infondati."
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:4
 msgid "Forced from Home"
-msgstr ""
+msgstr "Esiliati"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:82
 msgid "General Duran"
-msgstr ""
+msgstr "Generale Duran"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:83
 msgid "Kaldor"
-msgstr ""
+msgstr "Kaldor"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:84
 msgid "Landor"
-msgstr ""
+msgstr "Landor"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:85
 msgid "Dante"
-msgstr ""
+msgstr "Dante"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:99
 msgid "Resist for as long as you can"
-msgstr ""
+msgstr "Resisti il più possibile"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:157
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:198
@@ -298,77 +321,89 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:663
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:216
 msgid "Death of Analia"
-msgstr ""
+msgstr "Morte di Analia"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:109
 msgid "Fire! Fire in the frontier! It must be an invasion!"
-msgstr ""
+msgstr "Fuoco! Fuoco alla frontiera! Deve essere un'invasione!"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:122
 msgid "Vólrand"
-msgstr ""
+msgstr "Vólrand"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:131
 msgid ""
 "Indeed, my lord! It's an entire human army, and they move fast to surround "
 "us!"
 msgstr ""
+"Esatto, mio signore! È un esercito di uomini al completo e stanno manovrando "
+"velocemente per circondarci!"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:134
 msgid "Analia"
-msgstr ""
+msgstr "Analia"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:154
 msgid ""
 "An entire army? That's impossible, something like that has never been seen "
 "since the Golden Age! You must be wrong."
 msgstr ""
+"Un esercito al completo! È impossibile, è una cosa che non si è mai più "
+"vista dall'età dell'oro! Ti stai sbagliando."
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:155
 msgid "I doubt that. My eyes and those of my fellow scouts don't lie!"
 msgstr ""
+"Ne dubito. I miei occhi e quelli dei miei compagni esploratori non mentono!"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:156
 msgid ""
 "If that is actually true, we must prepare to fight. Nobody will take over "
 "this valley, having an entire army or not! Men, to arms!"
 msgstr ""
+"Se fosse vero, dovremmo prepararci a combattere. Nessuno conquisterà questa "
+"valle, che sia un esercito al completo o no! Uomini, alle armi!"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:173
 msgid "The darkness... who knows what perils await us there?"
-msgstr ""
+msgstr "L'oscurità... chi sa quali sono i pericoli che ci attendono?"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:174
 msgid ""
 "Unfortunately, if we are to survive, our only option is to go in there. Come "
 "on, men!"
 msgstr ""
+"Sfortunatamente, se vogliamo sopravvivere, la nostra scelta obbligata è di "
+"entrarci. Coraggio, uomini!"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:210
 msgid "What was that!?"
-msgstr ""
+msgstr "Cosa è stato!?"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:211
 msgid "Oh my... what's that thing?"
-msgstr ""
+msgstr "Perbacco... cos'è questo?"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:212
 msgid "I sense a great evil coming from there... This is not good."
-msgstr ""
+msgstr "Percepisco il male che emana da qui... Pessimo segno."
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:233
 msgid "Their numbers are unlimited! I don't think we'll resist their siege."
-msgstr ""
+msgstr "Non finiscono mai. Non penso che potremo resistere al loro assedio."
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:234
 msgid ""
 "This is worse than I expected. So it is true, there are still humans left on "
 "this continent, and they have built an army, a big and organized one."
 msgstr ""
+"È peggio di quello che mi aspettavo. Allora è vero, sono rimasti ancora "
+"degli uomini su questo continente, e hanno raccolto un esercito, vasto e "
+"organizzato."
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:235
 msgid "What would you suggest?"
-msgstr ""
+msgstr "Cosa suggeriresti?"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:236
 msgid ""
@@ -376,12 +411,17 @@ msgid ""
 "to have the forces of evil by their side. So, I say withdraw to the northern "
 "caves."
 msgstr ""
+"Se rimaniamo ancora qua, saremo condannati; tanto più che pare abbiano le "
+"forze del male dalla loro parte. Perciò, io dico di ritirarci nelle caverne "
+"settentrionali."
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:237
 msgid ""
 "The caves? But, but... nobody has stepped on them for centuries! We don't "
 "know what may be lurking in there!"
 msgstr ""
+"Le caverne? Ma, ma... nessuno ci ha più messo piede da secoli! Non sappiamo "
+"cosa ci sia in agguato là dentro!"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:238
 msgid ""
@@ -392,44 +432,51 @@ msgid ""
 "find a safer place. This valley is no longer safe. Even if we defeated them "
 "here, which I doubt, more will come sooner or later."
 msgstr ""
+"Sì, lo so, ma ora è la nostra unica possibilità. Stiamo per essere "
+"circondati da est, ovest e sud. Se ci ritiriamo verso nord in superfice, ci "
+"prenderanno in un paio di giorni. D'altra parte, se scendiamo sottoterra "
+"avremo la possibilità di bloccargli la strada, in modo che potremo andarcene "
+"lontani da loro e trovare un luogo sicuro. Questa valle non è più sicura. "
+"Anche se ora li sconfiggessimo qua, cosa che mi pare improbabile, ne "
+"arriveranno altri presto o tardi."
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:239
 msgid "I see that there is no alternative but to flee to the caves."
-msgstr ""
+msgstr "Non vedo alternative se non quella di fuggire nelle caverne."
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:244
 msgid "New Objectives:"
-msgstr ""
+msgstr "Nuovi obiettivi:"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:245
 msgid "Move Galas and Analia inside the north-eastern cave"
-msgstr ""
+msgstr "Sposta Galas e Analia nella caverna nord-orientale"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:309
 msgid "Make haste, Galas, or the enemies will get you!"
-msgstr ""
+msgstr "Affrettati, Galas, altrimenti i nemici ti raggiungeranno!"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:350
 msgid "Hurry up, Analia, or the enemies will catch you!"
-msgstr ""
+msgstr "Spicciati, Analia, altrimenti i nemici ti prenderanno!"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:362
 msgid "We did not make it in time. We are doomed..."
-msgstr ""
+msgstr "Non abbiamo fatto in tempo. Siamo condannati..."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:5
 msgid "Horrors from the Depths"
-msgstr ""
+msgstr "Orrore dagli abissi"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:36
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:370
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1035
 msgid "Mal Keshar"
-msgstr ""
+msgstr "Mal Keshar"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:155
 msgid "Explore the caves"
-msgstr ""
+msgstr "Esplora le caverne"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:164
 msgid ""
@@ -437,12 +484,18 @@ msgid ""
 "she causing the cave entrance to collapse with a magic spell. They would be "
 "safe for enough time to get far from there and find an exit, hopefully."
 msgstr ""
+"Dopo gli sopravvissuti, Galas e Analia entrarono nella caverna e lei con un "
+"in cantesimo fece crollare l'ingresso della caverna. Se tutto andava bene, "
+"sarebbero stati al sicuro abbastanza a lungo per allontanarsi e trovare "
+"un'uscita."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:166
 msgid ""
 "We lost our home... at hands of those fiends... what will we do now? Where "
 "will we go?"
 msgstr ""
+"Abbiamo perso la nostra patria... a causa di quei demoni... cosa faremo ora? "
+"Dove andremo?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:167
 msgid ""
@@ -450,6 +503,9 @@ msgid ""
 "we always have found a new one. I don't think it will be any different this "
 "time."
 msgstr ""
+"Non disperare, galas. Non è la prima volta che perdiamo la nostra terra e ne "
+"abbiamo sempre trovata un'altra. Non penso che questa volta andrà "
+"diversamente."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:168
 msgid ""
@@ -457,6 +513,9 @@ msgid ""
 "But Analia, you mentioned something about an evil force just before deciding "
 "to flee, what did you mean?"
 msgstr ""
+"Spero che sia davvero così. Dunque dovremmo continuare in queste caverne. Ma "
+"Analia, poco prima che decidessimo di fuggire stavi parlando di una forza "
+"malefica, cosa volevi dire?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:169
 msgid ""
@@ -465,10 +524,14 @@ msgid ""
 "worse, something that we supposedly had already vanquished... but now I "
 "realize it was not, at least not completely..."
 msgstr ""
+"Dicevo che questi uomini avevano una forza malvagia e potente con loro; non "
+"i soliti luridi necromanti e le loro bestie non-morte, ma qualcosa di "
+"peggio, qualcosa che apparentemente avevamo già sconfitto... ma adesso "
+"capisco che non è stato così, almeno non completamente..."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:170
 msgid "I still don't understand. What had we supposedly vanquished before?"
-msgstr ""
+msgstr "Ancora non capisco. Cosa avremmo apparentemente sconfitto in passato?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:171
 msgid ""
@@ -479,93 +542,114 @@ msgid ""
 "looking back, our valley is probably in ruins by now, something that really "
 "saddens me, but we must live with it."
 msgstr ""
+"Nulla che tu dovresti sapere, ragazzo imprudente! Non pensarci nemmeno a "
+"chiederlo di nuovo; a volte la verità non dovrebbe essere rivelata se non "
+"strettamente necessario e questo caso non è il caso. Adesso suggerisco di "
+"trovare una uscita prima che capiscano come aprire di nuovo l'ingresso. Non "
+"possiamo guardarci indietro, la nostra valle ormai è probabilmente in "
+"rovina, è una cosa che mi rende triste, ma ci devo convivere."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:176
 msgid ""
 "I suppose so... Let us find an exit, but, this cave system has never been "
 "explored before."
 msgstr ""
+"Suppongo di sì... Troviamo una uscita, questo sistema di caverne non è mai "
+"stato esplorato prima."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:177
 msgid ""
 "I wish we had more experience at moving in this darkness. This will be a "
 "long exploration."
 msgstr ""
+"Vorrei che fossimo più esperti a muoverci nel buio. Sarà un'espolorazione "
+"molto lunga."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:189
 msgid "Undead! There are undead here!"
-msgstr ""
+msgstr "Non-morti! Qua ci sono dei non-morti!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:191
 msgid "We were not aware of undeads roaming these caves!"
-msgstr ""
+msgstr "Non sapevamo nulla di non-morti che bazzicavano in queste caverne!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:192
 msgid "I guess we'll have to deal with them before finding the exit."
-msgstr ""
+msgstr "Temo che dovremo avere a che fare con loro prima di trovare l'uscita."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:195
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:225
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:681
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:660
 msgid "New objectives:"
-msgstr ""
+msgstr "Nuovi obiettivi:"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:196
 msgid "Find the undead enemy leader"
-msgstr ""
+msgstr "Trova il comandante dei non-morti"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:212
 msgid "Who is this foul enemy that tries to kill us?"
-msgstr ""
+msgstr "Chi è il nemico così stupido"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:215
 msgid "I am Mal Keshar, and I will avenge myself upon you all!"
-msgstr ""
+msgstr "Sono Mal Keshar e la mia vendetta si abbatterà su tutti voi!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:216
 msgid "Keshar? That name..."
-msgstr ""
+msgstr "Keshar? Questo nome..."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:217
 msgid ""
 "Your kind has tried numerous times to vanquish me, but you simply can't. I "
 "am more powerful than you or those foul orcs! Now, prepare to die."
 msgstr ""
+"La vostra razza ha tentato diverse di sconfiggermi, ma semplicemente non "
+"potete riuscirci. Sono più potente di voi o di quei luridi orchi! Ora, "
+"preparatevi a morire."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:218
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:581
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1067
 msgid "Analia?"
-msgstr ""
+msgstr "Analia?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:219
 msgid ""
 "I could swear I read his name in old scrolls about the Golden Age, but I'm "
 "not sure."
 msgstr ""
+"Potrei giurare di aver letto il suo nome in vecchie pergamene dell'età "
+"dell'oro, ma non ne sono sicuro."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:220
 msgid ""
 "If that is true, then we are facing a possibly indestructibe foe. Is there "
 "any other option?"
 msgstr ""
+"Se questo fosse vero, saremmo di fronte a un nemico probabilmente "
+"indistruttibile. Abbiamo altra scelta?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:221
 msgid ""
 "We cannot go back, there is no escape way except this one. We must defeat "
 "him before he does it to us first!"
 msgstr ""
+"Non possiamo tornare indietro, non ci sono vie di uscita tranne questa. "
+"Dobbiamo sconfiggerlo prima che egli sconfigga noi!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:226
 msgid "Defeat Mal Keshar"
-msgstr ""
+msgstr "Sconfiggi Mal Keshar"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:300
 msgid ""
 "I can't believe it. I have been finally defeated. Then, my battle against "
 "the orcs is lost! But, I still stand..."
 msgstr ""
+"Non posso crederci. Alla fine sono stato sconfitto. Allora la mia battaglia "
+"contro gli orchi è perduta! Ma, io ancora resisto..."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:302
 msgid ""
@@ -573,6 +657,10 @@ msgid ""
 "the darkness for a noble cause fought in an improper way. But then, you are "
 "the living proof that everything from the Golden Age has died and dried up."
 msgstr ""
+"Dunque sei tu, Mal Keshar, un tempo noto come Malin Keshar. Quello che cadde "
+"nell'oscurità per combattere una nobile causa con i modi sbagliati. Dunque "
+"tu sei la prova vivente che tutto quello che apparteneva all'età dell'oro è "
+"morto e sepolto."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:303
 msgid ""
@@ -580,16 +668,21 @@ msgid ""
 "which don't. I still feel, and I am aware of the current situation of "
 "Wesnoth."
 msgstr ""
+"Stupida ragazza! Io sono un lich, ma ho ancora la mia volontà a differenza "
+"dei miei sgherri che l'hanno perduta. Io sento ancora e conosco la "
+"situazione attuale di Wesnoth."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:304
 msgid "Wesnoth? What is that?"
-msgstr ""
+msgstr "Wesnoth? Cos'è?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:305
 msgid ""
 "The name that used to be the name of what we call the lands at the south of "
 "the Swamps of Dread, West from the Silver Lands."
 msgstr ""
+"È così che chiamavamo le terre a sud delle paludi del terrore e a ovest "
+"delle terre d'argento."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:306
 msgid ""
@@ -597,6 +690,9 @@ msgid ""
 "cannot go to the surface now that the land is under the control of the "
 "forces of Evil."
 msgstr ""
+"Già, e credo che la mia sete di morte degli orchi non verrà mai meno. Ecco "
+"perché non posso raggiungere la superfice ora che la terra è sotto il "
+"controllo delle forze del male."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:307
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:321
@@ -605,7 +701,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:397
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:335
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:308
 msgid ""
@@ -615,6 +711,11 @@ msgid ""
 "Fall, I have been hiding here, but I send minions to the outter world from "
 "time to time, to collect news from there."
 msgstr ""
+"La vostra gente è sempre punito la necromanzia perché credeva che fosse la "
+"peggior malvagità che potesse esser fatta a un morto. Comunque, si "
+"sbagliavano. Ho visto cose che anche io considero degli abominii. Per tutti "
+"questi secoli, dopo la “caduta”, sono rimasto nascosto qua ma ho mandato i "
+"miei servi bel modo esterno di tanto in tanto per raccogliere notizie."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:309
 msgid ""
@@ -625,16 +726,24 @@ msgid ""
 "encampments were left in the desert. They were called, in my time, demons. I "
 "suppose you remember them, do you?"
 msgstr ""
+"Alcuni secoli fa, un'ombra malvagia proveniente dal vasto oceano ha coperto "
+"la terra e una presenza maligna ha iniziato a inghiottire tutte le creature "
+"viventi. All'inizio non sapevo cosa fosse, ma dopo un certo tempo le "
+"mostruosità del mondo sotterraneo hanno cominciatoa razziare e distruggere "
+"gli accampamenti rimasti nel deserto fossero di uomini, elfi o orchi. Ai "
+"miei tempi erano chiamati demoni. Suppongo li ricordiate anche voi, vero?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:310
 msgid ""
 "We do, but it is not possible! The demon lord was vanquished by Eloh a long "
 "time ago!"
 msgstr ""
+"Sì, ma non è possibile! Il signore dei demoni è stato sconfitto da Eloh "
+"molto tempo fa!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:311
 msgid "What are you talking about?"
-msgstr ""
+msgstr "Di che stai parlando?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:312
 msgid ""
@@ -644,16 +753,24 @@ msgid ""
 "their horrendous experiments, would be the Wesnothian magi. Their arrogancy "
 "only led them, and therefore, all of us, to this chaotic future."
 msgstr ""
+"Fu solo l'inizio della nostra condanna. Secondo me qualcosa o qualcuno ha "
+"aperto un portale per il cuore degli inferi, liberando le forze del male e "
+"permettendo loro di entrare nel nostro mondo. Le uniche persone a cui potrei "
+"dare la colpa, per i loro terribili esperimenti, sarebbero i maghi di "
+"Wesnoth. La loro arroganza ha guidato loro, e quindi tutti noi, a questo "
+"futuro caotico."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:313
 msgid "So that is what attacked us in our valley..."
-msgstr ""
+msgstr "Allora è questo che ci ha attaccato nella nostra valle..."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:314
 msgid ""
 "We need to escape from these caves, but then, we'll have to face the evil "
 "that roams above us, right now. What could we do?"
 msgstr ""
+"Dobbiamo fuggire da queste caverne, ma poi dovremo subito affrontare il male "
+"che aleggia sopra di noi. E allora cosa facciamo?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:315
 msgid ""
@@ -661,10 +778,13 @@ msgid ""
 "are in numeric disadvantage, let alone say that you don't have the powers "
 "necessary to fight against the demons."
 msgstr ""
+"Sareste uccisi, torturati e convertiti in poche ore. Siete numericamente "
+"inferiori, lasciatemi dire che non avete i poteri che servono per combattere "
+"contro i demoni."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:316
 msgid "But you do, don't you?"
-msgstr ""
+msgstr "Ma tu sì, vero?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:317
 msgid ""
@@ -672,12 +792,17 @@ msgid ""
 "anything myself, but I'm not afraid of dying. After all, I have nothing left "
 "except my old bones."
 msgstr ""
+"Nah, non ne sono sicuro. È passato molto tempo dall'ultima volta che ho "
+"combattutto in prima persona, ma non ho paura di morire. Dopotutto, non mi "
+"rimane altro che le mie vechie ossa."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:318
 msgid ""
 "I guess we won't find a new home, a safe one, unless we vanquish those "
 "fiends."
 msgstr ""
+"Di sicuro non troveremo una nuova patria sicura finché non sconfiggeremo "
+"questi demoni."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:319
 msgid ""
@@ -685,10 +810,14 @@ msgid ""
 "help us they did not have. It was a miracle for them for Eloh appearing on "
 "land to vanquish the evil. That won't happen again."
 msgstr ""
+"Sono d'accordo, ma la nostra razza ci ha già provato in passato e ha "
+"fallito. Non abbiamo nessun aiuto che loro non avessero. È stato un miracolo "
+"per loro che Eloh apparisse sulla terra per sconfiggere il male. Non accadrà "
+"un'altra volta."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:320
 msgid "You would only need the power of the Union."
-msgstr ""
+msgstr "Avete solo bisogno del potere dell'unione."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:322
 msgid ""
@@ -696,21 +825,26 @@ msgid ""
 "the one who saved you from that evil, but the power of the Union, at hands "
 "of the Master of Darkness and the Lady of Light."
 msgstr ""
+"La vostra sacerdotessa suprema sa molto bene che non è stata la vostra dea "
+"da sola che vi ha salvato dal male, ma il potere dell'“unione”, a portata di "
+"mano del signore dell'oscurità e della signora della luce."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:323
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:146
 msgid "No!"
-msgstr ""
+msgstr "No!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:324
 msgid ""
 "He's right, Galas. That is part of the truth we did not want our people to "
 "find out, so we kept it in secret for centuries."
 msgstr ""
+"Hai ragione, Galas. Questa è la parte di verità che non volevamo che il "
+"nostro popolo scoprisse, perciò l'abbiamo tenuta segreta per secoli."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:325
 msgid "But then, how are we so sure that Eloh does exist?"
-msgstr ""
+msgstr "Ma allora, come facciamo a essere sicuri che Eloh esista ddavvero?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:326
 msgid ""
@@ -718,6 +852,10 @@ msgid ""
 "herself did not vanquish this demon lord, she did send two warriors for that "
 "purpose. The proof is that they came from nowhere and went to nowhere."
 msgstr ""
+"È una questione di fede. È troppo tardi per mettere alla prova le nostre "
+"credenze. Anche se Eloh non ha sconfitto personalmente questo signore dei "
+"demoni, ha mandato due guerrieri per questo compito. Lo prova il fatto che "
+"sono venuti dal nulla e sono scomparsi nel nulla."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:327
 msgid ""
@@ -728,20 +866,29 @@ msgid ""
 "place, just sleeping. If you could awake her, you would have half the power "
 "possibly necessary to defeat whoever is the master mind of this cruel plot."
 msgstr ""
+"In realtà, raggiunsero un luogo molto profondo nel cuore della terra. Ho "
+"sentito la loro presenza scendendo nelle profondità. Tuttavia, uno di loro, "
+"il signore dell'oscurità, scomparve davvero da questo mondo, pare, e ho "
+"perso le sue tracce. La signora della luce sembra sia rimasta in questo "
+"mondo, in quel luogo addormentata. Se poteste scegliarla, avreste metà del "
+"potere probabilmente necessario per sconfiggere colui che è la mente dietro "
+"questo piano crudele."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:328
 msgid "But we don't know how or where she is."
-msgstr ""
+msgstr "Ma non sappiamo dove si trovi."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:329
 msgid "Right, but you could lead us, couldn't you, Mal Keshar?"
-msgstr ""
+msgstr "Già, ma tu potresti guidarci, vero, Mal Keshar?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:340
 msgid ""
 "What?! But lady, he is a lich, a necromancer! We cannot have such an "
 "abomination in our side!"
 msgstr ""
+"Cosa?! Ma signora, è un lich, un necromante! Non possiamo avere un simile "
+"abominio dalla nostra parte!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:341
 msgid ""
@@ -749,6 +896,10 @@ msgid ""
 "without help of this necromancer, and we need his help to locate our "
 "saviors. After all, weren't you fighting for a noble cause, Malin Keshar?"
 msgstr ""
+"I tempi sono cambiati e anche le nostre necessità. Oggi non vedo altri modi "
+"per sopravvivere senza l'aiuto di questo necromante e ci serve il suo aiuto "
+"per localizzare i nostri salvatori. Dopotutto, non combattevi per una nobile "
+"causa, Mal Keshar?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:342
 msgid ""
@@ -756,20 +907,26 @@ msgid ""
 "was the right one, as it led me to this state, and anyway, I'd prefer to do "
 "some real good before the end of this world."
 msgstr ""
+"Sissignora, ma ora capisco che la mia causa era perversa; non sono nemmeno "
+"sicuro che fosse giusta dato lo stato a cui mi ha condotto, e comunque "
+"preferirei preferirei fare qualcosa di veramente buono prima della fine di "
+"questo mondo."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:343
 msgid "Alright, he will fight for our cause then."
-msgstr ""
+msgstr "Benissimo, combatterà per la nostra causa allora."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:344
 msgid "This is madness!"
-msgstr ""
+msgstr "È una follia!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:345
 msgid ""
 "Keep your mouth shut, soldier. Whatever is the decission of a high "
 "sorceress, we must respect it."
 msgstr ""
+"Tappati la bocca, soldato. Dobbiamo rispettare le decisioni di una "
+"sacerdotessa siprema, qualunque siano."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:346
 msgid ""
@@ -777,14 +934,17 @@ msgid ""
 "friendly dialogue since I arrived here. I hereby place me and my powers to "
 "your service, elves."
 msgstr ""
+"Sei molto gentile. Sei la prima persona con la quale ho avuto un dialogo "
+"amichevole da quando sono arrivato qua. Io e i miei poteri sono al vostro "
+"servizio, elfi."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:351
 msgid "You can now recruit undead units!"
-msgstr ""
+msgstr "Ora puoi reclutare dei non-morti!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:353
 msgid "So, where are we supposed to go?"
-msgstr ""
+msgstr "E adesso, dove dovremmo andare?"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:354
 msgid ""
@@ -795,25 +955,35 @@ msgid ""
 "creatures, so I'd rather avoid it while we gather the necessary power to "
 "fight against them."
 msgstr ""
+"Dobbiamo dirigerci a ovest. A nord dell'antica patria degli elfi Wesmere ci "
+"sono le montagne da cui arrivarono i salvatori, le caverne di Knalga, un "
+"regno antico e decaduto. Anche se passando dai luoghi dove c'era la foresta "
+"Wesmere arriveremmo prima, ora quei luoghi sono infestati da queste dannate "
+"creature, perciò io li eviterei mentre raccogliamo la forza necessarie per "
+"combatterle."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:355
 msgid "Then north west we shall go."
-msgstr ""
+msgstr "Allora andremo a nord-est."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:356
 msgid "The exit is not too far from here, going down this subterranean river."
-msgstr ""
+msgstr "L'uscita è qui vicino, più avanti lungo il fiume sotterraneo."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:403
 msgid "Maeglin the Black"
-msgstr ""
+msgstr "Maeglin il nero"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:405
+#, fuzzy
 msgid ""
 "Cheating, huh?\n"
 "\n"
 "*<0,127,0>Deserves a lock."
 msgstr ""
+"Hai barato, vero?\n"
+"\n"
+"*<0,127,0>Ti meriti un blocco."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:433
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:454
@@ -831,49 +1001,55 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:558
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:631
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1217
+#, fuzzy
 msgid "Touchplate triggered. A wall moves."
-msgstr ""
+msgstr "Pulsante premuto. Un muro si muove."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:494
+#, fuzzy
 msgid "Touchplate triggered. Two walls move."
-msgstr ""
+msgstr "Pulsante premuto. Due muri si muovono."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:518
+#, fuzzy
 msgid "Touchplate triggered. A road rises from the abyss, and a wall moves."
-msgstr ""
+msgstr "Pulsante premuto. Un passaggio sale dall'abisso e un muro si muove."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:547
 msgid "Dang, this chest is empty!"
-msgstr ""
+msgstr "Dannazione, questo scrigno è vuoto!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:562
 msgid "What the... what was that?! Oh!! Yelp!"
-msgstr ""
+msgstr "Ma cosa... Cosa è stato?! Oh!! Aiuto!"
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:565
 msgid "The cave's roof collapses, crushing the poor helpless units beneath it."
 msgstr ""
+"Il soffitto della caverna crolla, travolgendo le disgraziate unità inermi "
+"sotto di esso."
 
 #: Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:591
 msgid "Oh no, hurry, we must... AAARGH!!!"
-msgstr ""
+msgstr "Oh no, presto, dobbiamo... AAARGH!!!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:4
 msgid "Over the Sands"
-msgstr ""
+msgstr "Attraverso la sabbia"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:56
 msgid "Karun Baghar"
-msgstr ""
+msgstr "Karun Baghar"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:101
 msgid "Lana"
-msgstr ""
+msgstr "Lana"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:312
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:718
 msgid "Galas, Analia or Mal Keshar must reach the North-west border of the map"
 msgstr ""
+"Galas, Analia o Mal Keshar devono raggiungere il bordo nord-ovest della mappa"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:315
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:685
@@ -896,26 +1072,30 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:373
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:419
 msgid "Death of Mal Keshar"
-msgstr ""
+msgstr "Morte di Mal Keshar"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:322
 msgid ""
 "Here you are, the outside. Not too different from the last report of some "
 "years ago... or centuries, I don't know."
 msgstr ""
+"Eccoci fuori. NOn è cambiato granché dal nostro ultimo rapporto di qualche "
+"anno... o secolo fa, non so."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:323
 msgid ""
 "Everything is so... dry... There is no plant that could grow up under this "
 "heat!"
 msgstr ""
+"Tutto è così... arido... Non c'è una pianta che possa crescere in questa "
+"fornace!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:324
 msgid ""
 "That is why our people moved to that valley, to protect themselves from "
 "death in the desert. Not all of them found the valley, though. We have "
 "always wondered what happened to them."
-msgstr ""
+msgstr "Ecco perché il nostro popolo ha lasciato questa valle, per proteggere "
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:325
 msgid ""
@@ -923,21 +1103,27 @@ msgid ""
 "suns, the lack of water and food, it would be at hands of foul savage orcs "
 "or nomadic bandits."
 msgstr ""
+"Da quel che so, potrebbero solo morire nel deserto. Se non muoiono per i "
+"soli infuocati, la mancanza di cibo e acqua, allora sarebber per mano dei "
+"luridi orchi selvaggi o dei banditi nomadi."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:326
 msgid ""
 "I suppose so. But, where are we? Ancient explorations are useless in this "
 "desert, that could have been a forest before the Fall."
 msgstr ""
+"Suppongo di sì. Ma, dove siamo? Le antiche esplorazioni non ci servono in "
+"questo deserto che potrebbe essere stato una foresta prima della “caduta”."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:327
 msgid ""
 "If I remember correctly, we are approaching to Longlier, the River of Bones."
 msgstr ""
+"Se mi ricordo bene, ci stiamo avvicinando a Longlier, il fiume di ossa."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:328
 msgid "A river? Great, then we could renew our water supplies there."
-msgstr ""
+msgstr "Un fiume? Magnifico, allora potremo rifornirci di acqua."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:329
 msgid ""
@@ -945,76 +1131,93 @@ msgid ""
 "not pure. Living beings don't live for long without water, so you must fill "
 "the supplies in this oasis before departing towards Northwest."
 msgstr ""
+"Ne dubito. È stato prosciugato dal sole e se c'è ancora dell'acuqa non "
+"sarebbe pura. Gli esseri viventi non vivono a lungo senza acqua perciò "
+"dovrete rifornirvi in questa oasi prima di partire verso bord-ovest."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:331
 msgid ""
 "TODO: in the future there should be a dehydratation mechanism here, that "
 "affected all side 1 units except undead."
 msgstr ""
+"Da fare: in futuro ci sarà un meccanismo di disidratazione che colpirà tutte "
+"le unità del campo 1 tranne i non-morti."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:333
 msgid "Fair enough, let's go."
-msgstr ""
+msgstr "È ragionevole, andiamo."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:351
 msgid "Ah? Elves? I must be hallucinating again..."
-msgstr ""
+msgstr "Eh? Elfi? Ho di nuovo le traveggole..."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:356
 msgid "This doesn't look good..."
-msgstr ""
+msgstr "Non è una bella situazione..."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:361
 msgid ""
 "But I never had hallucinations that could speak. Intruders! And they are "
 "elves! Go get'em!"
 msgstr ""
+"Ma non ho avuto delle allucinazioni parlanti. Intrusi! E sono elfi! "
+"Prendiamoli!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:366
 msgid ""
 "Anyone who dares oppose us shall perish, does not matter if it's orc or "
 "human."
-msgstr ""
+msgstr "Chi osa oporsi a noi morirà, non importa che sia un orco o un uomo."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:371
 msgid "Orcs... good. It has been a long time since I defeated one myself!"
 msgstr ""
+"Orchi... bene. È passato molto tempo da quando ne ho eliminato uno con le "
+"mie mani!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:376
 msgid ""
 "We could ignore them and continue our journey, but I'm not sure if it would "
 "be a good idea."
 msgstr ""
+"Potremmo ignorarli e continuare il nostro viaggio, ma non sono sicuro che "
+"sarebbe una buona idea."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:408
 msgid "Undead! Everyone, to arms! It's an invasion!"
-msgstr ""
+msgstr "Non-morti! Tutti alle armi! È un'invasione!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:413
 msgid ""
 "Somebody should catch that idiot and cut his tongue. Now that he has given "
 "alarm to his friends we'll have to deal with them!"
 msgstr ""
+"Qualcuno dovrebbe prendere questo idiota e tagliarli la lingua. Adesso che "
+"ha dato l'allarme ai suoi amici, dovremo affrontarli!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:438
 msgid "Ah? What is that thing?"
-msgstr ""
+msgstr "Eh? Cos'è questa cosa?"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:443
 msgid ""
 "It is a scorpion, inhabitants of the sands. Beware, their tail has a "
 "poisonous claw that could tresspass your heart in a second."
 msgstr ""
+"È uno scorpione delle sabbie. Fate attezione, la coda ha un pungiglione "
+"velenoso che potrebbe trapassarvi il cuore in un attimo."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:457
 msgid "Rooaargh!!"
-msgstr ""
+msgstr "Rooaargh!!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:462
 msgid ""
 "I have seen odd things in my life, but that is just ridiculous! A crawling "
 "glob of mud?"
 msgstr ""
+"Ne ho viste di cose strane in vita mia, ma questo è solo ridicolo! Un "
+"mucchio di fango strisciante?"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:467
 msgid ""
@@ -1022,108 +1225,121 @@ msgid ""
 "means. Although they are not specially tough, if you get surrounded by a "
 "pack of them you will have serious trouble."
 msgstr ""
+"È vero che striscia, ma non è solo un mucchio di fango, ma è stato animato "
+"con la magia. Anche se non particolarmente resistente, se foste circondati "
+"da un gruppo di questi saresti in guai seri."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:487
 msgid "Me thinks hungry be. Elves be tasty, yes. Tasty will eaten be."
-msgstr ""
+msgstr "Io penso fame ho. Elfi gustosi sono, sì. Gustosi mangiati voglio."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:492
 msgid "I don't really think I taste good. Uh-oh."
-msgstr ""
+msgstr "Non penso di essere gustoso, io. Oh-oh."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:513
 msgid "Aaah, undeady! I crack you will do!"
-msgstr ""
+msgstr "Aaah, non-morto! A pezzi ti farò!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:518
 msgid "We'll see about that."
-msgstr ""
+msgstr "Lo vedremo."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:566
 msgid "Glen"
-msgstr ""
+msgstr "Glen"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:597
 msgid "Ambushed!"
-msgstr ""
+msgstr "Imboscata!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:612
 msgid "Ha ha ha! I got you! There is no escapatory now!"
-msgstr ""
+msgstr "Ah ah ah! Presi! Adesso siete in trappola!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:617
 msgid "Aaah! Yelp!"
-msgstr ""
+msgstr "Aaah! Aiuto!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:628
 msgid "Hey, wait, it's an elf? I thought they were gone from this land!"
 msgstr ""
+"Ehi, aspetta, è un elfo? Pensavo che avessero abbandonato questa terra!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:636
 msgid ""
 "I did too, but it seems these pointy-eared demons are impossible to get rid "
 "of."
 msgstr ""
+"Lo pensavo anche io, ma pare che sia impossibile liberarsi di questo demoni "
+"con le orecchie a punta."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:641
 msgid "It matters little now. Kill it!"
-msgstr ""
+msgstr "Poco importa. Uccidilo!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:659
 msgid "Undead! These damned abominations pursue us again!"
-msgstr ""
+msgstr "Non-morti! Questi dannati abominii ci inseguono di nuovo!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:667
 msgid "Then we'll have to get rid of them once for all."
-msgstr ""
+msgstr "Allora dobbiamo liberarcene una volta per tutte."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:676
 msgid ""
 "They are blocking our path to the north west following the river's stream. "
 "We must defeat them before continuing."
 msgstr ""
+"Stanno bloccando il nostro percorso verso nord-ovest lungo la corrente del "
+"fiume. Dobbiamo sconfiggerli prima di continuare."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:682
 msgid "Defeat the leader of the bandits who control the north-western area"
 msgstr ""
+"Sconfiggi il comandante dei banditi che controllano la regione nord-ovest"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:699
 msgid "Ouch! Puny weakling, you won't beat meee..."
-msgstr ""
+msgstr "Acc! Meschini smidollati, non mi sconfiggereteee..."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:704
 msgid "Uh... looks like I did."
-msgstr ""
+msgstr "Ah... pare che l'abbiamo fatto."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:709
 msgid ""
 "These bandits seem to have accumulated some gold. It's not a great amount, "
 "but it will do for our needs."
 msgstr ""
+"Pare che questi banditi abbiano accumulato dell'oro. Non è molto, ma ci "
+"servirà."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:735
 msgid "Argh! I'm vanquished!"
-msgstr ""
+msgstr "Argh! Sono stato sconfitto!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:740
 msgid ""
 "This orc kept some gold in his tent. These must be difficult times for them, "
 "since it is not more than a few dozens, but it is better than nothing."
 msgstr ""
+"Questo orco custodiva dell'oro in questa tenda. Pare fossero tempi difficili "
+"per loro datoche sono solo poche decine di pezzi, ma è meglio di niente."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:781
 msgid "The river's bottom carves a canyon to the northwest."
-msgstr ""
+msgstr "Il fondo del fiume scava un canalone a nord-ovest."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:786
 msgid ""
 "We must follow it from outside, for I don't know how it goes up to the "
 "mountains."
-msgstr ""
+msgstr "Dobbiamo seguire all'aperto perché non so come scalare le montagne."
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:794
 msgid "We can't continue before defeating these bandits first!"
-msgstr ""
+msgstr "Non possiamo proseguire prima di aver sconfitto questi banditi!"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:812
 msgid ""
@@ -1131,6 +1347,9 @@ msgid ""
 "met us, recently. After all these centuries, shouldn't they have at least "
 "forgotten our name?"
 msgstr ""
+"C'è qualcosa che non va. Parlavano della nostra razza come se ci avessero "
+"già incontrato di recente. Dopo tutti questi secoli, non dovrebbero aver "
+"dimenticato almeno il nostro nome?"
 
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:813
 msgid ""
@@ -1138,98 +1357,109 @@ msgid ""
 "we should not let small questions such as this delay us any further. We have "
 "a mission to complete, and time is critical for it."
 msgstr ""
+"Lo penso anche io e mi domando cosa volevano dire con quel discorso. "
+"Tuttavia, non possiamo permettere che i dettagli ci ritardino ulteriormente. "
+"Abbiamo un compito da portare a termine e il tempo è critico."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:4
 msgid "Crossfire"
-msgstr ""
+msgstr "Fuoco incrociato"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:48
 msgid "Jala Nekhar"
-msgstr ""
+msgstr "Jala Nekhar"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:81
 msgid "Zemkor"
-msgstr ""
+msgstr "Zemkor"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:115
 msgid "Murlin"
-msgstr ""
+msgstr "Murlin"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:145
 msgid "Sylith"
-msgstr ""
+msgstr "Sylith"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:146
 msgid "Korzar"
-msgstr ""
+msgstr "Korzar"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:147
 msgid "Lara"
-msgstr ""
+msgstr "Lara"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:148
 msgid "Demor"
-msgstr ""
+msgstr "Demor"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:151
 msgid "Irvyn"
-msgstr ""
+msgstr "Irvyn"
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:213
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:152
 msgid "Kyra"
-msgstr ""
+msgstr "Kyra"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:153
 msgid "Tan"
-msgstr ""
+msgstr "Tan"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:154
 msgid "Gryn"
-msgstr ""
+msgstr "Gryn"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:164
 msgid "Vanquish the lich and the loyalist leader"
-msgstr ""
+msgstr "Sconfiggi il lich e il comandante lealista"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:165
 msgid "Make sure no loyalist units are left alive"
-msgstr ""
+msgstr "Assicurati che nessuna unità lealista rimanga in vita"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:166
 msgid "<0,0,255>(Optional for bonus) Defeat the fugitive leader"
-msgstr ""
+msgstr "<0,0,255>(Opzionale per bonus) Sconfiggi il comandante fuggitivo"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:177
 msgid ""
 "After a long journey, the party decided to set camp in the old river's shore "
 "for they deserved a short break. But they were not alone."
 msgstr ""
+"Dopo un lungo viaggio, il gruppo decise di alzare il campo sulle sponde del "
+"vecchio fiume per una meritata pausa. Ma non erano soli."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:179
 msgid ""
 "Get out of our encampment, foul undead, what have you done with our people?"
 msgstr ""
+"Vattene dal nostro campo, lurido non-morto, cosa c'entri con il nostro "
+"popolo?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:180
 msgid ""
 "It's your fault for leaving them alone for going hunting. Now they are quite "
 "voice-less, but well, you are next if you don't get away now."
 msgstr ""
+"È colpa vostra se li avete lasciati soli per andare a caccia. Ora sono quasi "
+"senza voce, ma ce', tu sarai il prossimo se non te ne vai ora."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:181
 msgid "Never! We shall get our revenge on you all, bastards!"
-msgstr ""
+msgstr "Mai! Avremo la nostra vendetta su tutti voi, bastardi!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:182
 msgid "Then so be it. Prepare for..."
-msgstr ""
+msgstr "Così sia. Preparatevi per..."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:183
 msgid ""
 "So undead control this river. Well, it's time to get rid of them and claim "
 "these lands for the Master!"
 msgstr ""
+"Dunque i non-morti controllano questo fiume. Be', è ora che li scacciamo e "
+"reclamiamo queste terre per il padrone!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:184
 msgid ""
@@ -1237,14 +1467,17 @@ msgid ""
 "their forces to take over all useful lands in the desert. It does not matter "
 "much, they shall perish anyway, whatever their number is."
 msgstr ""
+"Oh, allora le voci sono vere, gli uomini hanno delle forze organizzate e "
+"coordinate per impadronirsi di tutti questi territori inutii nel deserto. "
+"Non importa, moriranno tutti comunque, quale che sia il loro numero."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:185
 msgid "Blast it, the Loyalists! This might be worse than I thought."
-msgstr ""
+msgstr "Al diavolo i lealist! Potrebbe essere peggio di quel che pensavo."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:187
 msgid "Loyalists? Loyal to what? Who would they be working for?"
-msgstr ""
+msgstr "Lealisti? Leali a cosa? Per chi stanno lavorando?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:188
 msgid ""
@@ -1252,24 +1485,29 @@ msgid ""
 "all. If they are really working for a 'Master', then we must make sure they "
 "never find out what happened here."
 msgstr ""
+"Non è così importante quanto quello che ci accadrà se non li sconfiggiamo. "
+"Se stanno veramente lavorando per un “padrone“, dovremo assicurarci che non "
+"scoprano mai cosa sta succedendo qua."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:189
 msgid "So, should we kill all of them?"
-msgstr ""
+msgstr "Dunque, dovremmo ucciderli tutti?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:190
 msgid ""
 "Exactly. Additionally, we must defeat that lich in order to gain access to "
 "the mountain pass to the northern fields."
 msgstr ""
+"Proprio così. Inoltre, dobbiamo sconfiggere quel lich per guadagnare "
+"l'accesso al passo di montagna per le terre del nord."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:191
 msgid "I don't like it, but I see it is necessary."
-msgstr ""
+msgstr "Non mi piace, ma capisco che sia necessario."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:192
 msgid "And what about the fugitives?"
-msgstr ""
+msgstr "E i fuggitivi?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:193
 msgid ""
@@ -1277,130 +1515,146 @@ msgid ""
 "bunch, numerically inferior to us, so we could just ignore them for now. On "
 "the other hand, vanquishing them might bring us some benefits. You decide."
 msgstr ""
+"Non sono una grossa minaccia da soli dato che sono un mucchio "
+"disorganizzato, numericamente inferiore a noi, per cui potremmo "
+"semplicemente ignorarli per il momento. D'altra parte, sconfiggerli ci "
+"darebbe qualche beneficio. Decidi tu."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:194
 msgid ""
 "I just hope those fiends are easier to defeat than what they proved to be in "
 "our valley."
 msgstr ""
+"Spero solo che questi demoni siano più facili da sconfiggere di quelli che "
+"c'erano nella nostra valle."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:200
 msgid "There is still the fugitive leader left. What should we do?"
-msgstr ""
+msgstr "Rimane ancora il capo dei fuggitivi. Cosa dovremmo fare?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:204
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:827
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:863
 msgid "Um..."
-msgstr ""
+msgstr "Ehm..."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:206
 msgid "Let's finish with them now!"
-msgstr ""
+msgstr "Eliminiamolo ra!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:220
 msgid "Ignore them for now and let them flee away."
-msgstr ""
+msgstr "Lasciamolo perdere per il momento e lasciamolo fuggire."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:234
 msgid "Retreat!"
-msgstr ""
+msgstr "Ripiegare!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:237
 msgid ""
 "The fugitives shortly flee back to the desert. The battle finally has ended, "
 "and the party continues the long journey heading north-west."
 msgstr ""
+"Rapidamente i fuggitivi scappano di nuovo nel deserto. La battaglia è "
+"finalmente finita e il gruppo continua il lungo viaggio verso nord-ovest."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:255
 msgid ""
 "It is said that these beasts are impossible to kill. Let us see whether that "
 "is true or not."
 msgstr ""
+"Si dice che sia impossibile uccidere queste bestie. Vediamo se è vero o no."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:270
 msgid "Attack! For our fallen people!"
-msgstr ""
+msgstr "All'attacco! Per il nostro popolo caduto!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:275
 msgid "Die, you human scum!!"
-msgstr ""
+msgstr "Muori, feccia umana!!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:290
 msgid "You killed my brethen! Die!"
-msgstr ""
+msgstr "Hai ucciso i miei confratelli! Muori!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:303
 msgid "Uh, we are already dead. Don't you see that?"
-msgstr ""
+msgstr "Eh, siamo già morti. Non lo capisci?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:309
 msgid "We shall see who dies first!"
-msgstr ""
+msgstr "Vedremo chi sarà il primo a morire!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:326
 msgid "Damn loyalists, I am finished!"
-msgstr ""
+msgstr "Dannati lealisti, sono finito!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:331
 msgid "Ha, ha, ha!"
-msgstr ""
+msgstr "Ah, ah, ah!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:346
 msgid "Begone, foul undead! I shall not be your servant - Ugh."
-msgstr ""
+msgstr "Vattene, lurido non-morto! Non sarò un tuo servo - ugh."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:352
 msgid "You are done, my friend. Anyone else dares to oppose me?"
-msgstr ""
+msgstr "Sei finito, amico mio. Qualcun'altro osa opporsi a me?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:367
 msgid "Die now!"
-msgstr ""
+msgstr "Crepa!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:372
 msgid ""
 "No! Wait! I have something, something that could help you in your way! Just "
 "don't kill me or the rest of my people!"
 msgstr ""
+"No! Aspetta! Ho qualcosa, qualcosa che potrebbe aiutarvi nel nostro viaggio! "
+"Non uccidere me e il resto dellamia gente!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:377
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:821
 msgid "Leader?"
-msgstr ""
+msgstr "Comandante?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:380
 msgid "He does not seem to be lying. What do you think, master Galas?"
-msgstr ""
+msgstr "Non pare che stia mentendo. Cosa ne pensi, maestro Galas?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:384
 msgid "Um... well."
-msgstr ""
+msgstr "Ehm... be'."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:386
 msgid ""
 "We shall listen your offer, just swear you will never cause us trouble again."
 msgstr ""
+"Acolteremo la tua offerta se giurerai che non ci provocherai più problemi."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:394
 msgid "I swear. Now, take my reserve, 95 gold pieces."
-msgstr ""
+msgstr "Lo giuro. Ora, prendete i miei risparmi, 95 pezzi d'oro."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:399
 msgid ""
 "Also, take this ring. It is a ring of regeneration, it might be of some use "
 "to you."
 msgstr ""
+"E poi, prendete questo anello. È un anello della rigenerazione, potrebbe "
+"esservi utile."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:407
 msgid ""
 "The fugitives flee, back to the desert. Meanwhile, Galas's people wonder "
 "about the ring."
 msgstr ""
+"I fuggitivi fuggono di nuovo nel deserto. Nel frattempo, la gente di Galas "
+"si interroga sull'anello."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:428
 msgid "A ring of regeneration? Analia, do you know anything about this?"
-msgstr ""
+msgstr "Un anello della rigenerazione? Analia, ne sai qualcosa?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:429
 msgid ""
@@ -1408,21 +1662,27 @@ msgid ""
 "that keeps the bearer healthy and strong. They are rare, though, so we "
 "should carefully choose who should take it."
 msgstr ""
+"Sì, lo conosco. Si dice che questo tipo di artefatto abbia una magia "
+"curativa che mantiene chi lo porta forte e in salute. Tuttavia, sono rari "
+"per cui dovremmo scegliere con cura chi dovrebbe portarlo."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:440
 msgid "Ring of Regeneration"
-msgstr ""
+msgstr "Anello della rigenerazione"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:443
 msgid ""
 "This ring heals the bearer a little each turn, and increases their strength."
 msgstr ""
+"Questo anello cura un po' ad ogni turno chi lo porta e aumenta la sua forza."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:444
 msgid ""
 "The Ring of Regeneration may only be used by living creatures, that are not "
 "bats or suchlike."
 msgstr ""
+"L'anello di rigenerazione può essere usato solo da una creatura vivente, che "
+"non siano pipistrelli o simili."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:455
 msgid ""
@@ -1430,66 +1690,76 @@ msgid ""
 "strength overwhelms you. Shortly, all your wounds are magically healed by "
 "the ring's power."
 msgstr ""
+"Appena infili l'anello al dito, una sensazione di benessere e forza ti "
+"colma. Rapidamente, tutte le tue ferite sono magicamente curate dal potere "
+"dell'anello."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:502
 msgid "Your kind cannot be trusted. Any other last words?"
-msgstr ""
+msgstr "La tua razza è infida. Le tue ultime parole?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:509
 msgid "Fools! But you will never catch me!"
-msgstr ""
+msgstr "Sciocchi! Non mi prenderete mai!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:512
 msgid "I do not think so. Quickly, get him!"
-msgstr ""
+msgstr "Non credo. Presto, prendiamolo!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:538
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:561
 msgid "As you command, master."
-msgstr ""
+msgstr "Ai vostri ordini, padrone."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:546
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:569
 msgid "Argh!"
-msgstr ""
+msgstr "Argh!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:586
 msgid "At least he left some of his gold behind."
-msgstr ""
+msgstr "Almeno ha lasciato indietro un po' del suo oro."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:625
 msgid "Ugh. Inform... the... commander *ack*."
-msgstr ""
+msgstr "Acc. Informante... il... comandante *acc*."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:630
 msgid "Let none of his men escape!"
-msgstr ""
+msgstr "Che nessuno dei suoi uomini fugga!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:641
 msgid "The same, and don't forget those elves and the bandit scum!"
-msgstr ""
+msgstr "Anche voi e non dimenticate queli elfi e la feccia di banditi!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:653
 msgid ""
 "Kill all the loyalist bastards, leave no one alive! And destroy the "
 "disgusting intruders!"
 msgstr ""
+"Uccidete tutti i bastardi lealisti, che non ne rimanga vivo uno! E "
+"distruggete questi schifosi intrusi!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:669
 msgid "No! I have been defeated!"
-msgstr ""
+msgstr "No! Mi hanno sconfitto!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:784
 msgid ""
 "It's over, at last. Now we should set-up camp in the undead's keep and rest "
 "for a while. Our men must be exhausted with all this battle."
 msgstr ""
+"Finalmente, è finita. Adesso dovremmo alzare il campo nella fortezza dei non-"
+"morti e riposare un poco. I nostri uomini devono essere stanchi dopo tutte "
+"queste battaglie."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:785
 msgid ""
 "Of course they are. Nor you nor my minions are used to fight on the sands, "
 "under these suns, and against these abominations!"
 msgstr ""
+"Certo che lo sono. Né tu né i tuoi servi siete abituati a combattere nelle "
+"sabbie, sotto questi soli e contro questi abominii!"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:786
 msgid ""
@@ -1498,10 +1768,14 @@ msgid ""
 "surprised to see fully-grown plants and animals again. They had left the "
 "desert."
 msgstr ""
+"Il gruppo si riposò per un momento. Dopodiché decisero di continuare. Dopo "
+"aver attraversato la catena di montagne a ovest della fortezza del fiume, "
+"furono sorpresi dal vedere di nuovo piante rigogliose e animali. Avevano "
+"lasciato il deserto."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:832
 msgid "Green grass again! Is this an oasis?"
-msgstr ""
+msgstr "Di nuovo prati verdi? È un'oasi?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:833
 msgid ""
@@ -1509,16 +1783,21 @@ msgid ""
 "managed to survive and evolve under the harsh suns after the Fall. Not all "
 "is dried up then. (looks at Analia)"
 msgstr ""
+"No, non lo è. È solo il termine del deserto. Pare che le piante siano "
+"riuscite a sopravvivere ed evolversi sottoi suoli infuocati dopo la caduta. "
+"Allora non tutto è arido. (osserva Analia)"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:834
 msgid "What? Why are you looking at me?!"
-msgstr ""
+msgstr "Cosa? Perché mi stai guardando?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:835
 msgid ""
 "I feel refreshned! It has been so long far from trees and grass and other "
 "plants..."
 msgstr ""
+"Mi sento rinascere! Sono stato così tanto tempo lontano da alberi, prati e "
+"altre piante..."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:836
 msgid ""
@@ -1526,10 +1805,14 @@ msgid ""
 "water. And if there is water, there are living beings. This must be why the "
 "humans have grown in number since the last time my explorers reported to me."
 msgstr ""
+"Mi spiace di rovinarvi la festa, ma se le piante sono cresciute, vuol dire "
+"che c'è acqua. E se c'è acqua, ci sono forme di vita. Ecco perché gli uomini "
+"sono cresciuti di numero da quando gli ultimi miei esploratori mi hanno "
+"fatto rapporto."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:837
 msgid "Like, the world is reviving?"
-msgstr ""
+msgstr "Come se il mondo stesse rivivendo?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:838
 msgid ""
@@ -1538,59 +1821,63 @@ msgid ""
 "too. We must hurry, for we don't know how far they have got in their thirst "
 "of conquering."
 msgstr ""
+"Esattamente. Questa è in parte una buona notizia e in parte cattiva. La "
+"buona è che voi elfi avrete quello che vi serve per sopravvivere. La cattiva "
+"è che probabilmente ce l'hanno anche i vostri nemici. Dobbiamo affrettarci "
+"perché non sappiamo fin dove si sono spinti nella loro sete di conquista."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:839
 msgid "How far are those mountains you spoke us of, Knalga?"
-msgstr ""
+msgstr "Quanto sono lontane queste montagne di cui ci hai parlato, Knalga?"
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:840
 msgid "Not much. Minimum 3 days from here at continuous march."
-msgstr ""
+msgstr "Non troppo. Tre giorni di marcia forzata come minimo."
 
 #: Invasion_from_the_Unknown/scenarios/05_Crossfire.cfg:841
 msgid "Then, time to go, men!"
-msgstr ""
+msgstr "Allora è tempo di muoversi, uomini!"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:4
 msgid "The Moon Valley"
-msgstr ""
+msgstr "Valle della luna"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:51
 msgid "Durbaghar"
-msgstr ""
+msgstr "Durbaghar"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:69
 msgid "Kal Magar"
-msgstr ""
+msgstr "Kal Magar"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:92
 msgid "Barglor"
-msgstr ""
+msgstr "Barglor"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:110
 msgid "Diglet"
-msgstr ""
+msgstr "Diglet"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:128
 msgid "Girkag"
-msgstr ""
+msgstr "Girkag"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:214
 msgid "Secure the valley (defeat all enemy leaders)"
-msgstr ""
+msgstr "Rendi la valle sicura (sconfiggi tutti i comandanti nemici)"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:225
 msgid "The group finally arrived to a valley, where they did not feel alone."
-msgstr ""
+msgstr "Finalmente il gruppo giunse a una vallata dove non si sentirono soli."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:226
 msgid ""
 "This is the valley of the Moon. It was named so because of an old legend."
-msgstr ""
+msgstr "Questa è la valle della luna. Prende il nome da una vecchia leggenda."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:227
 msgid "What legend?"
-msgstr ""
+msgstr "Quale leggenda?"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:228
 msgid ""
@@ -1602,62 +1889,70 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:229
 msgid "If I remember correctly, I was about three years old when that..."
-msgstr ""
+msgstr "Se mi ricordo bene, avevo tre anni quando..."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:230
 msgid "Intruders! Alert'a big boss!!"
-msgstr ""
+msgstr "Invasori! Avvertite il grande capo!!"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:231
 msgid "Did you hear that?"
-msgstr ""
+msgstr "L'avete sentito?"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:232
 msgid "Orcs! This valley is infested with orcs!"
-msgstr ""
+msgstr "Orchi! Questa valle è infestata di orchi!"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:233
 msgid "I suspected that."
-msgstr ""
+msgstr "Lo sospettavo."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:234
 msgid "What should we do? Are you sure of what we are doing, Keshar?"
-msgstr ""
+msgstr "Cosa dovremmo fare? Sei sicuro di quello che stai facendo, Keshar?"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:235
 msgid "I think he has sent us to our doom deliberately!"
-msgstr ""
+msgstr "Penso che ci abbia mandato incontro al nostro fato apposta!"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:236
 msgid ""
 "Fool! I could have killed you all while you were sleeping if I really wanted "
 "to! Don't think you are the first one to misunderstand my actions..."
 msgstr ""
+"Sciocco! Avrei potuto uccidervi tutti nel sonno se avessi voluto! Non "
+"pensate di essere i primi a non comprendere le mie azioni..."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:237
 msgid "Calm down, now, do we have a plan?"
-msgstr ""
+msgstr "Adesso calmatevi, abbiamo un piano?"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:238
 msgid ""
 "Yes. We should run as fast as possible through the fields, slay their leader "
 "that blocks our entrance to the cave system and continue."
 msgstr ""
+"Sì. Dovremmo correre il più veloce possibile attraversi i campi, uccidere il "
+"loro comandante che blocca il nostro ingresso al sistema di caverne e "
+"continuare."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:239
 msgid "Easier said than done."
-msgstr ""
+msgstr "Più facile a dirsi che a farsi."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:240
 msgid ""
 "Or, we can defeat them all to continue without making haste for your lives."
 msgstr ""
+"Oppure, possiamo batterli tutti e continuare senza fretta per le nostre vite."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:241
 msgid ""
 "I don't think we really have the forces to do that, but I guess it's too "
 "late to regret and retreat."
 msgstr ""
+"Non credo che abbiamo le forze per farlo, ma temo che sia troppo tardi per "
+"ripensarci e ripiegare."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:242
 msgid ""
@@ -1665,41 +1960,48 @@ msgid ""
 "sands with suffering assured. We must fight, but, after entering the caves, "
 "what are we going to do?"
 msgstr ""
+"Proprio così. Siamo arrivati fin qui e di cisuro non torneremo indietro "
+"nelle sabbie dove la sofferenza è garantita. Dobbiamo combattere, ma dopo "
+"essere entrati nelle caverne, cosa facciamo?"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:243
 msgid "Pray for the enemy has not infested them yet."
-msgstr ""
+msgstr "Prega che il nemico non le abbia già infestate."
 
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:161
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:162
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:364
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:244
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:245
 msgid ""
 "I am not really sure where we must search first. The presence of your sage "
 "is too weak. If I could go in and concentrate a little..."
 msgstr ""
+"Non sono sicuro di dove dovremmo cominciare a cercare. La presenza del "
+"vostro saggio è troppo debole. Se potessi entrare e concentrarmi un poco..."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:246
 msgid "Fair enough. To arms!"
-msgstr ""
+msgstr "Ragionevole. Alle armi!"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:247
 msgid "To arms!"
-msgstr ""
+msgstr "Alle armi!"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:249
 msgid ""
 "So we have got intruders, huh? Get rid of them before I behead you, bunch of "
 "jerks!"
 msgstr ""
+"Toh, degli intrusi, eh? Liberiamoci di loro prima che vi mozzi la testa, "
+"branco di incapaci!"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:250
 msgid "Yes, sir."
-msgstr ""
+msgstr "Sissignore."
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:251
 msgid ""
@@ -1709,11 +2011,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:252
 msgid "As you command, my lord. (Elves? Strange.)"
-msgstr ""
+msgstr "Ai vostri ordini, mio signore. (Elfi? Strano.)"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:253
 msgid "Um... okay. Obey our chieftain, rats!"
-msgstr ""
+msgstr "Em... va bene. Obbedite ai vostri capitani, topi!"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:254
 msgid "Ya hear'da big boss. Move now, ya' stinkin' worms!"
@@ -1740,7 +2042,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:294
 msgid "Dya' elven scum!"
-msgstr ""
+msgstr "Crepa feccia di un elfo!"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:305
 msgid "Pleez, not my face, no!"
@@ -1748,7 +2050,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:309
 msgid "Uh?"
-msgstr ""
+msgstr "Eh?"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:320
 msgid "Ouch! I'm vanquished..."
@@ -1770,11 +2072,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:3
 msgid "D'elf and Goliath"
-msgstr ""
+msgstr "D'elf and il gigante"
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:62
 msgid "Metallic Beast"
-msgstr ""
+msgstr "Bestia metallica"
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:64
 msgid "Demon Guard"
@@ -1787,7 +2089,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:191
 msgid "Investigate the place"
-msgstr ""
+msgstr "Esplora il luogo"
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:195
 msgid ""
@@ -1805,15 +2107,15 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:203
 msgid "Wait, I hear steps, many steps coming from..."
-msgstr ""
+msgstr "Aspetta, sento dei passi, molti passi che provengono da..."
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:223
 msgid "Zilla"
-msgstr ""
+msgstr "Zilla"
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:233
 msgid "Kairus"
-msgstr ""
+msgstr "Kairus"
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:235
 msgid "Surprise, forest-dwellers. Didn't expect us here, uh?"
@@ -1821,15 +2123,15 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:236
 msgid "Kill them, it's the master's command!"
-msgstr ""
+msgstr "Uccideteli, è l'ordine del padrone!"
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:237
 msgid "Blast it, as I suspected. These worms made it here before us."
-msgstr ""
+msgstr "Maledetto, come sospettavo. Questi vermi erano qui prima di noi."
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:238
 msgid "What about our sage?"
-msgstr ""
+msgstr "E il nostro saggio?"
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:239
 msgid ""
@@ -1948,19 +2250,19 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:301
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:53
 msgid "Althurin"
-msgstr ""
+msgstr "Althurin"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:85
 msgid "Hazor"
-msgstr ""
+msgstr "Hazor"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:103
 msgid "Kwurg"
-msgstr ""
+msgstr "Kwurg"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:166
 msgid "Error"
-msgstr ""
+msgstr "Errore"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:171
 msgid ""
@@ -1999,7 +2301,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:241
 msgid "Dwarf"
-msgstr ""
+msgstr "Nano"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:250
 msgid "Help! I need... help! It almost has me!"
@@ -2007,7 +2309,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:263
 msgid "Troll"
-msgstr ""
+msgstr "Troll"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:271
 msgid "Roar!!!"
@@ -2015,7 +2317,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:324
 msgid "Aaaah..."
-msgstr ""
+msgstr "Aaaah..."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:330
 msgid "Exactly... uhm... Alright."
@@ -2023,11 +2325,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:340
 msgid "Troll's Corpse"
-msgstr ""
+msgstr "Cadavere di troll"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:352
 msgid "Dwarf's Corpse"
-msgstr ""
+msgstr "Cadavere di nano"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:363
 msgid "Uh, interesting. Their corpses conserve part of their former strength."
@@ -2083,7 +2385,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:412
 msgid "AAAAAAaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh..."
-msgstr ""
+msgstr "AAAAAAaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh..."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:432
 msgid "Uh, the cave's floor here looks particularily weak."
@@ -2105,7 +2407,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:470
 msgid "Argh. Impossible..."
-msgstr ""
+msgstr "Argh. Impossibile..."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:477
 msgid "If the Goliath could not with them, then kill them once for all!"
@@ -2113,11 +2415,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:482
 msgid "Yes, Master!"
-msgstr ""
+msgstr "Sì, padrone!"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:486
 msgid "As you command, my Master."
-msgstr ""
+msgstr "Ai vostri ordini, mio padrone."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:487
 msgid ""
@@ -2142,11 +2444,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:491
 msgid "This is more and more intriguing."
-msgstr ""
+msgstr "Sempre più interessante."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:521
 msgid "Elves? You treacherous ones, begone, now, or kill you we shall!"
-msgstr ""
+msgstr "Elfi? Traditori, andatevene ora o vi uccideremo!"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:526
 msgid "Dream about that, beast!"
@@ -2214,7 +2516,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:586
 msgid "We shall do our best."
-msgstr ""
+msgstr "Faremo del nostro meglio."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:587
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1073
@@ -2233,7 +2535,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1075
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1086
 msgid "Alright."
-msgstr ""
+msgstr "Benissimo."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:599
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1083
@@ -2304,7 +2606,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:375
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:421
 msgid "Death of Althurin"
-msgstr ""
+msgstr "Morte di Althurin"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:693
 msgid ""
@@ -2315,7 +2617,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:154
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:697
 msgid " *cough*"
-msgstr ""
+msgstr "(tossisce)"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:739
 msgid "Wait. I hear something! Who goes there?"
@@ -2323,15 +2625,15 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:746
 msgid "Xargazzi"
-msgstr ""
+msgstr "Xargazzi"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:760
 msgid "Abraxass"
-msgstr ""
+msgstr "Abraxass"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:773
 msgid "Argozza"
-msgstr ""
+msgstr "Argozza"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:798
 msgid ""
@@ -2408,15 +2710,15 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:847
 msgid "Good deal, indeed."
-msgstr ""
+msgstr "Proprio un bell'accordo."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:848
 msgid "I agree with that."
-msgstr ""
+msgstr "Sono d'accordo."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:860
 msgid "What do you think, Analia?"
-msgstr ""
+msgstr "Cosa ne pensi, Analia?"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:865
 msgid ""
@@ -2426,7 +2728,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:867
 msgid "Very well. Kill them."
-msgstr ""
+msgstr "Benissimo. Uccideteli."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:868
 msgid "Treasssherousss foolsss! You shall die firsssst!!"
@@ -2440,7 +2742,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:886
 msgid "Argh..."
-msgstr ""
+msgstr "Argh..."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:896
 msgid "Ssstupid creaturesss..."
@@ -2448,15 +2750,15 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:902
 msgid "They have chosen their path. We must respect their decission."
-msgstr ""
+msgstr "Hanno scelto la loro strada. Dobbiamo rispettare le loro decisione."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:914
 msgid "Great then, welcome to our group!"
-msgstr ""
+msgstr "Fantastico allora, benvenuti nel nostro gruppo!"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:956
 msgid "Ah! Giant insects!"
-msgstr ""
+msgstr "Ah! Insetti giganti!"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:960
 msgid "Ants, but they are bigger than a tiger! What happened to them?"
@@ -2538,7 +2840,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1181
 msgid "Who are you speaking with?"
-msgstr ""
+msgstr "Con chi stai parlando?"
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1185
 msgid "With the ssserpentss. They are our friendsss."
@@ -2548,7 +2850,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1241
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1189
 msgid "Oh."
-msgstr ""
+msgstr "Oh."
 
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1245
 msgid ""
@@ -2564,7 +2866,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:37
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:358
 msgid "King Asthorgar"
-msgstr ""
+msgstr "Re Asthorgar"
 
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:124
 msgid ""
@@ -2579,11 +2881,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:126
 msgid "Analia, first advisor of Galas."
-msgstr ""
+msgstr "Analia, primo consigliere advisor of Galas."
 
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:127
 msgid "Mal Keshar, necromancer, tourist guide for these elves."
-msgstr ""
+msgstr "Mal Keshar, necromante, guida turistica di questi elfi."
 
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:128
 msgid ""
@@ -2761,7 +3063,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:159
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 #: Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:160
 msgid ""
@@ -3033,55 +3335,55 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:4
 msgid "The Library"
-msgstr ""
+msgstr "Biblioteca"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:118
 msgid "Yr"
-msgstr ""
+msgstr "Yr"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:119
 msgid "Horus"
-msgstr ""
+msgstr "Horus"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:120
 msgid "Alith"
-msgstr ""
+msgstr "Alith"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:121
 msgid "Uria"
-msgstr ""
+msgstr "Uria"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:122
 msgid "Delthor"
-msgstr ""
+msgstr "Delthor"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:123
 msgid "Lyla"
-msgstr ""
+msgstr "Lyla"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:124
 msgid "Valkor"
-msgstr ""
+msgstr "Valkor"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:125
 msgid "Zanathor"
-msgstr ""
+msgstr "Zanathor"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:126
 msgid "Zana"
-msgstr ""
+msgstr "Zana"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:127
 msgid "Menia"
-msgstr ""
+msgstr "Menia"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:128
 msgid "Arkos"
-msgstr ""
+msgstr "Arkos"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:129
 msgid "Iros"
-msgstr ""
+msgstr "Iros"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:137
 msgid "Explore the Library and proceed deeper underground"
@@ -3136,7 +3438,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:209
 msgid "Crystal Glyph"
-msgstr ""
+msgstr "Glifo di cristallo"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:228
 msgid ""
@@ -3177,15 +3479,15 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:273
 msgid "TODO: blah blah about Wild Elves."
-msgstr ""
+msgstr "Da completare: chiacchere sugli elfi selvaggi."
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:282
 msgid "TODO: blah blah about Dragons"
-msgstr ""
+msgstr "Da completare: chiacchere sui draghi."
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:291
 msgid "TODO: blah blah about Shaxthal lifeforms"
-msgstr ""
+msgstr "Da completare: chiacchere sulle forme di vita Shaxthal."
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:300
 msgid ""
@@ -3221,23 +3523,23 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:336
 msgid "TODO: blah blah about orcs."
-msgstr ""
+msgstr "Da completare: chiacchere sugli orchi."
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:345
 msgid "TODO: blah blah about drakes."
-msgstr ""
+msgstr "Da completare: chiacchere sui draghi."
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:354
 msgid "TODO: blah blah about demons."
-msgstr ""
+msgstr "Da completare: chiacchere sui demoni."
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:363
 msgid "TODO: blah blah about Argazar technology."
-msgstr ""
+msgstr "Da completare: chiacchere sulla tecnologia Argazar."
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:372
 msgid "TODO: blah blah about Yechnagoth."
-msgstr ""
+msgstr "Da completare: chiacchere su Yechnagoth."
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:386
 msgid "Groaar!!"
@@ -3302,11 +3604,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:458
 msgid "Die, elves!"
-msgstr ""
+msgstr "Morite, elfi!"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:460
 msgid "Darn, they have followed us this far!"
-msgstr ""
+msgstr "Dannazione, ci hanno seguito fin qui!"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:461
 msgid ""
@@ -3377,7 +3679,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:582
 msgid "A demon?"
-msgstr ""
+msgstr "Un demone?"
 
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:586
 msgid "No. It's something good... it's the presence of light..."
@@ -3411,7 +3713,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:38
 msgid "Mena"
-msgstr ""
+msgstr "Mena"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:267
 msgid ""
@@ -3563,71 +3865,75 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:660
 msgid "We ought to be careful. We are not welcome here."
-msgstr ""
+msgstr "Dovremo essere cauti. Non siamo i benvenuti."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:663
 msgid "Find the 6 glyphs that should open the central chamber"
-msgstr ""
+msgstr "Trova i 6 glifi che dovrebbero aprire la camera centrale"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:694
 msgid "Glyph activated."
-msgstr ""
+msgstr "Glifo attivo."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:732
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:754
 msgid "A wall moves."
-msgstr ""
+msgstr "Un muro si muove."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:817
 msgid "All glyphs activated. The earth shakes!"
-msgstr ""
+msgstr "Tutti i glifi sono attivi. La terra trema!"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:870
 msgid "This is it!"
-msgstr ""
+msgstr "Ecco!"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:871
 msgid "She is there, let us go."
-msgstr ""
+msgstr "È laggiù, andiamo."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:872
 msgid "I have been waiting this for too long."
-msgstr ""
+msgstr "Da troppo tempo aspettavo questo momento."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:914
 msgid "Hello there! Anybody at home?"
-msgstr ""
+msgstr "Ehi, laggiù! C'è nessuno?"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:918
 msgid "Intruders! Protect the Lady of Light!"
-msgstr ""
+msgstr "Intrusi! Proteggete la signora della luce!"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:930
 msgid "Argh!! Yelp..."
-msgstr ""
+msgstr "Argh!! Ah..."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:939
 msgid "Destroy the necromancer!!"
-msgstr ""
+msgstr "Distruggete il necromante!!"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:941
 msgid "Huh? Prepare to meet your fate, you..."
-msgstr ""
+msgstr "Eh? Preparatevi ad affrontare il vostro destino, vi..."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:942
 msgid "Stop, we are the Elves of the Valley of Elynia, you must let us pass!"
 msgstr ""
+"Fermi, siamo gli elfi della valle di Elynia, ci dovete lasciar passare!"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:945
 msgid ""
 "Elves? Impossible, you must be dead by now! Prove that you are true elves!"
 msgstr ""
+"Elfi? Ipossibile, doveste essere morti ormai! Dimostrate di essere veri elfi!"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:947
 msgid ""
 "I call upon the light of Eloh! May it awake our sage from her millenary "
 "sleep!"
 msgstr ""
+"Io invoco la lucedi Eloh! Possa svegliare la nostra sapiente dal suo sonno "
+"millenario!"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:957
 msgid ""
@@ -3638,10 +3944,16 @@ msgid ""
 "asleep, her powers were still enough to illuminate the surroundings without "
 "requiring any minimal effort from her."
 msgstr ""
+"Mentre Analia pronunciava l'incantesimo, il grande albero al centro della "
+"camera scomparve e al suo posto si materializzò una bellissima signora elfa "
+"che giaceva sull'erba. Per le grandi ali di libellula sulla schiena, i "
+"chiari capelli rossi, era ovvio che non fosse un elfa, ma la signora della "
+"luce. Mezza addormentata i suoi poteri non erano ancora sufficienti per "
+"illuminare intorno a lei senza richiedere un minimo sforzo cosciente."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:982
 msgid "(sleepy) Who has... awaken me?"
-msgstr ""
+msgstr "(assonnato) Chi mi ha... svegliato?"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:984
 msgid ""
@@ -3649,15 +3961,20 @@ msgid ""
 "stands for the first syllabe or half of it, depending on the target "
 "translation language."
 msgstr ""
+"Note for translators: Galas is supposed to be saying 'we', so the 'W' here "
+"stands for the first syllabe or half of it, depending on the target "
+"translation language."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:986
 msgid "W..."
-msgstr ""
+msgstr "N..."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:988
 msgid ""
 "Elves? But how... how did you find this place... I must be still asleep."
 msgstr ""
+"Elfi? Ma come... come avete fatto a trovare questo posto... sto ancora "
+"dormendo."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:990
 msgid ""
@@ -3665,60 +3982,71 @@ msgid ""
 "whatever thing you put here in the target language, must be phonetically ~3 "
 "syllabes long. Only a suggestion anyway."
 msgstr ""
+"Note for translators: Mal Keshar is supposed to be saying 'actually', so "
+"whatever thing you put here in the target language, must be phonetically ~3 "
+"syllabes long. Only a suggestion anyway."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:992
 msgid "Actual..."
-msgstr ""
+msgstr "Effet..."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:994
 msgid "Necromancer, prepare to die... again!!!"
-msgstr ""
+msgstr "Preparati a morire, necromante... di nuovo!!!"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:995
 msgid "No!!! (Too late.)"
-msgstr ""
+msgstr "No!!! (Troppo tardi.)"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1026
 msgid "She's... she is..."
-msgstr ""
+msgstr "È... è..."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1040
 msgid ""
 "(pile of dust laying on the ground)\n"
 "She's lovely."
 msgstr ""
+"(mucchio di polvere sul pavimento)\n"
+"È incantevole."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1041
 msgid "Gee, thanks, but you have not told me who you are yet."
-msgstr ""
+msgstr "Oh grazie, ma non mi hai ancora detto chi sei."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1042
 msgid "I am Galas, leader of the elves who inhabited your valley, my Lady."
 msgstr ""
+"Sono Galas, comandante degli elfi che abitavano nella vostra valle, mia "
+"signora."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1043
 msgid "Althurin, high Dwarvish Runemaster to the kingdom of Knalga."
-msgstr ""
+msgstr "Althurin, supremo signore delle rune del regno di Knalga."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1044
 msgid "Analia, first advisor of Galas, and this is..."
-msgstr ""
+msgstr "Analia, prima consigliera di Galas, e questo è..."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1045
 msgid ""
 "Mal Keshar, necromancer and sort of a burned pile of bones. Could you stop "
 "your chattering and restore me?"
 msgstr ""
+"Mal Keshar, necromante nonché un mucchio di ossa carbonizzate. Potreste "
+"smettere di chiaccherare e darmi una mano?"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1046
 msgid "How come? You should be gone now, foul abomination..."
-msgstr ""
+msgstr "Come sarebbe? Dovresti essere distrutto ormai, lurido abominio..."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1047
 msgid ""
 "Actually, he has helped us along the way to find you, my lady, and saved our "
 "lives multiple times. You are the Lady of Light, right?"
 msgstr ""
+"In realtà, ci ha aiutato a cercarti, mia signora, e ha salvato le nostre "
+"vite molte volte. Tu sei la signora della luce, vero?"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1048
 msgid ""
@@ -3744,7 +4072,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1052
 msgid "Mal Keshar, please."
-msgstr ""
+msgstr "Mal Keshar, per favore."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1053
 msgid "And he led us here to ask you for help in our war against the demons..."
@@ -4046,7 +4374,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1109
 msgid "Yechnagoth... the Eater of Souls?"
-msgstr ""
+msgstr "Yechnagoth... il mangia-anime?"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1110
 msgid ""
@@ -4194,7 +4522,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1548
 msgid "Um... okay."
-msgstr ""
+msgstr "Um... va bene."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1567
 msgid ""
@@ -4203,34 +4531,38 @@ msgid ""
 "of this cave also appears to be recent. What should I do, get away or see if "
 "somebody is living there?"
 msgstr ""
+"È strano trovare una casa qua, in profondità, ma pare che ci abiti qualcuno. "
+"Guarda come la porta e le pareti sono in buono stato. Anche le decorazione "
+"di questa caverna sembra essere recente. Che dovrei fare, andarmene o vedere "
+"se ci abita qualcuno?"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1569
 msgid "Shout and see."
-msgstr ""
+msgstr "Prova a chiamare."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1571
 msgid "Hellooooo! Anybody at home?"
-msgstr ""
+msgstr "Salveee! C'è nessuno?"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1572
 msgid "(silence)"
-msgstr ""
+msgstr "(silenzio)"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1573
 msgid "I said HELLO!!!"
-msgstr ""
+msgstr "Ho detto SALVE!!!"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1574
 msgid "(yet more silence)"
-msgstr ""
+msgstr "(ancora silenzio)"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1577
 msgid "Should I insist another time, or abandon the cave?"
-msgstr ""
+msgstr "Devo ancora insistere o lasciare la caverna?"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1579
 msgid "Insist again."
-msgstr ""
+msgstr "Prova ancora."
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1581
 msgid "Very well, let me break in..."
@@ -4246,7 +4578,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1586
 msgid "Igor"
-msgstr ""
+msgstr "Igor"
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1601
 msgid "Aww. Is it that I can't find a safe place'ta live in?"
@@ -4293,43 +4625,43 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:4
 msgid "Strike on Knalga"
-msgstr ""
+msgstr "Assalto a Knalga"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:77
 msgid "Armiza'ar"
-msgstr ""
+msgstr "Armiza'ar"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:91
 msgid "Denathor"
-msgstr ""
+msgstr "Denathor"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:110
 msgid "Oddis"
-msgstr ""
+msgstr "Oddis"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:125
 msgid "Casper"
-msgstr ""
+msgstr "Casper"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:140
 msgid "Alazar"
-msgstr ""
+msgstr "Alazar"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:155
 msgid "Furrin"
-msgstr ""
+msgstr "Furrin"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:175
 msgid "Wygerm"
-msgstr ""
+msgstr "Wygerm"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:258
 msgid "Defeat all enemy leaders, if you can, or"
-msgstr ""
+msgstr "Sconfiggi tutti i nemici, se ci riesci, oppure"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:259
 msgid "Resist until end of turns"
-msgstr ""
+msgstr "Resisti fino alla fine dei turni"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:261
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:27
@@ -4338,7 +4670,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:374
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:420
 msgid "Death of King Asthorgar"
-msgstr ""
+msgstr "Morte di re Asthorgar"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:205
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:262
@@ -4348,11 +4680,11 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:372
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:418
 msgid "Death of Elynia"
-msgstr ""
+msgstr "Morte di Elynia"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:273
 msgid "Look, Knalga's capital is under siege!"
-msgstr ""
+msgstr "Guardate, la capitale di Knalga è sotto assedio!"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:274
 msgid "The bastards! As I feared, they made it here before us!"
@@ -4646,27 +4978,27 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:397
 msgid "Apologies, my lord. I could not..."
-msgstr ""
+msgstr "Scusate, mio signore. Non ho potuto..."
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:408
 msgid "You may crush my corpse, but my brethren's hearts will stand!"
-msgstr ""
+msgstr "Puoi abbattere il mio corpo, ma i miei confratelli resisteranno!"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:419
 msgid "A curse upon you, heretics!"
-msgstr ""
+msgstr "Che siate maledetti, eretici!"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:430
 msgid "May Yechnagoth swallow your souls!"
-msgstr ""
+msgstr "Che Yechnagoth ingoi le vostre anime!"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:434
 msgid "Yechnagoth is long gone, you fool!"
-msgstr ""
+msgstr "Yechnagoth è ormai andato, sciocco!"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:445
 msgid "I shall return in the form of your worst nightmare!"
-msgstr ""
+msgstr "Tornerò nei vostri sogni come il vostro peggior incubo!"
 
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Knalga.cfg:456
 msgid "Today, you might win the battle, but you'll never win the war!"
@@ -4680,7 +5012,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:4
 msgid "The Escape"
-msgstr ""
+msgstr "Fuga"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:23
 msgid "Galas, Elynia, or Mal Keshar reach the exit to the northlands"
@@ -4757,15 +5089,15 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:222
 msgid "Karshas"
-msgstr ""
+msgstr "Karshas"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:229
 msgid "Burg"
-msgstr ""
+msgstr "Burg"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:237
 msgid "Yreul"
-msgstr ""
+msgstr "Yreul"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:245
 msgid ""
@@ -4785,7 +5117,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:252
 msgid "Uh..."
-msgstr ""
+msgstr "Eh..."
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:253
 msgid ""
@@ -4802,11 +5134,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:258
 msgid "Defeat Yreul"
-msgstr ""
+msgstr "Sconfiggi Yreul"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:272
 msgid "Defeated... by rats!"
-msgstr ""
+msgstr "Sconfitto... dai topi!"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:312
 msgid "The vermins must die! Yes!"
@@ -4814,7 +5146,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:314
 msgid "Aaah! Another of these metallic beasts!"
-msgstr ""
+msgstr "Aaah! Un'altra di quelle bestie metalliche!"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:315
 msgid "This starts to be more difficult than it should have been."
@@ -4822,7 +5154,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:318
 msgid "Defeat the Goliath"
-msgstr ""
+msgstr "Sconfiggi il gigante"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:332
 msgid "Urrgh..."
@@ -4847,27 +5179,27 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:358
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:359
 msgid "Rearguard"
-msgstr ""
+msgstr "Retroguardia"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:360
 msgid "Lilith"
-msgstr ""
+msgstr "Lilith"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:361
 msgid "Orcyn"
-msgstr ""
+msgstr "Orcyn"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:362
 msgid "Caror"
-msgstr ""
+msgstr "Caror"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:363
 msgid "Yelk"
-msgstr ""
+msgstr "Yelk"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:364
 msgid "Izzoh! Aizkta kalmzarh ixthalamah!"
-msgstr ""
+msgstr "Izzoh! Aizkta kalmzarh ixthalamah!"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:365
 msgid "I have no idea what it means, but it cannot be nice."
@@ -4889,7 +5221,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:398
 msgid "Lagonus"
-msgstr ""
+msgstr "Lagonus"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:409
 msgid "You're caught, by Uria you shall not pass any further!"
@@ -4897,7 +5229,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:410
 msgid "Dream of that!"
-msgstr ""
+msgstr "Te lo sogni!"
 
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:411
 msgid ""
@@ -5004,7 +5336,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:3
 msgid "Face your Fate"
-msgstr ""
+msgstr "Affronta il tuo destino"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:43
 msgid "Assault Subcommander"
@@ -5012,51 +5344,51 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:155
 msgid "Pelaes"
-msgstr ""
+msgstr "Pelaes"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:156
 msgid "Pelcatsil"
-msgstr ""
+msgstr "Pelcatsil"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:157
 msgid "Aicaltos"
-msgstr ""
+msgstr "Aicaltos"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:158
 msgid "Merlin"
-msgstr ""
+msgstr "Merlin"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:159
 msgid "Turin"
-msgstr ""
+msgstr "Turin"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:160
 msgid "Marin"
-msgstr ""
+msgstr "Marin"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:162
 msgid "Izkotep"
-msgstr ""
+msgstr "Izkotep"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:163
 msgid "Urzi"
-msgstr ""
+msgstr "Urzi"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:164
 msgid "Zenkor"
-msgstr ""
+msgstr "Zenkor"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:165
 msgid "Zanku"
-msgstr ""
+msgstr "Zanku"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:166
 msgid "Ilaes"
-msgstr ""
+msgstr "Ilaes"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:167
 msgid "Ilus"
-msgstr ""
+msgstr "Ilus"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:177
 msgid "Defeat the Subcommander and/or resist for as long as possible"
@@ -5139,14 +5471,16 @@ msgid ""
 "Note: now there is no way to lose or win this scenario. Analia will die in "
 "any case, and you will be brought to the next scenario nevertheless."
 msgstr ""
+"Nota: adesso non è più possibile vincere o perdere questo scenario. Analia "
+"morirà in ogni caso e tu sarai comunque portato al prossimo scenario ."
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:323
 msgid "Defeat (try to) the commander"
-msgstr ""
+msgstr "Sconfiggi il comandante (o tenta di farlo)"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:356
 msgid "It... is impossible!"
-msgstr ""
+msgstr "È... è impossibile!"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:357
 msgid ""
@@ -5177,7 +5511,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:390
 msgid "I am sorry... Galas... I... failed..."
-msgstr ""
+msgstr "Mi spiace... Galas... ho fallito..."
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:394
 msgid ""
@@ -5191,35 +5525,35 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:396
 msgid "You... won't..."
-msgstr ""
+msgstr "To... non..."
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:399
 msgid "What is this?"
-msgstr ""
+msgstr "Cos'è?"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:401
 msgid "But... the cave's roof! No!"
-msgstr ""
+msgstr "Ma... il soffitto della caverna! No!"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:402
 msgid "Yes, I'll not go alone!"
-msgstr ""
+msgstr "Sì, non me ne andrò da solo!"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:403
 msgid "You are mad!"
-msgstr ""
+msgstr "Sei matto!"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:404
 msgid "Aiyeee!! Run, run!! No, aaargh!"
-msgstr ""
+msgstr "Aiyeee!! Corri, corri!! No, aaargh!"
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:410
 msgid "Death will take us all now..."
-msgstr ""
+msgstr "Ora la morte ci afferrerà tutti..."
 
 #: Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:422
 msgid "And so it ended."
-msgstr ""
+msgstr "È finita."
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:4
 msgid "Bye and Behold"
@@ -5227,27 +5561,27 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:51
 msgid "Elran"
-msgstr ""
+msgstr "Elran"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:66
 msgid "Erathan"
-msgstr ""
+msgstr "Erathan"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:98
 msgid "Grilock"
-msgstr ""
+msgstr "Grilock"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:170
 msgid "Blynyr"
-msgstr ""
+msgstr "Blynyr"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:171
 msgid "Zednal"
-msgstr ""
+msgstr "Zednal"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:203
 msgid "Defeat the orcish leader"
-msgstr ""
+msgstr "Sconfiggi il comandante degli orchi"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:225
 msgid ""
@@ -5332,7 +5666,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:282
 msgid "The dwarves leave."
-msgstr ""
+msgstr "I nani se ne vanno."
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:283
 msgid "So the plan is to find the humans and ally with them, right Galas?"
@@ -5362,11 +5696,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:329
 msgid "Halt! Who goes there!"
-msgstr ""
+msgstr "Altolà! Chi va là?"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:330
 msgid "Erm... we, we are elves. We come in peace as refugees."
-msgstr ""
+msgstr "Ehm... noi, noi siamo elfi. Veniamo in pace e cerchiamo rifugio."
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:331
 msgid ""
@@ -5383,7 +5717,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:334
 msgid "Sssht, quiet!"
-msgstr ""
+msgstr "Sssht, zitto!"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:336
 msgid ""
@@ -5398,7 +5732,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:338
 msgid "This..."
-msgstr ""
+msgstr "Questo..."
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:339
 msgid "I have been called by many names, but none as disturbing as 'thing'..."
@@ -5427,7 +5761,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:344
 msgid "The demons."
-msgstr ""
+msgstr "I demoni."
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:345
 msgid "The what? That is what you are escaping from?"
@@ -5508,7 +5842,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:358
 msgid "Agreed."
-msgstr ""
+msgstr "D'accordo."
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:359
 msgid ""
@@ -5590,31 +5924,31 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:446
 msgid "Let's go. I don't think we have much time to waste here."
-msgstr ""
+msgstr "Andiamo. Non abbiamo tanto tempo da perdere."
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:458
 msgid "There they are! Charge!"
-msgstr ""
+msgstr "Eccoli! Carica!"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:459
 msgid "What? Are those elves? With undead? What the..."
-msgstr ""
+msgstr "Cosa? Gli elfi? Con i non-morti? Ma che..."
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:467
 msgid "Gaaargh... how could this happen to me!"
-msgstr ""
+msgstr "Gaaargh... come è potuto succedere!"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:468
 msgid "I'm really sorry, bro'... I have new... friends."
-msgstr ""
+msgstr "Mi spiace tanto, fra'... Ho dei nuovi... amici,"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:471
 msgid "Welcome to Narthyn"
-msgstr ""
+msgstr "Benvenuto a Narthyn"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:472
 msgid "Welcome to Fort Vyrnac"
-msgstr ""
+msgstr "Benvenuto a forte Vyrnac"
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:490
 msgid "Danger! Bridge no longer maintained; use it at your own risk."
@@ -5630,43 +5964,43 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:504
 msgid "Blargh, get that thing out of my sight!"
-msgstr ""
+msgstr "Bleah, portate quella cosa fuori dalla mia vista!"
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:6
 msgid "Impassable cave"
-msgstr ""
+msgstr "Caverna impraticabile"
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:16
 msgid "Village"
-msgstr ""
+msgstr "Villaggio"
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:28
 msgid "Campfire on Grass"
-msgstr ""
+msgstr "Bivacco nella prateria"
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:40
 msgid "Dark Road"
-msgstr ""
+msgstr "Strada oscura"
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:49
 msgid "Volcanic Abyss"
-msgstr ""
+msgstr "Abisso vulcanico"
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:57
 msgid "Stone Bridge"
-msgstr ""
+msgstr "Ponte di pietra"
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:67
 msgid "Dark Castle"
-msgstr ""
+msgstr "Castello oscuro"
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:81
 msgid "Dark Keep"
-msgstr ""
+msgstr "Forte oscuro"
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii.cfg:5
 msgid "race^Kagthanii Aliens"
-msgstr ""
+msgstr "Alieni Kagthanii"
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Psy_Crawler.cfg:5
 msgid "Psy Crawler"
@@ -5739,6 +6073,33 @@ msgid ""
 "Vine,Vual,Xandros,Xaphan,Yeqon,Yeter'el,Yomiel,Zagan,Zama,Zaqiel,Zepar,Zet,"
 "Zeth,Zuno"
 msgstr ""
+"Abalam,Abbadon,Abigor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
+"Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,Andrealphus,"
+"Andromalius,Antares,Apep,Arael,Araqiel,Arioch,Arkanthor,Armaros,Asael,Asag,"
+"Asb'el,Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,Balberith,Babeal,"
+"Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,Beelzebub,Behamoth,"
+"Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,Belzebuth,Beowulf,Berith,"
+"Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,Camal,Carniveau,Caror,"
+"Castor,Cerberus,Chamos,Chazaqiel,Corson,Daalberith,Dagon,Daniel,Dantalion,"
+"Decarabia,Deimos,Delchor,Demogorgon,Devan,Dubhor,Dumah,Dun,Eligos,Eurynomous,"
+"Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,"
+"Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hades,Humbaba,Iblis,Ipos,Jevan,"
+"Jevyan,Jutas,Juvart,Kabhanda,Kain,Kakko,Karo,Kasadya,Kasdaye,Kimaris,Kobal,"
+"Kokabiel,Kuno,Lasaroth,Legion,Lempo,Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,"
+"Lucifer,Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malphas,Malthus,Mammon,"
+"Marchocias,Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,"
+"Merihim,Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nati,Nebiros,"
+"Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,"
+"Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,"
+"Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pyhton,"
+"Rahab,Rahovart,Ramiel,Raum,Razakel,Regent,Regulus,Rimmon,Rhotomago,Ronove,"
+"Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,Sariel,Satan,"
+"Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,"
+"Sidragasum,Sin,Sith,Sitri,Sonnillon,Soufflet,Spar,Stolas,Surgat,Tabaet,"
+"Tamiel,Tannin,Taurus,Teeraal,Temeluchus,Thammuz,Theracar,Thorin,Thurin,Triel,"
+"Troy,Turiel,Turin,Turon,Umbriel,Urobach,Valac,Valefar,Vapula,Vassago,Verrine,"
+"Vine,Vual,Xandros,Xaphan,Yeqon,Yeter'el,Yomiel,Zagan,Zama,Zaqiel,Zepar,Zet,"
+"Zeth,Zuno"
 
 #: Invasion_from_the_Unknown/units/demons-and-imps.cfg:6
 msgid ""
@@ -5755,10 +6116,22 @@ msgid ""
 "Verrier,Vepar,Vulpecula,Xandar,Xeth,Xindra,Xindar,Yun,Yuna,Yuni,Zephyr,Zhul,"
 "Zuna"
 msgstr ""
+"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Ammit,Amy,Ania,Anna,Ariel,"
+"Ashtaroth,Astarte,Astoreth,Bellatrix,Bruxe,Charon,Charusse,Dana,Dara,Darma,"
+"Delepitore,Demona,Deth,Devila,Devira,Devyan,Dul,Duna,Eisheth Zenunil,Empusa,"
+"Euryale,Evila,Evira,Faira,Fania,Faria,Gaia,Gremory,Gresil,Hecate,Iril,Iruel,"
+"Issyl,Izara,Jarla,Jevyan,Juno,Kalah,Kaleh,Kana,Karma,Kindite,Kuna,Kyrah,"
+"Lamashtu,Lamia,Leliel,Leviathan,Lilia,Lilim,Lilin,Lilith,Lilitu,Lilya,Lyla,"
+"Magna,Mara,Medusa,Melchiresa,Melusine,Mir,Mir Kaleh,Musah,Naamah,Nebula,"
+"Neuralger,Nadia,Nidia,Nirvana,Nirvenia,Onoskelis,Prosperpine,Rangda,Rusalka,"
+"Sabata,Satana,Shar,Sheol,Selene,Sonnielion,Stheno,Sul,Summa,Sycorax,Syl,"
+"Sylin,Sylith,Symia,Talah,Talam,Taweret,Tundra,Turen,Tzitzimime,Unsere,Uzza,"
+"Verrier,Vepar,Vulpecula,Xandar,Xeth,Xindra,Xindar,Yun,Yuna,Yuni,Zephyr,Zhul,"
+"Zuna"
 
 #: Invasion_from_the_Unknown/units/demons-and-imps.cfg:11
 msgid "race^Demons"
-msgstr ""
+msgstr "Demoni"
 
 #: Invasion_from_the_Unknown/units/demons-and-imps.cfg:12
 msgid ""
@@ -5819,7 +6192,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Chaos_Hell_Guardian.cfg:27
 #: Invasion_from_the_Unknown/units/undead/Skele_Death_Baron.cfg:37
 msgid "sword"
-msgstr ""
+msgstr "spada"
 
 #: Invasion_from_the_Unknown/units/demons/Chaos_Warlord.cfg:44
 #: Invasion_from_the_Unknown/units/humans/Chaos_Invoker.cfg:38
@@ -5872,7 +6245,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/undead/Skeleton_Rider.cfg:42
 #: Invasion_from_the_Unknown/units/undead/Skeleton_Knight.cfg:43
 msgid "axe"
-msgstr ""
+msgstr "ascia"
 
 #: Invasion_from_the_Unknown/units/demons/Demon_Warrior.cfg:51
 #: Invasion_from_the_Unknown/units/demons/Demon.cfg:37
@@ -5892,7 +6265,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/demons/Demon_Warrior.cfg:37
 #: Invasion_from_the_Unknown/units/demons/Demon_Grunt.cfg:29
 msgid "TODO"
-msgstr ""
+msgstr "Da completare"
 
 #: Invasion_from_the_Unknown/units/demons/Demon_Grunt.cfg:123
 msgid "female^Demon Grunt"
@@ -5964,7 +6337,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/dwarves/Arcanister.cfg:28
 #: Invasion_from_the_Unknown/units/dwarves/Runesmith.cfg:30
 msgid "hammer"
-msgstr ""
+msgstr "martello"
 
 #: Invasion_from_the_Unknown/units/dwarves/Explorer.cfg:5
 msgid "Dwarvish Explorer"
@@ -5986,7 +6359,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/orcs-steppe/Massif.cfg:25
 #: Invasion_from_the_Unknown/units/orcs-steppe/Vanguard.cfg:41
 msgid "battle axe"
-msgstr ""
+msgstr "ascia da battaglia"
 
 #: Invasion_from_the_Unknown/units/dwarves/Flamethrower.cfg:5
 msgid "Dwarvish Flamethrower"
@@ -6002,7 +6375,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/dwarves/Flamethrower.cfg:35
 msgid "dagger"
-msgstr ""
+msgstr "pugnale"
 
 #: Invasion_from_the_Unknown/units/dwarves/Flamethrower.cfg:44
 msgid "firestick"
@@ -6025,7 +6398,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/dwarves/Gyrocopter.cfg:36
 #: Invasion_from_the_Unknown/units/dwarves/Steamcopter.cfg:37
 msgid "bombs"
-msgstr ""
+msgstr "bombe"
 
 #: Invasion_from_the_Unknown/units/dwarves/Pathfinder.cfg:5
 msgid "Dwarvish Pathfinder"
@@ -6133,15 +6506,15 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Slayer.cfg:77
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Strongbow.cfg:56
 msgid "bow"
-msgstr ""
+msgstr "arco"
 
 #: Invasion_from_the_Unknown/units/elves-wood/Civilian.cfg:140
 msgid "female^Elvish Civilian"
-msgstr ""
+msgstr "Elfa civile"
 
 #: Invasion_from_the_Unknown/units/elves-wood/Guard.cfg:5
 msgid "Elvish Guard"
-msgstr ""
+msgstr "Elfo guardia"
 
 #: Invasion_from_the_Unknown/units/elves-wood/Guard.cfg:30
 msgid ""
@@ -6169,7 +6542,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Captain.cfg:33
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Pikeman.cfg:28
 msgid "spear"
-msgstr ""
+msgstr "lancia"
 
 #: Invasion_from_the_Unknown/units/elves-wood/Guard.cfg:47
 #: Invasion_from_the_Unknown/units/humans/Loyalist_High_Guard.cfg:45
@@ -6178,7 +6551,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Chaos_Soulhunter.cfg:47
 #: Invasion_from_the_Unknown/units/humans/Loyalist_Death_Guard.cfg:44
 msgid "javelin"
-msgstr ""
+msgstr "giavellotto"
 
 #: Invasion_from_the_Unknown/units/elves-wood/Horseman.cfg:7
 msgid "Elvish Horseman"
@@ -6194,7 +6567,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:5
 msgid "Elvish Hunter"
-msgstr ""
+msgstr "Elfo cacciatore"
 
 #: Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:29
 msgid ""
@@ -6210,11 +6583,11 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/elves-wood/Trapper.cfg:46
 #: Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:47
 msgid "bola"
-msgstr ""
+msgstr "bolas"
 
 #: Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:128
 msgid "female^Elvish Hunter"
-msgstr ""
+msgstr "Elfa cacciatrice"
 
 #: Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:5
 msgid "Elvish Prowler"
@@ -6264,7 +6637,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Sorcerer.cfg:31
 #: Invasion_from_the_Unknown/units/undead/Necro_Dark_Sorcerer_Alt.cfg:29
 msgid "staff"
-msgstr ""
+msgstr "bastone"
 
 #: Invasion_from_the_Unknown/units/elves-wood/Shaman_Alt.cfg:41
 #: Invasion_from_the_Unknown/units/woses/Wose_Shaman.cfg:51
@@ -6308,7 +6681,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/fairies/Dryad.cfg:5
 msgid "Dryad"
-msgstr ""
+msgstr "Driade"
 
 #: Invasion_from_the_Unknown/units/fairies/Sprite.cfg:22
 #: Invasion_from_the_Unknown/units/fairies/Fire.cfg:22
@@ -6344,7 +6717,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/fairies/Lady_of_Light.cfg:5
 msgid "female^Lady of Light"
-msgstr ""
+msgstr "Signora della luce"
 
 #: Invasion_from_the_Unknown/units/fairies/Lady_of_Light.cfg:37
 msgid ""
@@ -6397,13 +6770,13 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Archer.cfg:85
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Strongbow.cfg:47
 msgid "knife"
-msgstr ""
+msgstr "coltello"
 
 #: Invasion_from_the_Unknown/units/goblins-steppe/Hunter.cfg:33
 #: Invasion_from_the_Unknown/units/goblins-steppe/Flanker.cfg:34
 #: Invasion_from_the_Unknown/units/goblins-steppe/Striker.cfg:40
 msgid "harpoon"
-msgstr ""
+msgstr "arpione"
 
 #: Invasion_from_the_Unknown/units/goblins-steppe/Hunter.cfg:5
 msgid "Steppe Hunter"
@@ -6433,7 +6806,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans.cfg:6
 msgid "race^Aragwaithi"
-msgstr ""
+msgstr "Aragwaithi"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Ancient_Banner.cfg:5
 msgid "Ancient Banner"
@@ -6441,7 +6814,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Archer.cfg:5
 msgid "Archer"
-msgstr ""
+msgstr "Arciere"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Archer.cfg:18
 msgid ""
@@ -6454,11 +6827,11 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Loyalist_Captain.cfg:5
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Captain.cfg:5
 msgid "Captain"
-msgstr ""
+msgstr "Capitano"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Master.cfg:5
 msgid "Eagle Master"
-msgstr ""
+msgstr "Signore delle aquile"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Master.cfg:19
 msgid ""
@@ -6474,7 +6847,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Rider.cfg:5
 msgid "Eagle Rider"
-msgstr ""
+msgstr "Cavalcatore delle aquile"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Rider.cfg:20
 msgid ""
@@ -6505,7 +6878,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Guard.cfg:5
 msgid "Guard"
-msgstr ""
+msgstr "Guardia"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Guard.cfg:22
 msgid ""
@@ -6517,7 +6890,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Guardian.cfg:5
 msgid "Guardian"
-msgstr ""
+msgstr "Guardiano"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Lancer.cfg:5
 msgid "Lancer"
@@ -6547,7 +6920,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Scout.cfg:5
 msgid "Scout"
-msgstr ""
+msgstr "Esploratore"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Shield_Guard.cfg:5
 msgid "Shield Guard"
@@ -6703,7 +7076,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans/Chaos_Blood_Knight.cfg:28
 msgid "TODO."
-msgstr ""
+msgstr "Da completare."
 
 #: Invasion_from_the_Unknown/units/humans/Chaos_Dark_Knight.cfg:5
 msgid "Dark Knight"
@@ -6735,11 +7108,11 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Loyalist_Swordsman.cfg:35
 #: Invasion_from_the_Unknown/units/humans/Chaos_Hell_Guardian.cfg:36
 msgid "shield"
-msgstr ""
+msgstr "scudo"
 
 #: Invasion_from_the_Unknown/units/humans/Chaos_Headhunter.cfg:5
 msgid "Headhunter"
-msgstr ""
+msgstr "Cacciatore di teste"
 
 #: Invasion_from_the_Unknown/units/humans/Chaos_Headhunter.cfg:25
 msgid ""
@@ -6752,7 +7125,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Chaos_Headhunter.cfg:30
 #: Invasion_from_the_Unknown/units/humans/Chaos_Soulhunter.cfg:30
 msgid "club"
-msgstr ""
+msgstr "clava"
 
 #: Invasion_from_the_Unknown/units/humans/Chaos_Hell_Guardian.cfg:5
 msgid "Hell Guardian"
@@ -6839,6 +7212,9 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Da completare\n"
+"\n"
+"Note speciali:"
 
 #: Invasion_from_the_Unknown/units/humans/Loyalist_Champion.cfg:19
 msgid ""
@@ -6857,7 +7233,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Loyalist_Death_Guard.cfg:53
 #: Invasion_from_the_Unknown/units/mechanical/Automaton.cfg:54
 msgid "rectangular shield"
-msgstr ""
+msgstr "scudo rettangolare"
 
 #: Invasion_from_the_Unknown/units/humans/Loyalist_City_Guard.cfg:5
 msgid "City Guard"
@@ -6899,7 +7275,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans/Loyalist_Dark_General.cfg:51
 msgid "crossbow"
-msgstr ""
+msgstr "balestra"
 
 #: Invasion_from_the_Unknown/units/humans/Loyalist_Death_Guard.cfg:5
 msgid "Deathguard"
@@ -7043,7 +7419,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/mechanical/Automaton.cfg:7
 msgid "Automaton"
-msgstr ""
+msgstr "Automa"
 
 #: Invasion_from_the_Unknown/units/mechanical/Automaton.cfg:37
 msgid ""
@@ -7074,7 +7450,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:14
 msgid "Mechanical Goliath"
-msgstr ""
+msgstr "Gigante meccanico"
 
 #: Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:46
 msgid ""
@@ -7099,7 +7475,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/undead/Necro_Dark_Adept_Alt.cfg:30
 #: Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:54
 msgid "fist"
-msgstr ""
+msgstr "pugno"
 
 #: Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:63
 msgid "flash-bomb"
@@ -7107,7 +7483,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/monsters/Cockatrice.cfg:5
 msgid "Cockatrice"
-msgstr ""
+msgstr "Cockatrice"
 
 #: Invasion_from_the_Unknown/units/monsters/Cockatrice.cfg:18
 msgid ""
@@ -7141,7 +7517,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/monsters/Giant_Ant.cfg:5
 msgid "Giant Ant"
-msgstr ""
+msgstr "Formica gigante"
 
 #: Invasion_from_the_Unknown/units/monsters/Giant_Ant.cfg:18
 msgid ""
@@ -7249,7 +7625,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Crow.cfg:5
 msgid "Crow"
-msgstr ""
+msgstr "Corvo"
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Crow.cfg:21
 msgid ""
@@ -7260,11 +7636,11 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/monsters/NPC_Crow.cfg:26
 #: Invasion_from_the_Unknown/units/monsters/NPC_Falcon.cfg:26
 msgid "beak"
-msgstr ""
+msgstr "becco"
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Falcon.cfg:5
 msgid "Falcon"
-msgstr ""
+msgstr "Falcone"
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Falcon.cfg:21
 msgid ""
@@ -7275,7 +7651,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Fungoid.cfg:6
 msgid "Fungoid"
-msgstr ""
+msgstr "Fungoide"
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Fungoid.cfg:22
 msgid ""
@@ -7298,7 +7674,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Rabbit.cfg:4
 msgid "Rabbit"
-msgstr ""
+msgstr "Coniglio"
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Rabbit.cfg:18
 msgid ""
@@ -7316,13 +7692,15 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Tux.cfg:5
 msgid "Tux the Penguin"
-msgstr ""
+msgstr "Il pinguino Tux"
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Tux.cfg:18
 msgid ""
 "Nobody knows where the Tux came from. Rumour has it that it's the avatar of "
 "the destruction wind in this world."
 msgstr ""
+"Nessuno sa da dove venga Tux. Voci dicono che sia la manifestazione del "
+"vento di distruzione di questo mondo."
 
 #: Invasion_from_the_Unknown/units/monsters/NPC_Tux.cfg:21
 msgid "kernel panic"
@@ -7330,7 +7708,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/monsters/Tiger.cfg:5
 msgid "Tiger"
-msgstr ""
+msgstr "Tigre"
 
 #: Invasion_from_the_Unknown/units/monsters/Water_Serpent.cfg:5
 msgid "Water Serpent"
@@ -8058,7 +8436,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/utils/abilities.cfg:181
 #: Invasion_from_the_Unknown/utils/abilities.cfg:231
 msgid "terror"
-msgstr ""
+msgstr "terrore"
 
 #: Invasion_from_the_Unknown/utils/abilities.cfg:149
 #: Invasion_from_the_Unknown/utils/abilities.cfg:185
@@ -8127,7 +8505,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/utils/amla-custom.cfg:102
 msgid "thorns"
-msgstr ""
+msgstr "spine"
 
 #: Invasion_from_the_Unknown/utils/items.cfg:100
 msgid "Hey! I have just found {AMOUNT} pieces of gold in this chest!"
@@ -8135,7 +8513,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/utils/items.cfg:120
 msgid "Poison Arrows"
-msgstr ""
+msgstr "Frecce avvelenate"
 
 #: Invasion_from_the_Unknown/utils/items.cfg:123
 msgid ""
@@ -8152,7 +8530,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/utils/items.cfg:143
 msgid "poisoned arrows"
-msgstr ""
+msgstr "frecce avvelenate"
 
 #: Invasion_from_the_Unknown/utils/items.cfg:195
 msgid "Do you want this unit to pick up the sword?"
@@ -8161,7 +8539,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/utils/items.cfg:197
 #: Invasion_from_the_Unknown/utils/items.cfg:283
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #: Invasion_from_the_Unknown/utils/items.cfg:201
 msgid "Flaming Sword"
@@ -8193,7 +8571,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/utils/items.cfg:252
 #: Invasion_from_the_Unknown/utils/items.cfg:374
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: Invasion_from_the_Unknown/utils/items.cfg:281
 msgid "Do you want this unit to pick up the armor?"
@@ -8264,7 +8642,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/utils/scenario-deaths.cfg:36
 msgid "Galas? Galas, no!"
-msgstr ""
+msgstr "Galas? Galas, no!"
 
 #: Invasion_from_the_Unknown/utils/scenario-deaths.cfg:41
 msgid "Ugh."
@@ -8288,7 +8666,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/utils/scenario-deaths.cfg:168
 msgid "Nooo! Elynia!"
-msgstr ""
+msgstr "Nooo! Elynia!"
 
 #: Invasion_from_the_Unknown/utils/scenario-deaths.cfg:182
 msgid "The Lady of Light has fallen! What... what have we done?!"
@@ -8296,7 +8674,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/utils/scenario-deaths.cfg:187
 msgid "You are next, you fools!"
-msgstr ""
+msgstr "E voi sarete i prossimo, sciocchi!"
 
 #: Invasion_from_the_Unknown/utils/scenario-deaths.cfg:201
 msgid "That hurts... *ugh*"
@@ -8447,10 +8825,13 @@ msgid ""
 "the greatest elvish lady of the old age fell asleep, for the rest of "
 "eternity."
 msgstr ""
+"Attese per anni e secoli, ma non tornò mai. Persa ogni speranza, la più "
+"grande signora degli elfi di tutti i tempi cadde addormentata, per il resto "
+"dell'eternità."
 
 #: Invasion_from_the_Unknown/utils/storytxt.cfg:69
 msgid "Then, Yechnagoth came."
-msgstr ""
+msgstr "Quindi, venne Yechnagoth."
 
 #: Invasion_from_the_Unknown/utils/storytxt.cfg:73
 msgid ""
@@ -8524,7 +8905,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/utils/storytxt.cfg:109
 msgid "Episode 1: Into the Darkness."
-msgstr ""
+msgstr "Episodio 1: Nell'oscurità"
 
 #: Invasion_from_the_Unknown/utils/storytxt.cfg:112
 msgid ""
@@ -8685,6 +9066,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/utils/storytxt.cfg:208
 msgid "We continued north-west, the mountains growing taller and taller."
 msgstr ""
+"Continuammo verso nord-ovest, mentre le montagne diventavano sempre più alte."
 
 #: Invasion_from_the_Unknown/utils/storytxt.cfg:212
 msgid ""
@@ -8741,11 +9123,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/utils/storytxt.cfg:249
 msgid "Episode 2: Searching for the Light"
-msgstr ""
+msgstr "Episodio 2: La ricerca della luce"
 
 #: Invasion_from_the_Unknown/utils/storytxt.cfg:281
 msgid "Episode 3: Abroad"
-msgstr ""
+msgstr "Episodio 3: Fuori"
 
 #: Invasion_from_the_Unknown/utils/weapon-specials.cfg:6
 #: Invasion_from_the_Unknown/utils/weapon-specials.cfg:7
