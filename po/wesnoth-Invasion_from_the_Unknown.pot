@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-11-08 16:27+0100\n"
+"POT-Creation-Date: 2007-11-08 17:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4676,36 +4676,20 @@ msgstr ""
 msgid "Death of Erathan"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:6
-msgid "Impassable cave"
+#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:8 ./Invasion_from_the_Unknown/terrain/terrain.cfg:21
+msgid "Campfire"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:16
-msgid "Village"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:28
-msgid "Campfire on Grass"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:40
-msgid "Dark Road"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:49
+#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:34
 msgid "Volcanic Abyss"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:57
-msgid "Stone Bridge"
+#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:42
+msgid "Abyss Bridge"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:67
-msgid "Dark Castle"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:81
-msgid "Dark Keep"
+#: ./Invasion_from_the_Unknown/terrain/terrain.cfg:53
+msgid "Gate"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/alien-kagthanii.cfg:5
@@ -4717,14 +4701,10 @@ msgid "Psy Crawler"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/alien-kagthanii/Psy_Crawler.cfg:18
-msgid "The Psy Crawlers are the grunt attack force of the Kagthanii. Being rather slow and weak, they are a true menace when facing unexperienced fighters."
+msgid "The Psy Crawlers are the grunt attack force of the Kagthanii. Being rather slow and weak, they are a true menace for unexperienced fighters."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/bats/Bat_Dread.cfg:48 ./Invasion_from_the_Unknown/units/monsters/Giant_Spider_Lesser.cfg:24 ./Invasion_from_the_Unknown/units/monsters/Hound_Chaos.cfg:23 ./Invasion_from_the_Unknown/units/monsters/Giant_Ant.cfg:23 ./Invasion_from_the_Unknown/units/monsters/Hound_Hell.cfg:31 ./Invasion_from_the_Unknown/units/monsters/Water_Serpent.cfg:26 ./Invasion_from_the_Unknown/units/monsters/Hound_Demonic.cfg:30 ./Invasion_from_the_Unknown/units/monsters/Tiger.cfg:40 ./Invasion_from_the_Unknown/units/alien-kagthanii/Psy_Crawler.cfg:22
-msgid "fangs"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/alien-kagthanii/Psy_Crawler.cfg:31
+#: ./Invasion_from_the_Unknown/units/alien-kagthanii/Psy_Crawler.cfg:33
 msgid "energy ray"
 msgstr ""
 
@@ -4732,7 +4712,7 @@ msgstr ""
 msgid "Dread Bat"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/bats/Bat_Dread.cfg:43
+#: ./Invasion_from_the_Unknown/units/bats/Bat_Dread.cfg:44
 msgid ""
 "Dread Bats are fast and can drain the blood of those they attack, thereby healing themselves, even to the point where they become stronger than they began the battle. Bloated with blood they have grown to a huge size and can feast on bigger and bigger victims.\n"
 "\n"
@@ -4767,19 +4747,18 @@ msgstr ""
 msgid "female^Chaos Warlord"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/demons/Chaos_Warlord.cfg:30
-msgid "No one has seen such a thing before."
+#: ./Invasion_from_the_Unknown/units/demons/Chaos_Warlord.cfg:31
+msgid ""
+"The greatest demons are almost never seen in action, as they stay in the safety of their hideous fortresses to oversee the strategic performance of the Chaos armies. Although it might be an uncertain fact, as it is doubted by many, that if someone had the misfortune of facing a real Chaos Warlord, they would survive to tell others. Those hypothetical events might signal the obliveration of entire countries, or continents, as that has mysteriously happened before, with no trivial explanation at all.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:34 ./Invasion_from_the_Unknown/units/elves-wood/Horseman.cfg:44 ./Invasion_from_the_Unknown/units/elves-wood/Trapper.cfg:37 ./Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:38 ./Invasion_from_the_Unknown/units/elves-wood/Civilian.cfg:24 ./Invasion_from_the_Unknown/units/demons/Chaos_Warlord.cfg:35 ./Invasion_from_the_Unknown/units/humans/Loyalist_Champion.cfg:28 ./Invasion_from_the_Unknown/units/humans/Chaos_Doom_Guard.cfg:26 ./Invasion_from_the_Unknown/units/humans/Loyalist_Captain.cfg:51 ./Invasion_from_the_Unknown/units/humans/Loyalist_Man-at-Arms.cfg:26 ./Invasion_from_the_Unknown/units/humans/Loyalist_Commander.cfg:51 ./Invasion_from_the_Unknown/units/humans/Chaos_Hell_Overlord.cfg:34 ./Invasion_from_the_Unknown/units/humans/Loyalist_Swordsman.cfg:26 ./Invasion_from_the_Unknown/units/humans/Loyalist_Dark_General.cfg:42 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Shield_Guard.cfg:28 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Greatbow.cfg:62 ./Invasion_from_the_Unknown/units/humans/Chaos_Dark_Knight.cfg:35 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Ancient_Banner.cfg:42 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Flagbearer.cfg:41 ./Invasion_from_the_Unknown/units/humans/Chaos_Invader.cfg:33 ./Invasion_from_the_Unknown/units/humans/Chaos_Blood_Knight.cfg:33 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Captain.cfg:41 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Swordsman.cfg:48 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Guard.cfg:49 ./Invasion_from_the_Unknown/units/humans/Chaos_Hell_Guardian.cfg:27 ./Invasion_from_the_Unknown/units/undead/Skele_Death_Baron.cfg:37
-msgid "sword"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/demons/Chaos_Warlord.cfg:44 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker.cfg:38 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:39
+#: ./Invasion_from_the_Unknown/units/demons/Chaos_Warlord.cfg:47 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker.cfg:40 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:53
 msgid "ethereal blast"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/demons/Chaos_Warlord.cfg:56 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:51
+#: ./Invasion_from_the_Unknown/units/demons/Demon_Warrior.cfg:48 ./Invasion_from_the_Unknown/units/demons/Chaos_Warlord.cfg:59 ./Invasion_from_the_Unknown/units/demons/Demon_Grunt.cfg:47 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:41
 msgid "infernal chill"
 msgstr ""
 
@@ -4787,24 +4766,14 @@ msgstr ""
 msgid "Demon"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/demons/Demon.cfg:24
+#: ./Invasion_from_the_Unknown/units/demons/Demon.cfg:22
 msgid ""
 "Legend has it that, when the world and its inhabitants were born, there were powerful creatures, called 'demons', able to control all the inferior species. Supposedly, the Lords of Light and Darkness restricted them to a separate plane, were they would be trapped with no posibility to get out or in, unless a portal from the mortal plane was deliberately opened. Fortunately for people of former times, nobody ever figured out how to open that portal, until now.\n"
 "\n"
-"Demons are nimble and quite tough creatures, who don't need armor or clothing to protect themselves from physical damage. Nevertheless, their appearance resembles that of a human. Most of them carry some kind of weapon, although their claws and ability to throw fireballs at their enemies usually fit better their purpose of seeking suffering and blood in their oponents.\n"
-"\n"
-"Special Notes:"
+"Demons are nimble and quite tough creatures, who don't need armor or clothing to protect themselves from physical damage. Nevertheless, their appearance resembles that of a human. Most of them carry some kind of weapon, although their claws and ability to throw fireballs at their enemies usually fit better their purpose of seeking suffering and blood in their oponents."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/dwarves/Scout.cfg:23 ./Invasion_from_the_Unknown/units/dwarves/Scout.cfg:31 ./Invasion_from_the_Unknown/units/dwarves/Pathfinder.cfg:23 ./Invasion_from_the_Unknown/units/dwarves/Pathfinder.cfg:31 ./Invasion_from_the_Unknown/units/dwarves/Explorer.cfg:38 ./Invasion_from_the_Unknown/units/demons/Demon_Warrior.cfg:42 ./Invasion_from_the_Unknown/units/demons/Demon.cfg:29 ./Invasion_from_the_Unknown/units/demons/Demon_Grunt.cfg:34 ./Invasion_from_the_Unknown/units/humans/Chaos_Marauder.cfg:37 ./Invasion_from_the_Unknown/units/humans/Chaos_Hell_Overlord.cfg:43 ./Invasion_from_the_Unknown/units/humans/Chaos_Soulhunter.cfg:38 ./Invasion_from_the_Unknown/units/humans/Chaos_Dark_Knight.cfg:44 ./Invasion_from_the_Unknown/units/humans/Chaos_Blood_Knight.cfg:42 ./Invasion_from_the_Unknown/units/undead/Skeleton_Rider.cfg:42 ./Invasion_from_the_Unknown/units/undead/Skeleton_Knight.cfg:43
-msgid "axe"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/demons/Demon_Warrior.cfg:51 ./Invasion_from_the_Unknown/units/demons/Demon.cfg:37 ./Invasion_from_the_Unknown/units/demons/Demon_Winged.cfg:48 ./Invasion_from_the_Unknown/units/demons/Demon_Grunt.cfg:43
-msgid "fireball"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/demons/Demon.cfg:111
+#: ./Invasion_from_the_Unknown/units/demons/Demon.cfg:108
 msgid "female^Demon"
 msgstr ""
 
@@ -4812,8 +4781,11 @@ msgstr ""
 msgid "Demon Grunt"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/demons/Demon_Warrior.cfg:37 ./Invasion_from_the_Unknown/units/demons/Demon_Grunt.cfg:29
-msgid "TODO"
+#: ./Invasion_from_the_Unknown/units/demons/Demon_Grunt.cfg:31
+msgid ""
+"The best of demons are noted by their greater strength and resiliance, along with their lack of fear to sunlight. This turns them into living, if that can be said, weapons for their masters, weapons that listen and obey with no complaints to them. They are given armour and better weapons to help them endure in battle, as the Chaos lores are aware of how valuable such grunts are in the battlefield.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/demons/Demon_Grunt.cfg:123
@@ -4824,7 +4796,14 @@ msgstr ""
 msgid "Demon Warrior"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/demons/Demon_Warrior.cfg:128
+#: ./Invasion_from_the_Unknown/units/demons/Demon_Warrior.cfg:32
+msgid ""
+"The few men, elves or orcs that have dared underestimate the might of demonic warriors, have had a long and painful death, in exchange. The power of the Chaos lords relies in their wisdom to select the best of the best grunts to serve them with loyalty and unconditionality; thus, few are the bestowed demons which get in the last rank below the overlords, and those few, although rarely seen in battlefield, can only bring the definite defeat of an army, and obliveration, afterwards.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/demons/Demon_Warrior.cfg:120
 msgid "female^Demon Warrior"
 msgstr ""
 
@@ -4834,16 +4813,12 @@ msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/demons/Demon_Winged.cfg:34
 msgid ""
-"Some demons don't develop their destructive power further, but instead develop leathery wings, and the ability to fly large distances with them. Since weapons and armor prove to be heavy and inadequate for flying high, they drop them and rely in their natural toughness and sharp claws instead. In any case, albeit their fireball attack is not as fast as before due to lack of practice, its destructive power has importantly increased.\n"
+"Some demons don't develop their destructive power further, but instead develop leathery wings, and the ability to fly large distances with them. Since weapons and armor prove to be heavy and inadequate for flying high, they drop them and rely in their natural toughness and sharp claws instead. In any case, while their brethen's ranged power relies on the ability to call upon the icy winds of inferno, these fearsome flying monsters attack using their improved skills on creating fireballs which they throw at their oponent. With the advantage given by altitude, they rarely miss their targets when attacking.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/imps/Minor.cfg:30 ./Invasion_from_the_Unknown/units/imps/Imp.cfg:30 ./Invasion_from_the_Unknown/units/imps/Gutwrencher.cfg:35 ./Invasion_from_the_Unknown/units/imps/Blood.cfg:29 ./Invasion_from_the_Unknown/units/demons/Demon_Winged.cfg:39 ./Invasion_from_the_Unknown/units/monsters/NPC_Crow.cfg:37 ./Invasion_from_the_Unknown/units/monsters/NPC_Rabbit.cfg:31 ./Invasion_from_the_Unknown/units/monsters/NPC_Falcon.cfg:37 ./Invasion_from_the_Unknown/units/monsters/Tiger.cfg:49 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Master.cfg:27 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Rider.cfg:28
-msgid "claws"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/demons/Demon_Winged.cfg:122
+#: ./Invasion_from_the_Unknown/units/demons/Demon_Winged.cfg:123
 msgid "female^Winged Demon"
 msgstr ""
 
@@ -4863,20 +4838,12 @@ msgstr ""
 msgid "The most powerful of all the runecrafters, the Dwarvish Arcanister destroys wounded enemies almost instantly, and rarely fails to cause a wound when that is his intent. His skill in runecrafting is unrivaled, and the glyphs he carves into his weapons and armor deflect the blows of his enemies."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/dwarves/Runemaster.cfg:27 ./Invasion_from_the_Unknown/units/dwarves/Arcanister.cfg:28 ./Invasion_from_the_Unknown/units/dwarves/Runesmith.cfg:30
-msgid "hammer"
-msgstr ""
-
 #: ./Invasion_from_the_Unknown/units/dwarves/Explorer.cfg:5
 msgid "Dwarvish Explorer"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/dwarves/Explorer.cfg:24
 msgid "Dwarven Explorers often travel alone through unknown lands, slaying enemies and scouting out new deposits of ore and other precious minerals. They are strong enough to wear thicker armor, giving them added protection against physical attacks. They are the powerful fighters, second only to the Dwarven lords, and their amazing maneuverability makes them dangerous indeed."
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/dwarves/Explorer.cfg:29 ./Invasion_from_the_Unknown/units/orcs-steppe/Warrior.cfg:24 ./Invasion_from_the_Unknown/units/orcs-steppe/Bladesman.cfg:24 ./Invasion_from_the_Unknown/units/orcs-steppe/Khan.cfg:43 ./Invasion_from_the_Unknown/units/orcs-steppe/Massif.cfg:25 ./Invasion_from_the_Unknown/units/orcs-steppe/Vanguard.cfg:41
-msgid "battle axe"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/dwarves/Flamethrower.cfg:5
@@ -4887,23 +4854,15 @@ msgstr ""
 msgid "It is said that the Dwarven Flamethrowers have strange staves of wood and iron, similar to those of the Thunderguards; but instead of making a thunderous noise shooting a projectile, their weapon generates a continous tongue of flame."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/dwarves/Flamethrower.cfg:35
-msgid "dagger"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/dwarves/Flamethrower.cfg:44
-msgid "firestick"
-msgstr ""
-
 #: ./Invasion_from_the_Unknown/units/dwarves/Gyrocopter.cfg:5
 msgid "Gyrocopter"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/dwarves/Gyrocopter.cfg:19
+#: ./Invasion_from_the_Unknown/units/dwarves/Gyrocopter.cfg:20
 msgid "Some dwarves have crafted strange machines they call 'Gyrocopters'. Capable of flight, they need space to manoeuvre, thus they cannot be used underground. Gyrocopters are hard to control and are not suited to close combat. Instead, their drivers throw strange eggs they call 'bombs', that explode with the sound of thunder. None know what strange beast lays such eggs."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/dwarves/Gyrocopter.cfg:36 ./Invasion_from_the_Unknown/units/dwarves/Steamcopter.cfg:37
+#: ./Invasion_from_the_Unknown/units/dwarves/Gyrocopter.cfg:37 ./Invasion_from_the_Unknown/units/dwarves/Steamcopter.cfg:38
 msgid "bombs"
 msgstr ""
 
@@ -4915,11 +4874,7 @@ msgstr ""
 msgid "Dwarvish Pathfinders are faster, stronger and even deadlier with their axes than normal dwarvish scouts. They often race ahead of the main force, scouting out unfamiliar terrain and securing villages and chokepoints."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/dwarves/Runemaster.cfg:5
-msgid "Dwarvish Runemaster"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/dwarves/Runemaster.cfg:22
+#: ./Invasion_from_the_Unknown/units/dwarves/Runemaster.cfg:24
 msgid "Except for those with almost supernatural skill, the highest rank a runecrafter can rise to is that of the Dwarvish Runemaster. Striking blows nearly as powerful as those of the best warriors, they would be fearsome without their craft, but with it they are also nigh on invincible, since their runes cause the physical blows of their enemies to deal less damage than would be expected."
 msgstr ""
 
@@ -4943,7 +4898,7 @@ msgstr ""
 msgid "Steamcopter"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/dwarves/Steamcopter.cfg:20
+#: ./Invasion_from_the_Unknown/units/dwarves/Steamcopter.cfg:21
 msgid "With the aid of steam genies, Steamcopters are able to move faster and carry more bombs than Gyrocopters."
 msgstr ""
 
@@ -4971,11 +4926,7 @@ msgstr ""
 msgid "Since elves are not warlike by nature, most of their population is composed by civilians, who learn, at very early age, basic usage of swords and bows, so that they can defend themselves, or their homes, in times of need, forming a fairly skilled militia. However, if you are hurling civilians at your foes, you're clearly out of superior forces."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/elves-wood/Horseman.cfg:53 ./Invasion_from_the_Unknown/units/elves-wood/Civilian.cfg:33 ./Invasion_from_the_Unknown/units/humans/Loyalist_Captain.cfg:60 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Archer.cfg:94 ./Invasion_from_the_Unknown/units/humans/Loyalist_Commander.cfg:60 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Greatbow.cfg:71 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Slayer.cfg:77 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Strongbow.cfg:56
-msgid "bow"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/elves-wood/Civilian.cfg:140
+#: ./Invasion_from_the_Unknown/units/elves-wood/Civilian.cfg:142
 msgid "female^Elvish Civilian"
 msgstr ""
 
@@ -4988,14 +4939,6 @@ msgid ""
 "Some elves prefer to stay in the safety of their forests rather than fight and wander around in the outsides. They are dedicated to enforce law and security in elven territory, with a spear and a javelin as weapons, and their resiliance is their best defense against invaders who dare enter their domains.\n"
 "\n"
 "Special Notes:"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/elves-wood/Guard.cfg:38 ./Invasion_from_the_Unknown/units/orcs-steppe/Skewer.cfg:27 ./Invasion_from_the_Unknown/units/orcs-steppe/Spearman.cfg:24 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Scout.cfg:72 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Lancer.cfg:72 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Spearman.cfg:50 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Silver_Shield.cfg:73 ./Invasion_from_the_Unknown/units/humans/Loyalist_Death_Guard.cfg:32 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Ancient_Banner.cfg:34 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Flagbearer.cfg:33 ./Invasion_from_the_Unknown/units/humans/Loyalist_City_Guard.cfg:25 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Guardian.cfg:29 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Captain.cfg:33 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Pikeman.cfg:28
-msgid "spear"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/elves-wood/Guard.cfg:47 ./Invasion_from_the_Unknown/units/humans/Loyalist_High_Guard.cfg:45 ./Invasion_from_the_Unknown/units/humans/Chaos_Marauder.cfg:45 ./Invasion_from_the_Unknown/units/humans/Chaos_Headhunter.cfg:38 ./Invasion_from_the_Unknown/units/humans/Chaos_Soulhunter.cfg:47 ./Invasion_from_the_Unknown/units/humans/Loyalist_Death_Guard.cfg:44
-msgid "javelin"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/elves-wood/Horseman.cfg:7
@@ -5013,18 +4956,18 @@ msgstr ""
 msgid "Elvish Hunter"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:29
+#: ./Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:32
 msgid ""
-"The Elvish Militia is mainly composed of civilians who have dropped their bows in favour of entangling unwary oponents using their bolas, and then finish them off with their swords. They are trained to scour the woods, hills and mountains for prey and enemies.\n"
+"The elvish militia is mainly composed of civilians who have dropped their bows in favour of entangling unwary oponents using their bolas, and then finish them off with their swords. They are trained to scour the woods, hills and mountains for prey and enemies.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:43 ./Invasion_from_the_Unknown/units/elves-wood/Trapper.cfg:46 ./Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:47
+#: ./Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:48 ./Invasion_from_the_Unknown/units/elves-wood/Trapper.cfg:51 ./Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:52
 msgid "bola"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:128
+#: ./Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:133
 msgid "female^Elvish Hunter"
 msgstr ""
 
@@ -5032,54 +4975,29 @@ msgstr ""
 msgid "Elvish Prowler"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:33
+#: ./Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:36
 msgid ""
 "Elvish Prowlers patrol woods, hills and mountains; they are trained to avoid enemies when it is advantageous. They can cripple opponents with their bolas and are deadly with their swords.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:132
+#: ./Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:137
 msgid "female^Elvish Prowler"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/elves-wood/Shaman_Alt.cfg:5
-msgid "female^Elvish Shaman"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/elves-wood/Shaman_Alt.cfg:25
-msgid ""
-"Being partly faerie in nature, elves have an inherent capability for magic. This is realized in their affinity with the natural world, which they can call upon as an ally in combat. Enemies wandering in their forests may soon find themselves entangled by roots and hindered by the very ground they stand on.\n"
-"\n"
-"The healing abilities of the elves are also remarkable, and of capital use in battle.\n"
-"\n"
-"Special Notes:"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/elves-wood/Shaman_Alt.cfg:32 ./Invasion_from_the_Unknown/units/fairies/Lady_of_Light.cfg:45 ./Invasion_from_the_Unknown/units/orcs-steppe/Icewind_Master.cfg:34 ./Invasion_from_the_Unknown/units/orcs-steppe/Icewind_Herder.cfg:36 ./Invasion_from_the_Unknown/units/orcs-steppe/Icewind_Drover.cfg:34 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker.cfg:29 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:30 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Wizard.cfg:25 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Warlock.cfg:31 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Magus.cfg:29 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Sorcerer.cfg:31 ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Sorcerer_Alt.cfg:29
-msgid "staff"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/elves-wood/Shaman_Alt.cfg:41 ./Invasion_from_the_Unknown/units/woses/Wose_Shaman.cfg:51
-msgid "entangle"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/elves-wood/Shaman_Alt.cfg:52 ./Invasion_from_the_Unknown/units/fairies/Lady_of_Light.cfg:69
-msgid "faerie fire"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/elves-wood/Trapper.cfg:5
 msgid "Elvish Trapper"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/elves-wood/Trapper.cfg:32
+#: ./Invasion_from_the_Unknown/units/elves-wood/Trapper.cfg:35
 msgid ""
 "Elvish Trappers patrol woods, hills and mountains; they are trained to avoid enemies when it is advantageous. They can cripple opponents with their bolas and are deadly with their swords.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/elves-wood/Trapper.cfg:131
+#: ./Invasion_from_the_Unknown/units/elves-wood/Trapper.cfg:136
 msgid "female^Elvish Trapper"
 msgstr ""
 
@@ -5118,17 +5036,13 @@ msgstr ""
 msgid "female^Lady of Light"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/fairies/Lady_of_Light.cfg:37
+#: ./Invasion_from_the_Unknown/units/fairies/Lady_of_Light.cfg:34
 msgid ""
 "Unknown origins and paths led this elven lady, mostly dryad in nature, to a state of great holyness and mastery of arcane magics. Now her very body shines with the powers of Light that she controls as the terrenal guardian of all that is beautiful and vivifying. Hence she has been known under many names, including the Sylvan Essence, the Lady of Light, the Source of Light, and Eloh. However, most of her powers are now inactive because of being asleep for centuries, so she must learn to reacquire them with experience and meditation.\n"
 "\n"
-"Very little is what common people know about her true source of power, which relies in the Union of the Darkness and Light in a single, balanced power. However, she has no ability herself to control the powers of darkness, which suggests she needs the support of someone else to call upon the Union. That was, according to ancient elvish legends, what vanquished the greatest -up to now- evil from this world,\n"
+"Very little is what common people know about her true source of power, which relies in the Union of the Darkness and Light in a single, balanced power. However, she has no ability herself to control the powers of darkness, which suggests she needs the support of someone else to call upon the Union. That was, according to an ancient elvish legend, what vanquished the greatest -up to now- evil from this world.\n"
 "\n"
 "Special Notes:"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/fairies/Lady_of_Light.cfg:57
-msgid "ensnare"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/fairies/Spirit.cfg:5
@@ -5179,12 +5093,24 @@ msgstr ""
 msgid "Ancient Banner"
 msgstr ""
 
+#: ./Invasion_from_the_Unknown/units/orcs-steppe/Skewer.cfg:27 ./Invasion_from_the_Unknown/units/orcs-steppe/Spearman.cfg:24 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Scout.cfg:72 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Lancer.cfg:72 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Spearman.cfg:50 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Silver_Shield.cfg:73 ./Invasion_from_the_Unknown/units/humans/Loyalist_Death_Guard.cfg:32 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Ancient_Banner.cfg:34 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Flagbearer.cfg:33 ./Invasion_from_the_Unknown/units/humans/Loyalist_City_Guard.cfg:25 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Guardian.cfg:29 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Captain.cfg:33 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Pikeman.cfg:28
+msgid "spear"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/humans/Loyalist_Champion.cfg:28 ./Invasion_from_the_Unknown/units/humans/Chaos_Doom_Guard.cfg:26 ./Invasion_from_the_Unknown/units/humans/Loyalist_Captain.cfg:51 ./Invasion_from_the_Unknown/units/humans/Loyalist_Man-at-Arms.cfg:26 ./Invasion_from_the_Unknown/units/humans/Loyalist_Commander.cfg:51 ./Invasion_from_the_Unknown/units/humans/Chaos_Hell_Overlord.cfg:34 ./Invasion_from_the_Unknown/units/humans/Loyalist_Swordsman.cfg:26 ./Invasion_from_the_Unknown/units/humans/Loyalist_Dark_General.cfg:42 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Shield_Guard.cfg:28 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Greatbow.cfg:62 ./Invasion_from_the_Unknown/units/humans/Chaos_Dark_Knight.cfg:35 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Ancient_Banner.cfg:42 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Flagbearer.cfg:41 ./Invasion_from_the_Unknown/units/humans/Chaos_Invader.cfg:33 ./Invasion_from_the_Unknown/units/humans/Chaos_Blood_Knight.cfg:33 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Captain.cfg:41 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Swordsman.cfg:48 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Guard.cfg:49 ./Invasion_from_the_Unknown/units/humans/Chaos_Hell_Guardian.cfg:27
+msgid "sword"
+msgstr ""
+
 #: ./Invasion_from_the_Unknown/units/humans/Aragwaith_Archer.cfg:5
 msgid "Archer"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/humans/Aragwaith_Archer.cfg:18
 msgid "The Aragwaithi are a noble people, fragile in body, but their training makes them among the more deadly denizens of this world. Their archers are no exception. Their skills with a bow are comparable to those of some elves, and they are remarkably quick with their daggers."
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/humans/Loyalist_Captain.cfg:60 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Archer.cfg:94 ./Invasion_from_the_Unknown/units/humans/Loyalist_Commander.cfg:60 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Greatbow.cfg:71 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Slayer.cfg:77 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Strongbow.cfg:56
+msgid "bow"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/humans/Loyalist_Captain.cfg:5 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Captain.cfg:5
@@ -5197,6 +5123,10 @@ msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Master.cfg:19
 msgid "With experience, Eagle riders become more skilled and the relation with their winged friend become so strong that they act as one. As Eagle masters, they no longer need to give orders to their mounts, those anticipate them."
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/imps/Minor.cfg:30 ./Invasion_from_the_Unknown/units/imps/Imp.cfg:30 ./Invasion_from_the_Unknown/units/imps/Gutwrencher.cfg:35 ./Invasion_from_the_Unknown/units/imps/Blood.cfg:29 ./Invasion_from_the_Unknown/units/monsters/NPC_Crow.cfg:37 ./Invasion_from_the_Unknown/units/monsters/NPC_Rabbit.cfg:31 ./Invasion_from_the_Unknown/units/monsters/NPC_Falcon.cfg:37 ./Invasion_from_the_Unknown/units/monsters/Tiger.cfg:38 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Master.cfg:27 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Rider.cfg:28
+msgid "claws"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Master.cfg:36 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Rider.cfg:37
@@ -5294,6 +5224,10 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
+#: ./Invasion_from_the_Unknown/units/orcs-steppe/Icewind_Master.cfg:34 ./Invasion_from_the_Unknown/units/orcs-steppe/Icewind_Herder.cfg:36 ./Invasion_from_the_Unknown/units/orcs-steppe/Icewind_Drover.cfg:34 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker.cfg:31 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:32 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Wizard.cfg:25 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Warlock.cfg:31 ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Magus.cfg:31 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Sorcerer.cfg:31
+msgid "staff"
+msgstr ""
+
 #: ./Invasion_from_the_Unknown/units/humans/Aragwaith_Wizard.cfg:34 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Warlock.cfg:40 ./Invasion_from_the_Unknown/units/humans/Aragwaith_Sorcerer.cfg:40
 msgid "mage-bolt"
 msgstr ""
@@ -5377,6 +5311,10 @@ msgstr ""
 msgid "TODO."
 msgstr ""
 
+#: ./Invasion_from_the_Unknown/units/humans/Chaos_Marauder.cfg:37 ./Invasion_from_the_Unknown/units/humans/Chaos_Hell_Overlord.cfg:43 ./Invasion_from_the_Unknown/units/humans/Chaos_Soulhunter.cfg:38 ./Invasion_from_the_Unknown/units/humans/Chaos_Dark_Knight.cfg:44 ./Invasion_from_the_Unknown/units/humans/Chaos_Blood_Knight.cfg:42
+msgid "axe"
+msgstr ""
+
 #: ./Invasion_from_the_Unknown/units/humans/Chaos_Dark_Knight.cfg:5
 msgid "Dark Knight"
 msgstr ""
@@ -5412,6 +5350,10 @@ msgstr ""
 msgid "club"
 msgstr ""
 
+#: ./Invasion_from_the_Unknown/units/humans/Loyalist_High_Guard.cfg:45 ./Invasion_from_the_Unknown/units/humans/Chaos_Marauder.cfg:45 ./Invasion_from_the_Unknown/units/humans/Chaos_Headhunter.cfg:38 ./Invasion_from_the_Unknown/units/humans/Chaos_Soulhunter.cfg:47 ./Invasion_from_the_Unknown/units/humans/Loyalist_Death_Guard.cfg:44
+msgid "javelin"
+msgstr ""
+
 #: ./Invasion_from_the_Unknown/units/humans/Chaos_Hell_Guardian.cfg:5
 msgid "Hell Guardian"
 msgstr ""
@@ -5436,27 +5378,36 @@ msgstr ""
 msgid "Chaos Invoker"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker.cfg:24
-msgid "These dark cultists whose mastery of chaos magic is impressive, are called 'Chaos Invokers' by their oponents. You can spot them at the first line of a attack formations. Protected by small groups of warriors, these cultists command the vanguard hordes of chaos, seeking the best opportunity to advance in their ranks and become more powerful, willing to rid themselves of their mortal souls in the process."
+#: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker.cfg:26
+msgid ""
+"These dark cultists whose mastery of chaos magic is impressive, are called 'Chaos Invokers' by their oponents. You can spot them at the first line of a attack formations. Protected by small groups of warriors, these cultists command the vanguard hordes of chaos, seeking the best opportunity to advance in their ranks and become more powerful, willing to rid themselves of their mortal souls in the process.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:5
 msgid "Chaos Lore"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:25
-msgid "The mastery of demons lies in the changing into demon oneself. Chaos Lores are demonic minds entrapped in human body. What is left of human in these creatures are only bodies and memories of invokers and magi, who finally achieved the true power of their lords."
+#: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:27
+msgid ""
+"The mastery of demons lies in the changing into demon oneself. Chaos Lores are demonic minds entrapped in human body. What is left of human in these creatures are only bodies and memories of invokers and magi, who finally achieved the true power of their lords.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Magus.cfg:5
 msgid "Chaos Magus"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Magus.cfg:24
-msgid "It is they, who rally with the larger groups of chaos warriors, supporting them with magic. As demonic essence touches chaotic mages, they gain the sharpness of mind and way of thinking more resembling demons, than human beings. Trapped between humanity and demonity, they seek no turning back, but aspire to ultimately rid themselves of all mortal bounds, including their vulnerable souls."
+#: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Magus.cfg:26
+msgid ""
+"It is they, who rally with the larger groups of chaos warriors, supporting them with magic. As demonic essence touches chaotic mages, they gain the sharpness of mind and way of thinking more resembling demons, than human beings. Trapped between humanity and demonity, they seek no turning back, but aspire to ultimately rid themselves of all mortal bounds, including their vulnerable souls.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Magus.cfg:38
+#: ./Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Magus.cfg:40
 msgid "chaos blast"
 msgstr ""
 
@@ -5470,7 +5421,7 @@ msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/humans/Loyalist_Captain.cfg:46
 msgid ""
-"TODO\n"
+"The Chaos forces rely heavily in their leaders...\n"
 "\n"
 "Special Notes:"
 msgstr ""
@@ -5598,7 +5549,7 @@ msgid "Minor Imp"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/imps/Minor.cfg:18
-msgid "The recently born hatchlings of imps are called 'minor' by their enemies. Although they are rarely little more than an annoying nuissance in most environments, with time and proper raising, they can turn into real enemies, the medium-sized Imps."
+msgid "The recently born hatchlings of imps are called 'minor' by their enemies. Although they are rarely little more than a lesser annoyance in most environments, with time and proper raising, they can turn into real enemies, the medium-sized Imps."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/mech-undead/Master_of_Darkness.cfg:5
@@ -5655,12 +5606,38 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/spirits/Rock_Animated.cfg:29 ./Invasion_from_the_Unknown/units/spirits/Rock_Golem.cfg:29 ./Invasion_from_the_Unknown/units/monsters/Mother_Mudcrawler.cfg:24 ./Invasion_from_the_Unknown/units/trolls/Troll_Shaman.cfg:33 ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Adept_Alt.cfg:30 ./Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:54
+#: ./Invasion_from_the_Unknown/units/spirits/Rock_Animated.cfg:29 ./Invasion_from_the_Unknown/units/spirits/Rock_Golem.cfg:29 ./Invasion_from_the_Unknown/units/monsters/Mother_Mudcrawler.cfg:24 ./Invasion_from_the_Unknown/units/trolls/Troll_Shaman.cfg:33 ./Invasion_from_the_Unknown/units/mechanical/Iron_Golem.cfg:42 ./Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:54
 msgid "fist"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:63
+#: ./Invasion_from_the_Unknown/units/mechanical/Iron_Golem.cfg:51 ./Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:63
 msgid "flash-bomb"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/mechanical/Iron_Golem.cfg:5
+msgid "Iron Golem"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/mechanical/Iron_Golem.cfg:34
+msgid ""
+"Some automatons mysteriously increase in size from one day to another, gaining strength in a training process that is unknown to most people, except the darkest lores of the Chaos Empire. They drop their rectangular shield and mace, as their metallic skin is tighter and more resistant to damage, their giant fists -capable of crushing a rock, as big as an adult man, with minimal effort- compensating the lack of weapon, and in exchange, adopt a strange tubular weapon that resembles the firesticks that some Dwarven lords wield with proud. It is said that one these Iron Golems could easily defeat a dwarven fire master in a fair fight, one to one.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/mechanical/Worker_Droid.cfg:5
+msgid "Worker Droid"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/mechanical/Worker_Droid.cfg:35
+msgid ""
+"These tiny metal gnomes are known as the 'worker droids' by the Chaos overlords. It is not known what nature drives their acts; in fact, nobody knows, aside from their creators, if they are living beings, undead, or animated rocks.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/mechanical/Worker_Droid.cfg:43
+msgid "oil"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/monsters/Cockatrice.cfg:5
@@ -5696,6 +5673,10 @@ msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/monsters/Giant_Ant.cfg:18
 msgid "Ants are common in almost any environment, from caverns deep under the earth to the tops of tall mountains. Those that live deep underground tend to grow up over their normal size. Though normally not hostile, they can bite at close range, dealing more damage than a normal-sized ant."
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/monsters/Giant_Spider_Lesser.cfg:24 ./Invasion_from_the_Unknown/units/monsters/Hound_Chaos.cfg:23 ./Invasion_from_the_Unknown/units/monsters/Giant_Ant.cfg:23 ./Invasion_from_the_Unknown/units/monsters/Hound_Hell.cfg:31 ./Invasion_from_the_Unknown/units/monsters/Water_Serpent.cfg:26 ./Invasion_from_the_Unknown/units/monsters/Hound_Demonic.cfg:30 ./Invasion_from_the_Unknown/units/monsters/Tiger.cfg:29
+msgid "fangs"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/monsters/Giant_Spider_Lesser.cfg:5
@@ -5737,7 +5718,7 @@ msgstr ""
 msgid "Brain Drainer"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/monsters/Leech_Brain_Drainer.cfg:22
+#: ./Invasion_from_the_Unknown/units/monsters/Leech_Brain_Drainer.cfg:23
 msgid ""
 "Giant Leeches grow up after draining enough blood, becoming a extremely dangerous threat for any living creature. As they drain blood, they regenerate, healing their wounds and growing in size.\n"
 "\n"
@@ -5746,7 +5727,7 @@ msgid ""
 "Special Notes: When this creature gains enough experience in combat, it renews itself as if freshly summoned, healing all damage sustained."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/monsters/Leech_Brain_Drainer.cfg:29 ./Invasion_from_the_Unknown/units/monsters/Leech_Giant.cfg:28
+#: ./Invasion_from_the_Unknown/units/monsters/Leech_Brain_Drainer.cfg:30 ./Invasion_from_the_Unknown/units/monsters/Leech_Giant.cfg:28
 msgid "drainer"
 msgstr ""
 
@@ -5845,6 +5826,10 @@ msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/orcs-steppe/Bladesman.cfg:19
 msgid "Those orcs who excell in the use of the battle axe are informally known to their bretheren as Bladesmen. Disregarding all flair or style, Bladesman fight with simple and brutal strength, hacking directly at whatever stands before them. Any skill gained through battle only builds on what nature has already granted them."
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/orcs-steppe/Warrior.cfg:24 ./Invasion_from_the_Unknown/units/orcs-steppe/Bladesman.cfg:24 ./Invasion_from_the_Unknown/units/orcs-steppe/Khan.cfg:43 ./Invasion_from_the_Unknown/units/orcs-steppe/Massif.cfg:25 ./Invasion_from_the_Unknown/units/orcs-steppe/Vanguard.cfg:41
+msgid "battle axe"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/orcs-steppe/Icewind_Drover.cfg:5
@@ -6068,7 +6053,7 @@ msgid "race^Spirits"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/spirits.cfg:21
-msgid "BLABLA FIXME"
+msgid "Natural spirits are rarely seen in mundane places, although it is rumored that they can only be, either summoned by magi, or protecting a great secret of nature."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/spirits/Fire_Spirit.cfg:5
@@ -6095,7 +6080,7 @@ msgid "Fire Wisp"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/spirits/Fire_Wisp.cfg:20
-msgid "Fire Wisps are minor spirits of flame. They like to frolic in pools of lava and take great delight in burning anything they can reach."
+msgid "Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, and take great delight in burning anything they can reach. They should not be a great challenge to an unexperienced fighter, except in swarms."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/spirits/Fire_Wisp.cfg:24
@@ -6108,7 +6093,7 @@ msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/spirits/Rock_Animated.cfg:22
 msgid ""
-"Animated Rocks are rather slow creatures made out of solid, living rock. They have a weak attack, but are incredibly hard to destroy.\n"
+"Animated Rocks are rather slow creatures made out of solid, living rock. They have a weak attack, but are incredibly hard to destroy. It is rumored that these magical constructs can only be summoned by powerful magi.\n"
 "\n"
 "Special Notes:"
 msgstr ""
@@ -6128,15 +6113,22 @@ msgstr ""
 msgid "female^Water Spirit"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/spirits/Water_Tidal.cfg:23 ./Invasion_from_the_Unknown/units/spirits/Water_Spirit.cfg:23
+#: ./Invasion_from_the_Unknown/units/spirits/Water_Spirit.cfg:23
 msgid ""
-"TODO\n"
+"Tidal waves of water have been known to have acquired their own consciousness and mind, and to set free from their summoners. Then, it turns into a more corporeal being of water, that encarnates the might and whimsical personality of water and its inhabitants.\n"
 "\n"
 "Special Notes: this unit cannot move to non-water terrain, except for castles and villages."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/spirits/Water_Tidal.cfg:5
 msgid "female^Water Tidal"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/spirits/Water_Tidal.cfg:23
+msgid ""
+"It is said that the world is mostly composed of water. It would be natural, then, to think that water may have its own will, and that its power can be summoned by expert magi for bad purpose. Unfortunately, all that is true.\n"
+"\n"
+"Special Notes: this unit cannot move to non-water terrain, except for castles and villages."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/trolls/Troll_Shaman.cfg:5
@@ -6155,7 +6147,7 @@ msgstr ""
 msgid "Ghast"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:25
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:27
 msgid ""
 "The ghast is a creature taken from humankind's most primal nightmares.  Unlike their lesser cousins, ghouls and necrophages, ghasts are not patient enough to wait for their victim to die from poison before consuming the body.  They attack directly with their enormous mouths, trying to rip the flesh straight from their foes. Once their enemy is defeated, they eat the rest of the body, gaining strength in the process.\n"
 "\n"
@@ -6163,94 +6155,67 @@ msgid ""
 ""
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:29
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:31
 msgid "growth"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:31
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:33
 msgid ""
 "Growth:\n"
 "This unit gains 1 hitpoint added to its maximum whenever it kills a living unit."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:47
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:50
 msgid "bite"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:132
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:135
 msgid "+1 max HP"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:157
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:160
 msgid "maximum reached"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Adept_Alt.cfg:5
-msgid "Dark Adept"
+#: ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Ancestor.cfg:5
+msgid "Elvish Ancestor"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Adept_Alt.cfg:25
-msgid ""
-"To attract any practitioners, the lure of black magic must be a great prize indeed, for anyone caught practicing the art in the civilized world is subject to a death sentence. And yet there are those who pursue this art, for the prize offered is nothing less than immortality. Hidden away in secret cults, or initiated into the dark orders of the underworld, the training which these fanatics must endure often drives them to exhaustion and enfeeblement.\n"
-"\n"
-"In such condition, their only weapon is the craft they have so committed themselves to learning.\n"
-"\n"
-"Special Notes:"
+#: ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Ancestor.cfg:21
+msgid "Revered warriors of old roam through the elven forest, visible only due to their shining silver swords. They are only partially present in the mortal realm, and wounds close as if they had never existed. Their voice can whisper in the wind the words that chill the hearts of their ennemies."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Sorcerer_Alt.cfg:38 ./Invasion_from_the_Unknown/units/undead/Necromancer_Alt.cfg:42 ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Adept_Alt.cfg:39
-msgid "chill wave"
+#: ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Warrior.cfg:26 ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Ancestor.cfg:26 ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Forefather.cfg:27
+msgid "ancient blade"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Sorcerer_Alt.cfg:50 ./Invasion_from_the_Unknown/units/undead/Necromancer_Alt.cfg:54 ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Adept_Alt.cfg:51
-msgid "shadow wave"
+#: ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Ancestor.cfg:35 ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Forefather.cfg:36
+msgid "requiem"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Adept_Alt.cfg:251
-msgid "female^Dark Adept"
+#: ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Forefather.cfg:5
+msgid "Elvish Forefather"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Sorcerer_Alt.cfg:5
-msgid "Dark Sorcerer"
+#: ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Forefather.cfg:22
+msgid "The greatest elven warriors are far from gone. When you hear their death chant, echoing through the trees, know that their silver blades are also near."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Sorcerer_Alt.cfg:24
-msgid ""
-"The dread inspired by black magic comes chiefly from how little is known about it by the common man. Dark sorcerers have begun to unlock the secrets of life and death, the latter of which is all too easy to inflict. This labor gives the first glimmerings of the connection between the soul and inert matter, and the first successful experiments in manipulating this bond. The terrible unknown that lurks beyond death is glimpsed, and will inevitably be fathomed.\n"
-"\n"
-"Despite any design they may have of using this to wrest their own immortality from nature's grasp, the first results of their work have immediate, and unpleasant applications. The life they breathe into dead matter can create servants for them, servants which will work, but which will also kill, and will never question their masters. These creations have a loyalty any tyrant would dream of, and it is tempting to those with even the merest desire for power.\n"
-"\n"
-"Special Notes:"
+#: ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Warrior.cfg:5
+msgid "Warrior Spirit"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Necro_Dark_Sorcerer_Alt.cfg:181
-msgid "Dark Sorceress"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/undead/Necromancer_Alt.cfg:5
-msgid "Necromancer"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/undead/Necromancer_Alt.cfg:25
-msgid ""
-"One of the pinnacles of what is considered 'black magic' is the art of necromancy, the terrible ability to awaken the dead with false life. This discovery alone caused humanity's condemnation of black magic, for the nightmarish things it has made real have given fear a vast new arsenal.\n"
-"\n"
-"This ability, in all aspects, is the first step towards cheating death of its ultimate prize.\n"
-"\n"
-"Special Notes:"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/units/undead/Necromancer_Alt.cfg:30
-msgid "plague staff"
+#: ./Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Warrior.cfg:21
+msgid "The great elvish warriors of times past are not quite gone. They roam through the forests of their former homes, seeking to perform the feats of arms they did in the past, and death is no obstacle..."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/undead/Skele_Death_Baron.cfg:5
 msgid "Death Baron"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Skele_Death_Baron.cfg:32
+#: ./Invasion_from_the_Unknown/units/undead/Skele_Death_Baron.cfg:33
 msgid ""
-"Sometimes the mightiest warriors and generals, cursed with hate and angst, come back to this world as Death Knights. Death Squires serve them whilst accruing enough unholy power to become Death Knights. In the process they pick up a good deal of the Knight's power, including the ability to command underlings.\n"
+"Sometimes the mightiest warriors and generals, cursed with hate and angst, come back to this world as Death Knights. Death Barons serve them whilst accruing enough unholy power to become Death Knights. In the process they pick up a good deal of the Knight's power, including the ability to command underlings.\n"
 "\n"
 "Special Notes:"
 msgstr ""
@@ -6259,14 +6224,14 @@ msgstr ""
 msgid "Bone Knight"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Skeleton_Knight.cfg:35
+#: ./Invasion_from_the_Unknown/units/undead/Skeleton_Knight.cfg:27
 msgid ""
 "Once great warriors across the plains, these mounted riders atop their skeletal horses were raised from the ground by unholy magic to spread fear and destruction.\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Skeleton_Knight.cfg:53
+#: ./Invasion_from_the_Unknown/units/undead/Skeleton_Knight.cfg:47
 msgid "trample"
 msgstr ""
 
@@ -6274,7 +6239,7 @@ msgstr ""
 msgid "Skeleton Rider"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Skeleton_Rider.cfg:34
+#: ./Invasion_from_the_Unknown/units/undead/Skeleton_Rider.cfg:26
 msgid ""
 "Once great warriors thundering across the plains, these mounted riders atop their skeletal horses were raised from the grave by unholy magic to spread fear and destruction.\n"
 "\n"
@@ -6294,6 +6259,10 @@ msgstr ""
 
 #: ./Invasion_from_the_Unknown/units/woses/Wose_Shaman.cfg:42
 msgid "crush"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/units/woses/Wose_Shaman.cfg:51
+msgid "entangle"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/abilities.cfg:8 ./Invasion_from_the_Unknown/utils/abilities.cfg:11
@@ -6587,23 +6556,15 @@ msgstr ""
 msgid "I die, for honor!!!"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/scenario-utils.cfg:53
-msgid "Compatibility fix"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/utils/scenario-utils.cfg:54
-msgid "Your savefile has been updated for backwards compatibility with older releases of the campaign. Changes include:"
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/utils/scenario-utils.cfg:82
+#: ./Invasion_from_the_Unknown/utils/scenario-utils.cfg:34
 msgid "Enemy boss sighted!"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/scenario-utils.cfg:189
+#: ./Invasion_from_the_Unknown/utils/scenario-utils.cfg:145
 msgid "Hard Hat Area"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/scenario-utils.cfg:195
+#: ./Invasion_from_the_Unknown/utils/scenario-utils.cfg:151
 msgid ""
 "*Shadow Master (author):\n"
 "This scenario is under construction, so you should not play it unless you really want to see a glimpse of what is coming next release, because savefiles of it might not be compatible with the finished scenario. Updates in the 1.3.x campaign server or in the www.wesnoth.org forum thread 'Invasion from the Unknown' (Scenario and Campaign dev. forum)\n"
@@ -6611,6 +6572,10 @@ msgid ""
 "You will be redirected to the Credits screen after the first turn.\n"
 "\n"
 "-- The author"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/utils/schedules.cfg:39
+msgid "Indoors"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/special-notes.cfg:4
@@ -6622,191 +6587,203 @@ msgid " This unit will illuminate surrounding hexes with its internal, unlimited
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/storytxt.cfg:40
-msgid "Author's warning: some scenarios of this campaign work in a dramatically different way to that of Wesnoth's common gameplay, incorporing RPG-elements and other oddities. Special care you must have about the boss scenarios, so try to keep as many high-level units alive as possible for avoiding nasty surprises. Although not strictly a requirement, I recommend players to have played or read the storyline behind Descent into Darkness and Under the Burning Suns, to be familiar with some characters and events."
+msgid "Author's warning: some scenarios of this campaign work in a dramatically different way to that of Wesnoth's common gameplay, incorporating RPG-style elements and other oddities. Special care you must have about the boss scenarios, so try to keep as many high-level units alive as possible for avoiding nasty surprises. Although not strictly a requirement, I recommend players to have played or read the storyline behind Descent into Darkness and Under the Burning Suns, to be familiar with some characters and events."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:45
-msgid "I am here to tell you a history, a history of what events came to happen some time after the Fall. Of how the Quenoth elves were not the only ones who survived the Elven war. The history of the last elves in the Great Continent who fought the forces of evil with the help of the Union."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:46
+msgid "I am here to tell you a history, a history of what events came to happen some time after the Fall. Of how the Quenoth elves were not the only ones who survived the Elven war. The history of the last elves in the Great Continent."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/storytxt.cfg:49
-msgid "But first, the introduction. Our history starts right after the era known by most of you as the Golden Age. Back then, the leaders of the elves that rose against the Wesmere elves, were a couple, the Master of darkness and the Lady of light. Legend has it that they appeared from nowhere, for nothing else than to bring back order and peace amongst the remaining elves. All we know is that there was a strange relationship between them."
+msgid "But first, the introduction. Our story starts after the era known by most  as the Golden Age. Back then, the leaders of the elves that rose against the Wesmere elves were a couple, the Master of darkness and the Lady of light. Legends claim that they appeared from nowhere, for nothing else than to bring back order and peace amongst the few remaining elves."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:53
-msgid "The Lady of Light, one of the most powerful elvish sages ever seen, was granted the power to control the light and holyness of the world, whereas the Master of Darkness controlled the shadows and the deepest secrets of the underworld."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:52
+msgid "The Lady of Light, one of the most powerful elvish sages in recorded history, was granted the power to control the light and life itself, whereas the Master of Darkness was to control the shadows and the deep arcane secrets of the underworld."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:57
-msgid "After they defeated the corrupted Wesmere elves, their mission was over. But the elven forests were gone, for they were burned during the battle. With no forest to live in, they had to escape to the undergrounds, to hide from the harsh suns, and rest for eternity. Their fellow elves, however, did not follow them, and instead departed ways to find a new home, with the hope of that something of the good of before was still left in the world."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:55
+msgid "After they defeated the corrupted Wesmere elves, their mission was not over. The elven forests were gone, for they were burned during the battle. With no forest to live in, they were forced to lead their people undergrounds, to hide from the harsh suns and rest for eternity. Not all of the elves, however, choose to follow them. Instead they departed find a new home, holding to their heart a secret hope of that some good was still left in the world."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/storytxt.cfg:61
-msgid "By means of her power, the Lady of light rose a small forest in a deep cave, using the scarce sunlight coming from cracks in the rocky roof. And there she slept, while the Master of darkness tried to... But something went wrong. An unknown power attracted him, to the dark haunted deeps of the earth. The Lady tried to follow him, but the darkness simply was superior to her powers, rendering her unable to continue."
+msgid "By means of her power, the Lady of light rose a small forest in a deep cave, using the scarce sunlight coming from cracks in the rocky roof. And there she slept, while the Master of Darkness vanished from all known records, his parting words to his few loyal followers speaking of an unknown power far in the depths of the earth."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:65
-msgid "She waited for years and centuries, but he never returned. Losing all hope, the greatest elvish lady of the old age fell asleep, for the rest of eternity."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:64
+msgid "Centuries passed while the Lady of Light slept in the darkness"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:69
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:67
 msgid "Then, Yechnagoth came."
 msgstr ""
 
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:70
+msgid "With the devastated lands dried out, Yechnagoth took control of the few humans left, using as medium a high priest who claimed to have been blessed by the Dark Lady to lead the remaining people to a better future."
+msgstr ""
+
 #: ./Invasion_from_the_Unknown/utils/storytxt.cfg:73
-msgid "With the devastated lands dried out, Yechnagoth took control of the few humans left, using a puppet, a supposed high priest of hers, who claimed to have been blessed by the Dark Lady to lead the remaining people to a better future."
+msgid "His face was hidden by a metallic mask. Those who witnessed him heard strange sounds coming from inside his body. He seemed to be able control the very shadows themselves, leading his foes to refer to him as the 'Shadow Master'."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:77
-msgid "His shady appearance, with his face hidden by a metallic mask, strange sounds coming from inside his body, and his control over the shadows, led non-loyal people to call him the 'Shadow Master'."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:76
+msgid "He gave strict orders to the Iron Triad to anihilate all elves left on land. So when they stumbled upon the Quenoth elves their ferocity forced the elves to escape to the sea, where no human ship could safely travel."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:81
-msgid "He gave strict orders to the Iron Triad to anihilate all elves left on land, so it came to be that they stumbled upon the Quenoth elves. The resistance was surprising, and the elves escaped to the sea, where humans could not go. Supposedly, no more elves were left in the continent. But well, the Quenoth elves managed to defeat Yechnagoth at last. You would think the humans would no longer be corrupted..."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:79
+msgid "There were rumors that the Quenoth elves defeated Yechnagoth. Perusing her into the heart of her fortress and destroying the core of her body"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:82
+msgid "But the Shadow Master continued his rule subjugation of the humans uninterrupted. He led his armies out, constantly expanding the borders of his land. Any who opposed his rule were killed, man, woman, and child by equal. When his own men refused to follow his orders, they would simply... disappear. Some say that he had discovered a dark magic, one more horrible than necromancy, to completely control not only the dead... but the living as well."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/storytxt.cfg:85
-msgid "But the Shadow Master continued to rule over them, and continued to commit atrocious mass murders of whatever creatures his armies could find. However, with Yechnagoth's influence gone, some of his minions started to rise against him. To solve that, he had to use the darkest magic - more horrible than necromancy - to control them. And so years passed..."
+msgid "The Shadow Master, however, was not omniscient. One small band of elves, long ago, had escaped the vast burning suns and the vicious depredations of orcs, bandits, and monsters. There, hidden amongst the highest mountains was fertile land, where grass and trees still protected elves and such from the burning suns."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:89
-msgid "He did not, however, know of the presence of elves in the far North. They had survived all those years hiding in a valley from orcs and other plagues. It was the only fertile land left, where grass and trees could still protect elves and such from the burning suns."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:88
+msgid "The valley was named the Valley of Elynia, in honor of the legend of the Lady of Light."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:93
-msgid "The valley was named the Valley of Elynia, in honour of the Lady of light. Although she was never aware of its existance, the elves thought she created it."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:91
+msgid "One day, as the Shadow army fractured and fought against itself, the Shadow Master called upon forces that had been banished from the world. An army that was said to be scattered across skies, in the depths of the distant stars and buried deep below the ground to bolster the ranks of his most loyal troops. It was in the middle of this Dark War, that the elven valley was discovered."
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:94
+msgid "From the journal of the elvish leader Galas..."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/storytxt.cfg:97
-msgid "Travelers from other lands also stumbled upon it, and begged for shelter, from the dangers of the 'outsides'. The elves allowed them to stay there, except for necromancers, which were executed in sight."
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:101
-msgid "And so, the valley remained peaceful. And more centuries passed."
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:105
-msgid "But one day, as the Shadow army was getting weak against the rebel humans, the leader called upon forces from the unknown, forces that were for a long time hidden in the skies, in the depths of the stars, in the underground, and in the darkest depths of the world. And so, in middle of the new Dark War, they found out about the elven Valley. This is where Galas, a local elvish hero, comes in. From his personal records..."
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:109
 msgid "Episode 1: Into the Darkness."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:112
-msgid "Over the years, protecting our valley became harder and harder. The persistent ocassional necromancers and fugitives started to be quite more than a simple nuissance. As we kept the fighting and archery skills of our ancestors, we formed groups, patrol groups, which prowled every day around the valley's frontiers. I, being just a little boy, watched with pride how my father led those groups to victory so gloriously, so becoming a patrol leader became a priority for me."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:101
+msgid "Over the years, protecting our valley became harder and harder. The attacks of the occasional necromancer and fugitive bands have become more than a simple nuisance. We have not lost the fighting and archery styles of our ancestors, so in response our leaders have begun to send out patrol groups. Warriors which prowl every day around the valley's frontiers. I have never known my mother, the elders say she died in childbirth. My father has led led our warriors to battle since I have been a little boy. So it was no small surprise to my friends that I have followed in his footsteps and became a patrol leader myself."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:115
-msgid "Eventually, he was killed by a band of nomadic humans, by a sling shot in his head, which stabbed at his neck. I was shocked by the event, and I could not resist to cry. His death, however, did not stop me from training and advancing in ranks to finally become the party leader. I wanted to continue his unfinished job with all my willing."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:104
+msgid "Eventually, he was killed by a band of nomadic humans. A sling bullet crushed his head while he valiantly defended an injured comrade. At the time I was shocked by his death, a graceless end to his valiant life. I cried for the last time at his funeral. His death, however, drove me to become the best, advancing though the ranks of my comrades until I was one of the best fighters and commanders among my people, despite my age."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:118
-msgid "And so, I grew up patrolling the frontiers every week. When I was at home, Analia, a sorceress, always took care of me like if I was her son. I don't really remember when she started to do so, for I was too young back then, probably."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:107
+msgid "I grown up patrolling the frontiers every week. Analia, a sorceress,  has taken care of me like her own son since before I can remember. She has been to me the mother I never had, often spending far too much time caring for me rather than her own duties."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:121
-msgid "However, the force of the ocassional invaders started to increase due to their unexplained frenzy, like if they were pushed by some force from behind. Our patrol group had to increase in size to be effective, and it became harder to maintain as most people simply did not want to risk their lives for it, specially fighters."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:110
+msgid "Recently however, the attacks occasional invaders started to increase.  Their attacks slowly building up into an inexplicable frenzy. It was as if they were pushed by some sinister force. Throwing themselves onto our blades and arrows as if death was a better alternative than falling back.  Our patrol groups steadily grew in size to resist, becoming harder to maintain as most people simply did not want to risk their lives in combat against such determined foes.."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:124
-msgid "We had to craft new weapons and tactics, but that did not stop that large human army that day. That day..."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:113
+msgid "Then one day, we discovered the source of the rebels' frenzy. A massive human army arrived at the mouth of our valley on that day. That day..."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:133
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:122
 msgid "It was quite a success, but the fighting manners of those humans were more professional, coordinated and accurate than those of the regular nomadics. That worried me initially, and I would have organized a scouting party to the desert if we were in conditions of doing so, as it was an uncanny situation."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:136
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:125
 msgid "Our group was quite weakened by that battle, so we withdrew back to the main keep of the valley. Another patrol group took care of our job in the meanwhile, and were scheduked to come back in three days. However, that did not happen the right way. Instead, something else came back, with our kin's skulls in their banners. It was obvious what happened to them. I am not sure whether to thank or regret for me being still alive, having been protected by the valley's forest and hills in the castle. If I was in their boots, would I have survived? Probably not, but then, would that have helped in any way to what was to happen next?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:146
-msgid "Our people's bodies crushed and teared apart by the fight, we had to walk on them to escape the valley. Barely, less than a thousand of us made it."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:135
+msgid "The bodies of my people were crushed underfoot as we raced to escape the valley. Barely less than a thousand of us made it."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:149
-msgid "I am not strong enough to be a leader. I think that was what led us out of our ancient home, the only place we could live in left in the world. Analia is a wise sorceress, but I still regret not being strong enough to ignore her suggestion and to lead my people to victory somehow."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:138
+msgid "When I think of what led us out of our ancient home, the one place we have lived safely in this war-torn and barren world, I feel my gorge rise in terror. Analia is a wise sorceress, but I still regret not being strong enough to ignore her suggestion. In the back of my mind, I cannot help but think that if we had stayed, we could have fought back and somehow emerged in victory."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:152
-msgid "I just hope this was a wise decission."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:141
+msgid "I just hope fleeing to this cave was a wise decision."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:161
-msgid "Albeit being hundreds or thousands years old, the necromancer still had trails of flesh and hair in his face. I have fought many necromancers with my patrol group before, but this one was a lot different to them."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:150
+msgid "Even after thousands of years being dead, the necromancer still had trails of flesh on his body and traces of hair on his head. We elves have fought necromancers before, but this one... this one was different."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:164
-msgid "According to Analia, he was just a tormented soul, which fought a noble cause in an improper way. Anyway, I feel uneasy with undead by our side. We elves, have all these years, and for more milleniums before the Fall, executed them in sight as the humans do; however, I have never understood completely the cause, or at least I hoped that some of them were not that evil."
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:153
+msgid "According to Analia, he was just a tormented soul. A man who had fought for a noble cause in an improper way. Anyway, I feel uneasy with undead by our side. We elves, even in our oldest histories, never fought on the same side as necromancers. Even our own kind who learned the dark arts we have had executed, as the humans do. Now, after traveling with this... man, I wonder if our actions in the past were just..."
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:156
+msgid "Regardless, it seems that this one is not completely evil. He could be a great help for our cause if he is being honest with us. My people sometimes say that closest friends may turn into your worst enemies. I have no great friends, except Analia, so I hope that is not true."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/storytxt.cfg:167
-msgid "It seems that this one is not completely evil. Then again, he could be a great help for our cause, whichever it really is. But then, someone once said that sometimes our worst enemies are our best friends. I have no great friends, except Analia, so I hope that is not true."
-msgstr ""
-
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:178
 msgid "We followed the carved canyon along the southern side, seeing how small tributaries coming from the far North helped the flow grow and grow bigger, and deeper."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:182
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:171
 msgid "It was perhaps a signal of there was still life left in this harsh world, out of our valley."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:186
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:175
 msgid "Mal Keshar looked at the stream in a nostalgic way. I wonder what it should remind him. Perhaps we were stepping in his former home and just were not aware of it. The world seems to have changed drastically from the so-called Golden Age, or so he says ocassionally. He blames the humans, as Analia does, but I don't know much about history or old legends, so I can't be judge to their attitude towards them."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:190
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:179
 msgid "An attitude ocassionally revealed by their commands. When we came upon another small human encampment, already in a more living part of the river, they commanded our men to slay them all. And so they did. Again, my lack of leadership was made clear, my people reacting to their commands and I standing still, observing the battle from my tent."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:194
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:183
 msgid "Nevertheless, having skeletons, corpses and ghosts fighting by our side was dreadful enough to make most of our oponents run away, scared, retreating to the sands of the desert. Others, however, joined our side in fear, curiosity or interest for dark magic."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:198
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:187
 msgid "We finally set-up camp in the river's shore one night, to rest and replenish our water supplies. Fortunately for us, the river's water there was pure enough to be apt for drinking. Perhaps not as cool and fresh as the water in our valley's lake, but it served well its purpose."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:208
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:197
 msgid "We continued north-west, the mountains growing taller and taller."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:212
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:201
 msgid "Three days of continuous march, departing from Longlier river, led us to a valley. A valley that was similar to that we used to live in, except that, perhaps, it was apparently a little smaller and had less variated vegetation. Also, there was seemingly no lake, but some little rivers."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:222
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:211
 msgid "And so, we entered the caves, leaving our people behind so that we could explore first and not send us all to a slaughter. People left outside were given instructions of collapsing the cave's entrance if we didn't return before two days passed, and to defeat the remaining orcs and set that valley as their new home, at least until they could find a safer place, which was unlikely to happen."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:225
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:214
 msgid "Only me, Analia and the Lich were going to enter the caves, but some of our people were not willing to stay outside in the safety just sitting for a day, and instead accompanied us down to the darkness."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:228
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:217
 msgid "The cave walls looked strange and artificial, while the floor was covered by strange tiles, probably manufactured by an ancient civilization that used to live there before... if they were not living there right now. In any case, I vaguely noticed that Analia and Mal Keshar had a bad feeling about this. I have no experience with magic arts, so I could not tell what exactly they felt or detected."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:238
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:227
 msgid "After exploring for a while, just when the night broke, we came outside to tell our people to go in."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:242
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:231
 msgid "It was a difficult decission, but things could be worse for them if they stayed out, exposed to the enemy's attack."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:246
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:235
 msgid "According to the Lich, we are almost approaching our goal. I cannot wait for meeting our mightiest sage."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:249
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:238
 msgid "Episode 2: Searching for the Light"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:281
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:270
 msgid "Episode 3: Abroad"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:278
+msgid "I grew up listening horror tales about savage humans who murdered anything alive just to get food, in the desert. I have not had the possibility to see by myself whether that was true or not, in the desert. I probably would not believe my eyes if I saw, as I am now getting used to put apart our biased opinions on humans. These northern people are actually very educated and of fine modals, very much like our own people."
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:281
+msgid "Although we were ocassionally treated like prisoners, Erathan tried to make the trip, for us, as comfortable as possible. It was a long journey from were they found us, to the city where the so-called Grand Council was located in."
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/utils/storytxt.cfg:285
+msgid "At last, we could see an ominous castle dominating the view."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/weapon-specials.cfg:6 ./Invasion_from_the_Unknown/utils/weapon-specials.cfg:7
@@ -6815,7 +6792,7 @@ msgstr ""
 
 #: ./Invasion_from_the_Unknown/utils/weapon-specials.cfg:9 ./Invasion_from_the_Unknown/utils/weapon-specials.cfg:11
 msgid ""
-"Dread: \n"
+"Dread:\n"
 "When this attack is used offensively, this unit takes one third less damage in retaliation."
 msgstr ""
 
