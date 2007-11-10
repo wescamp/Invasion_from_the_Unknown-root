@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-11-08 17:25+0100\n"
+"POT-Creation-Date: 2007-11-10 02:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,30 +46,46 @@ msgid ""
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/about.cfg:12
-msgid "(read CREDITS for detailed list)"
+msgid "(read CREDITS.txt for detailed list)"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/about.cfg:15
 msgid "Creator and Maintainer"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/about.cfg:23
+#: ./Invasion_from_the_Unknown/about.cfg:24
+msgid "Redaction fixes/improvements for English text"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/about.cfg:33
+msgid "Translations"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/about.cfg:36
+msgid "Italian translation:"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/about.cfg:39
+msgid "Spanish (international) translation:"
+msgstr ""
+
+#: ./Invasion_from_the_Unknown/about.cfg:43
 msgid "WML Programming"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/about.cfg:32
+#: ./Invasion_from_the_Unknown/about.cfg:55
 msgid "Graphics"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/about.cfg:51
+#: ./Invasion_from_the_Unknown/about.cfg:88
 msgid "Sound effects"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/about.cfg:56
-msgid "Music"
+#: ./Invasion_from_the_Unknown/about.cfg:93
+msgid "Music tracks (non-specific)"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/about.cfg:61
+#: ./Invasion_from_the_Unknown/about.cfg:99
 msgid "Additional thanks to"
 msgstr ""
 
@@ -229,7 +245,7 @@ msgstr ""
 msgid "It seems that they did not survive the slaughter... I am sorry Galas, we have failed to protect our people..."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:323 ./Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:146 ./Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:195
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:325 ./Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:146 ./Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:195
 msgid "No!"
 msgstr ""
 
@@ -341,7 +357,7 @@ msgstr ""
 msgid "Horrors from the Depths"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:36 ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:370 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1027
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:36 ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:372 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1027
 msgid "Mal Keshar"
 msgstr ""
 
@@ -441,199 +457,199 @@ msgstr ""
 msgid "Defeat Mal Keshar"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:300
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:302
 msgid "I can't believe it. I have been finally defeated. Then, my battle against the orcs is lost! But, I still stand..."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:302
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:304
 msgid "So it's you, Mal Keshar, formerly known as Malin Keshar. The one who fell to the darkness for a noble cause fought in an improper way. But then, you are the living proof that everything from the Golden Age has died and dried up."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:303
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:305
 msgid "Stupid girl! I am a lich, but I still have my own will, unlike my minions, which don't. I still feel, and I am aware of the current situation of Wesnoth."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:304
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:306
 msgid "Wesnoth? What is that?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:305
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:307
 msgid "The name that used to be the name of what we call the lands at the south of the Swamps of Dread, West from the Silver Lands."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:306
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:308
 msgid "Aye, and I guess my thirst for orcish death will never be satisfied. For I cannot go to the surface now that the land is under the control of the forces of Evil."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:307 ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:321 ./Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:147 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1041 ./Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:392 ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:377
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:309 ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:323 ./Invasion_from_the_Unknown/scenarios/08x_Interlude.cfg:147 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1041 ./Invasion_from_the_Unknown/scenarios/13_E2_Boss.cfg:392 ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:377
 msgid "What?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:308
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:310
 msgid "Your kind always punished necromancy for being, supposedly, the greatest evil that could be done to the dead. However, you were wrong. I have seen things that even I consider abominations. For all these centuries, after the Fall, I have been hiding here, but I send minions to the outer world from time to time, to collect news from there."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:309
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:311
 msgid "Some centuries ago, an evil shadow coming from the vast Ocean covered the lands, and an evil presence started to swallow every living creature. I did not know what it was, initially, but after some time, monstrosities from the underworld started to raid and destroy what human, elvish or orcish encampments were left in the desert. They were called, in my time, demons. I suppose you remember them, do you?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:310
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:312
 msgid "We do, but it is not possible! The demon lord was vanquished by Eloh a long time ago!"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:311
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:313
 msgid "What are you talking about?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:312
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:314
 msgid "That was only the beginning of our doom. My theory is that something or someone opened a portal to the very heart of Hell, unleashing the forces of Evil and allowing them to enter our world. The only people I can blame, for their horrendous experiments, would be the Wesnothian magi. Their arrogance only led them, and therefore, all of us, to this chaotic future."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:313
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:315
 msgid "So that is what attacked us in our valley..."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:314
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:316
 msgid "We need to escape from these caves, but then, we'll have to face the evil that roams above us, right now. What could we do?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:315
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:317
 msgid "You would get killed, tortured or converted by them in matter of hours. You are at a numeric disadvantage, nor do you have the powers necessary to fight against the demons."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:316
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:318
 msgid "But you do, don't you?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:317
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:319
 msgid "Nah, I'm not so sure. A long time has passed since the last time I fought anything myself, but I'm not afraid of dying. After all, I have nothing left except my old bones."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:318
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:320
 msgid "I guess we won't find a new home, a safe one, unless we vanquish those fiends."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:319
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:321
 msgid "I agree, but our kin tried before, and were unsuccessful. We have nothing to help us they did not have. It was a miracle for them that Eloh appeared on the earth to vanquish the evil. That won't happen again."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:320
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:322
 msgid "You would only need the power of the Union."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:322
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:324
 msgid "Your highest priestesses know very well that it wasn't your goddess herself the one who saved you from that evil, but the power of the Union, at hands of the Master of Darkness and the Lady of Light."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:324
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:326
 msgid "He's right, Galas. That is part of the truth we did not want our people to find out, so we kept it secret for centuries."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:325
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:327
 msgid "But then, how are we so sure that Eloh does exist?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:326
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:328
 msgid "Because of our faith. It's too late to judge our beliefs. Although Eloh herself did not vanquish this demon lord, she did send two warriors for that purpose. The proof is that they came from nowhere and went to nowhere."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:327
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:329
 msgid "Actually, they went to a place, a place very deep in the heart of the world. I felt their presences descending into the depths. However, one of them, the Master of Darkness, really disappeared from this world it seems, for I lost track of him. The Lady of Light seems to remain in this world, in that place, just sleeping. If you could awaken her, you would have half the power possibly necessary to defeat whoever is the master mind of this cruel plot."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:328
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:330
 msgid "But we don't know how or where she is."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:329
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:331
 msgid "Right, but you could lead us, couldn't you, Mal Keshar?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:340
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:342
 msgid "What?! But lady, he is a lich, a necromancer! We cannot have such an abomination in our side!"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:341
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:343
 msgid "Times have changed, and so have our needs. Today I see no other way to survive without help of this necromancer, and we need his help to locate our saviors. After all, weren't you fighting for a noble cause, Malin Keshar?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:342
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:344
 msgid "Aye, but I see that my cause was a devious one, now; I'm not even sure if it was the right one, as it led me to this state, and anyway, I'd prefer to do some real good before the end of this world."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:343
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:345
 msgid "Alright, he will fight for our cause then."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:344
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:346
 msgid "This is madness!"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:345
-msgid "Keep your mouth shut, soldier. Whatever is the decision of a high sorceress, we must respect it."
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:347
+msgid "Keep your mouth shut. Whatever is the decision of a high sorceress, we must respect it."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:346
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:348
 msgid "Thanks for your kindness. You are the first person with which I have had a friendly dialogue since I arrived here. I hereby place me and my powers to your service, elves."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:351
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:353
 msgid "You can now recruit undead units!"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:353
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:355
 msgid "So, where are we supposed to go?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:354
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:356
 msgid "We must head West. North from the former home of the Wesmere Elves are the mountains where your saviors went to, the caves of Knalga, an ancient, fallen kingdom. Although going to the place where the Wesmere forest used to be may lead us there faster, it is currently infested by those damned creatures, so I'd rather avoid it while we gather the necessary power to fight against them."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:355
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:357
 msgid "Then north west we shall go."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:356
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:358
 msgid "The exit is not too far from here, going down this subterranean river."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:403
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:404
 msgid "Maeglin the Black"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:403
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:404
 msgid "Cheating, huh?"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:405
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:406
 msgid "Deserves a lock."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:438 ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:459 ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:477 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1472 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1493 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1514 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:393 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:418 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:436 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:459 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:479 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:499 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:520 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:545 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:618 ./Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1205
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:439 ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:460 ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:478 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1472 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1493 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1514 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:393 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:418 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:436 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:459 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:479 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:499 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:520 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:545 ./Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:618 ./Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1205
 msgid "Touchplate triggered. A wall moves."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:499
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:500
 msgid "Touchplate triggered. Two walls move."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:523
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:524
 msgid "Touchplate triggered. A road rises from the abyss, and a wall moves."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:552
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:553
 msgid "Dang, this chest is empty!"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:567
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:568
 msgid "What the... what was that?! Oh!! Yelp!"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:570
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:571
 msgid "The cave's roof collapses, crushing the poor helpless units beneath it."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:596
+#: ./Invasion_from_the_Unknown/scenarios/03_Horrors_from_the_Depths.cfg:597
 msgid "Oh no, hurry, we must... AAARGH!!!"
 msgstr ""
 
@@ -6147,33 +6163,32 @@ msgstr ""
 msgid "Ghast"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:27
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:26
 msgid ""
 "The ghast is a creature taken from humankind's most primal nightmares.  Unlike their lesser cousins, ghouls and necrophages, ghasts are not patient enough to wait for their victim to die from poison before consuming the body.  They attack directly with their enormous mouths, trying to rip the flesh straight from their foes. Once their enemy is defeated, they eat the rest of the body, gaining strength in the process.\n"
 "\n"
-"Special Notes: This unit gains 1 hitpoint added to its maximum whenever it kills a living unit.\n"
-""
+"Special Notes: This unit gains 1 hitpoint added to its maximum whenever it kills a living unit."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:31
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:30
 msgid "growth"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:33
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:32
 msgid ""
 "Growth:\n"
 "This unit gains 1 hitpoint added to its maximum whenever it kills a living unit."
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:50
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:49
 msgid "bite"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:135
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:134
 msgid "+1 max HP"
 msgstr ""
 
-#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:160
+#: ./Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:159
 msgid "maximum reached"
 msgstr ""
 
