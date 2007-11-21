@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-11-20 18:04-0300\n"
+"POT-Creation-Date: 2007-11-21 15:04-0300\n"
 "PO-Revision-Date: 2007-11-11 14:28+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
@@ -365,9 +365,8 @@ msgid "Death of Analia"
 msgstr "Morte di Analia"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:108
-#, fuzzy
-msgid "After the third turn your heroes will have to flee to the caves."
-msgstr "Non vedo alternative se non quella di fuggire nelle caverne."
+msgid "You may have to flee to the caves if things get worse."
+msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:114
 msgid "Analia"
@@ -11507,6 +11506,10 @@ msgid ""
 msgstr ""
 "Esclusivamente in difesa:\n"
 "Questa arma è disponibile solo per la difesa."
+
+#, fuzzy
+#~ msgid "After the third turn your heroes will have to flee to the caves."
+#~ msgstr "Non vedo alternative se non quella di fuggire nelle caverne."
 
 #~ msgid "Fighter"
 #~ msgstr "Guerriero"

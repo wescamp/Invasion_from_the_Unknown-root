@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-11-20 18:04-0300\n"
+"POT-Creation-Date: 2007-11-21 15:04-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -207,7 +207,7 @@ msgid "Death of Analia"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:108
-msgid "After the third turn your heroes will have to flee to the caves."
+msgid "You may have to flee to the caves if things get worse."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:114
