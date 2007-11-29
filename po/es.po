@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-11-26 10:47-0300\n"
-"PO-Revision-Date: 2007-11-22 13:44-0300\n"
+"PO-Revision-Date: 2007-11-26 22:39-0300\n"
 "Last-Translator: Ignacio \"Shadow Master\" Riquelme Morelle <igriquel@uc."
 "cl>\n"
 "Language-Team: Español\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/_main.cfg:25
 msgid "IftU"
-msgstr ""
+msgstr "IdMA"
 
 #: Invasion_from_the_Unknown/about.cfg:15
 #: Invasion_from_the_Unknown/_main.cfg:28
@@ -62,9 +62,8 @@ msgid "Difficulty: intermediate to experts."
 msgstr "Dificultad: intermedio a expertos."
 
 #: Invasion_from_the_Unknown/_main.cfg:38
-#, fuzzy
 msgid "21 scenarios completed."
-msgstr "18 escenarios completados."
+msgstr "21 escenarios completados."
 
 #: Invasion_from_the_Unknown/about.cfg:16
 msgid "(read CREDITS.txt for detailed list)"
@@ -348,9 +347,8 @@ msgid "Dante"
 msgstr "Dante"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:103
-#, fuzzy
 msgid "Resist for as long as possible"
-msgstr "Evite el enfrentamiento en la medida que le sea posible"
+msgstr "Resista por tanto tiempo como le sea posible"
 
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:216
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:224
@@ -377,6 +375,8 @@ msgstr "Muerte de Analia"
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:107
 msgid "You may have to flee to the caves if things get worse."
 msgstr ""
+"Podría verse en la necesidad de huir a las cuevas si se pone peor la "
+"situación"
 
 #: Invasion_from_the_Unknown/scenarios/02_Forced_from_Home.cfg:113
 msgid "Analia"
@@ -7304,9 +7304,8 @@ msgid ""
 msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/19_Infested_Pass.cfg:290
-#, fuzzy
 msgid "How do you know that?"
-msgstr "¿Oyeron eso?"
+msgstr "¿Cómo sabéis eso?"
 
 #: Invasion_from_the_Unknown/scenarios/19_Infested_Pass.cfg:291
 msgid ""
@@ -7314,55 +7313,60 @@ msgid ""
 "place where the old kingdom's capital used to be, or at least in its "
 "vicinity. It's the first place we should look for."
 msgstr ""
+"Si mis sospechas son ciertas, el Imperio debe haber crecido y expandido a "
+"partir del lugar donde se encontraba la capital del antiguo reino, o al "
+"menos en sus proximidades. Es el primer lugar donde deberíamos buscar."
 
 #: Invasion_from_the_Unknown/scenarios/19_Infested_Pass.cfg:292
 msgid ""
 "Well, then so be it. We'll go through Wesmere forest. I hope you know what "
 "you are doing."
 msgstr ""
+"Bien, que así sea. Iremos a través del bosque de Wesmere. Sólo espero que "
+"sepáis lo que hacéis."
 
 #: Invasion_from_the_Unknown/scenarios/19_Infested_Pass.cfg:293
-#, fuzzy
 msgid "I hope that too."
-msgstr "Espero que así sea..."
+msgstr "Yo también lo espero."
 
 #: Invasion_from_the_Unknown/scenarios/19_Infested_Pass.cfg:298
 msgid "Look out! The fiends were hiding in that place!"
-msgstr ""
+msgstr "¡Cuidado! ¡Los demonios se ocultaban en áquel lugar!"
 
 #: Invasion_from_the_Unknown/scenarios/19_Infested_Pass.cfg:299
 msgid "They guard even these mountains."
-msgstr ""
+msgstr "Hasta protegen estas montañas."
 
 #: Invasion_from_the_Unknown/scenarios/19_Infested_Pass.cfg:300
 msgid ""
 "Yes, but these are nothing but wanderers. They can be easily taken care of "
 "by us."
 msgstr ""
+"Sí, mas no son sino deambulantes. Podemos hacernos cargo de ellos fácilmente."
 
 #: Invasion_from_the_Unknown/scenarios/19_Infested_Pass.cfg:324
 msgid "And so, the group entered the Unknown... the Chaos Empire's territory."
 msgstr ""
+"Y así, el grupo entró al Más Allá... el territorio del Imperio del Caos."
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:4
 msgid "Wesmere"
-msgstr ""
+msgstr "Wesmere"
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:51
-#, fuzzy
 msgid "Barthan"
-msgstr "Surhan"
+msgstr "Barthan"
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:78
 msgid "Matrix Extension"
-msgstr ""
+msgstr "Extensión de la matriz"
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:126
-#, fuzzy
 msgid ""
 "Move Galas, Mal Keshar or Elynia to the signpost in the south-eastern edge "
 "of map"
-msgstr "Galas, Mal Keshar o Elynia deben alcanzar el final del paso montañoso"
+msgstr ""
+"Mueva a Galas, Mal Keshar o Elynia al cartel en el borde sureste del mapa"
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:137
 msgid ""
@@ -7436,30 +7440,36 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:176
 msgid "Aiyeee!!!"
-msgstr ""
+msgstr "¡Aiyeee!!!"
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:177
-#, fuzzy
 msgid "But what the heck was that?"
-msgstr "¿Qué era eso!?"
+msgstr "¿Pero qué diablos fue eso?"
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:178
 msgid ""
 "These new foes have a perilous ranged attack. We ought to keep at safe "
 "distance from them if we can't kill them immediately!"
 msgstr ""
+"Estos nuevos enemigos tienen un peligroso ataque a distancia. ¡Deberíamos "
+"permanecer a distancia segura de ellos mientras no podamos aniquilarlos de "
+"una sola vez!"
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:243
 msgid ""
 "But as the group spotted the south-eastern mountains and the cave entrance, "
 "a screeching sound was heard..."
 msgstr ""
+"Pero mientras el grupo distinguía las montañas del sureste, y la entrada  a "
+"la cueva, escucharon un estremecedor sonido..."
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:248
 msgid ""
 "It should be dawn by now; the moon has hidden and Naia should have already "
 "appeared in the skies."
 msgstr ""
+"Debiera haber despuntado el alba ahora; la luna se ha ocultado y Naia "
+"debería haber aparecido en el cielo."
 
 #: Invasion_from_the_Unknown/scenarios/20_Wesmere.cfg:249
 msgid ""
@@ -7473,14 +7483,12 @@ msgid "Trial of the Armageddon"
 msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/21_E3_Boss.cfg:87
-#, fuzzy
 msgid "Defeat all your oponents"
-msgstr "Derrote a todos los líderes enemigos"
+msgstr "Derrote a todos sus oponentes"
 
 #: Invasion_from_the_Unknown/scenarios/21_E3_Boss.cfg:115
-#, fuzzy
 msgid "The Armageddon"
-msgstr "Diablo del armagedón"
+msgstr "El Armagedón"
 
 #: Invasion_from_the_Unknown/scenarios/21_E3_Boss.cfg:131
 msgid ""
@@ -7523,9 +7531,8 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/22_Under_the_Sands.cfg:5
 #: Invasion_from_the_Unknown/scenarios/22_Under_the_Sands_random.cfg:4
-#, fuzzy
 msgid "Under the Sands"
-msgstr "Sobre las arenas"
+msgstr "Bajo las arenas"
 
 #: Invasion_from_the_Unknown/scenarios/22_Under_the_Sands.cfg:88
 #: Invasion_from_the_Unknown/scenarios/22_Under_the_Sands_random.cfg:247
@@ -7574,10 +7581,9 @@ msgid "Perhaps another one should take it instead."
 msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/22_Under_the_Sands.cfg:281
-#, fuzzy
 msgid "This unit cannot use this artifact. Let someone else take it!"
 msgstr ""
-"¡No soy la unidad adecuada para recoger esta arma! ¡Dejad que otro lo haga!"
+"Esta unidad no puede utilizar este artefacto. ¡Deje que otro lo intente!"
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:8
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:21
@@ -7616,7 +7622,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Assault_Trooper_Heavy.cfg:5
 msgid "Heavy Assault Trooper"
-msgstr ""
+msgstr "Infantería pesada de asalto"
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Assault_Trooper_Light.cfg:18
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Assault_Trooper_Heavy.cfg:22
@@ -7629,18 +7635,18 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Assault_Trooper_Light.cfg:5
 msgid "Light Assault Trooper"
-msgstr ""
+msgstr "Infantería ligera de asalto"
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Matrix_Core.cfg:5
 msgid "Kagthanus Matrix Core"
-msgstr ""
+msgstr "Núcleo de matriz Kagthanus"
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Matrix_Core.cfg:26
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Matrix_Flow_System.cfg:20
 msgid ""
 "This thing is impossible to describe, no one has seen anything like it "
 "before."
-msgstr ""
+msgstr "Es imposible describir esta cosa, nadie ha visto algo así jamás."
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Psy_Crawler.cfg:34
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Matrix_Core.cfg:31
@@ -7654,7 +7660,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Matrix_Flow_System.cfg:5
 msgid "Kagthanus Matrix Flow System"
-msgstr ""
+msgstr "Sistema de flujo de la matriz Kagthanus"
 
 #: Invasion_from_the_Unknown/units/alien-kagthanii/Matrix_Flow_System.cfg:36
 msgid "goo"
@@ -7706,9 +7712,8 @@ msgid ""
 msgstr ""
 
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Drone_Assault.cfg:5
-#, fuzzy
 msgid "Assault Drone"
-msgstr "Comandante de asalto"
+msgstr "Drón de asalto"
 
 #: Invasion_from_the_Unknown/units/spirits/Shadow_Minion.cfg:27
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Rayblade.cfg:22
@@ -7724,18 +7729,16 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Drone_Runner.cfg:47
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Drone_Protector.cfg:49
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Drone_Assault.cfg:51
-#, fuzzy
 msgid "energy shock"
-msgstr "rayo de energía"
+msgstr "golpe de energía"
 
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Drone_Protector.cfg:5
-#, fuzzy
 msgid "Protector Drone"
-msgstr "protección"
+msgstr "Drón protector"
 
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Drone_Runner.cfg:5
 msgid "Runner Drone"
-msgstr ""
+msgstr "Drón corredor"
 
 #: Invasion_from_the_Unknown/units/mech-undead/Master_of_Darkness.cfg:5
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Master_of_Darkness.cfg:5
@@ -7763,7 +7766,7 @@ msgstr "bomba destelleante"
 
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Rayblade.cfg:6
 msgid "Rayblade"
-msgstr ""
+msgstr "Cuchillo feroz"
 
 #: Invasion_from_the_Unknown/units/alien-shaxthal/Rayblade.cfg:30
 msgid "not-a-type^blade"
@@ -8064,7 +8067,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/dwarves/Gyrocopter.cfg:5
 msgid "Gyrocopter"
-msgstr ""
+msgstr "Girocóptero"
 
 #: Invasion_from_the_Unknown/units/dwarves/Gyrocopter.cfg:20
 msgid ""
@@ -8137,7 +8140,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/dwarves/Steamwheel.cfg:5
 msgid "Steamwheel"
-msgstr "Vapor rodante"
+msgstr "Vapormóvil"
 
 #: Invasion_from_the_Unknown/units/dwarves/Steamwheel.cfg:20
 msgid ""
@@ -8153,7 +8156,7 @@ msgstr "embestir"
 
 #: Invasion_from_the_Unknown/units/dwarves/Thunderwheel.cfg:5
 msgid "Thunderwheel"
-msgstr "Trueno rodante"
+msgstr "Truenomóvil"
 
 #: Invasion_from_the_Unknown/units/dwarves/Thunderwheel.cfg:20
 msgid ""
@@ -8362,7 +8365,7 @@ msgstr "Hada"
 
 #: Invasion_from_the_Unknown/units/goblins-steppe/Flanker.cfg:5
 msgid "Steppe Flanker"
-msgstr "Flanquador de la estepa"
+msgstr "Flanqueador de la estepa"
 
 #: Invasion_from_the_Unknown/units/goblins-steppe/Flanker.cfg:20
 msgid ""
@@ -8449,7 +8452,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Rider.cfg:39
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Master.cfg:39
 msgid "prey crush"
-msgstr ""
+msgstr "aplasta-presas"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Eagle_Rider.cfg:5
 msgid "Eagle Rider"
@@ -8516,9 +8519,8 @@ msgid ""
 msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Longswordsman.cfg:64
-#, fuzzy
 msgid "long sword"
-msgstr "Soldado de espada larga"
+msgstr "espada larga"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Pikeman.cfg:5
 msgid "Pikeman"
@@ -8675,9 +8677,8 @@ msgid "staff"
 msgstr ""
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Warlock.cfg:40
-#, fuzzy
 msgid "fireball"
-msgstr "carga de fuego"
+msgstr "bola de fuego"
 
 #: Invasion_from_the_Unknown/units/humans/Aragwaith_Warlock.cfg:114
 msgid "female^Warlock"
@@ -9171,9 +9172,8 @@ msgstr "puño"
 
 #: Invasion_from_the_Unknown/units/mechanical/Iron_Golem.cfg:51
 #: Invasion_from_the_Unknown/units/mechanical/Goliath.cfg:63
-#, fuzzy
 msgid "plasma bomb"
-msgstr "bomba destelleante"
+msgstr "bomba de plasma"
 
 #: Invasion_from_the_Unknown/units/mechanical/Iron_Golem.cfg:5
 msgid "Iron Golem"
@@ -10017,16 +10017,14 @@ msgid "flame blast"
 msgstr "golpe ardiente"
 
 #: Invasion_from_the_Unknown/units/undead.cfg:5
-#, fuzzy
 msgid "race^Elvish Spirits"
-msgstr "Espíritus"
+msgstr "Espíritus élficos"
 
 #: Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:5
 msgid "Ghast"
 msgstr "Ghast"
 
 #: Invasion_from_the_Unknown/units/undead/Corpse_Ghast.cfg:27
-#, fuzzy
 msgid ""
 "The ghast is a creature taken from humankind's most primal nightmares.  "
 "Unlike their lesser cousins, ghouls and necrophages, ghasts are not patient "
@@ -10045,8 +10043,7 @@ msgstr ""
 "su enemigo es derrotado, se alimentan del resto de su cuerpo, ganando fuerza "
 "en el proceso.\n"
 "\n"
-"Notas especiales: esta unidad gana 1 PV máximo adicional cada vez que mata a "
-"una unidad viviente."
+"Notas especiales:"
 
 #: Invasion_from_the_Unknown/units/undead/Elvish_Spirit_Ancestor.cfg:5
 msgid "Elvish Ancestor"
@@ -11285,15 +11282,3 @@ msgid ""
 msgstr ""
 "Sólo defensivo:\n"
 "Esta arma sólo estará disponible para la defensa."
-
-#~ msgid "bite"
-#~ msgstr "morder"
-
-#~ msgid "thorns"
-#~ msgstr "espinas"
-
-#~ msgid "Resist for 3 turns"
-#~ msgstr "Resista por 3 turnos"
-
-#~ msgid "flash-bomb"
-#~ msgstr "bombazo"
