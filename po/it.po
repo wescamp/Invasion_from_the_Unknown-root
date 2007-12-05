@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-12-03 22:36-0300\n"
+"POT-Creation-Date: 2007-12-05 11:08-0300\n"
 "PO-Revision-Date: 2007-11-28 21:10+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
@@ -9670,22 +9670,30 @@ msgstr "Gemma attivata. Una porta si apre."
 msgid "Touchgem already triggered."
 msgstr "Gemma già attiva."
 
-#: Invasion_from_the_Unknown/terrain/terrain.cfg:8
-#: Invasion_from_the_Unknown/terrain/terrain.cfg:21
-#: Invasion_from_the_Unknown/terrain/terrain.cfg:34
-#: Invasion_from_the_Unknown/terrain/terrain.cfg:47
+#: Invasion_from_the_Unknown/terrain/terrain.cfg:7
+msgid "Barren wasteland"
+msgstr ""
+
+#: Invasion_from_the_Unknown/terrain/terrain.cfg:17
+msgid "Dark Hive floor"
+msgstr ""
+
+#: Invasion_from_the_Unknown/terrain/terrain.cfg:30
+#: Invasion_from_the_Unknown/terrain/terrain.cfg:43
+#: Invasion_from_the_Unknown/terrain/terrain.cfg:56
+#: Invasion_from_the_Unknown/terrain/terrain.cfg:69
 msgid "Campfire"
 msgstr "Fuoco di bivacco"
 
-#: Invasion_from_the_Unknown/terrain/terrain.cfg:60
+#: Invasion_from_the_Unknown/terrain/terrain.cfg:82
 msgid "Volcanic Abyss"
 msgstr "Abisso vulcanico"
 
-#: Invasion_from_the_Unknown/terrain/terrain.cfg:68
+#: Invasion_from_the_Unknown/terrain/terrain.cfg:90
 msgid "Abyss Bridge"
 msgstr ""
 
-#: Invasion_from_the_Unknown/terrain/terrain.cfg:79
+#: Invasion_from_the_Unknown/terrain/terrain.cfg:101
 msgid "Gate"
 msgstr "Cancello"
 
@@ -12565,11 +12573,13 @@ msgid "This ring will grant the bearer swift movement."
 msgstr "Questo anello conferisce a chi lo porta movimenti rapidi."
 
 #: Invasion_from_the_Unknown/utils/main-utils.cfg:164
-msgid "You retrieve {AMOUNT} pieces of gold."
-msgstr "Recuperi {AMOUNT} pezzi d'oro."
+#, fuzzy
+msgid "You retrieve $temp_gold_retrieval_amount pieces of gold."
+msgstr "Hai dato ai nani $eoh_spent_gold pezzi d'oro."
 
 #: Invasion_from_the_Unknown/utils/main-utils.cfg:181
-msgid "You receive {AMOUNT} pieces of gold!"
+#, fuzzy
+msgid "You receive $temp_gold_retrieval_amount pieces of gold!"
 msgstr "Ricevi {AMOUNT} pezzi d'oro!"
 
 #: Invasion_from_the_Unknown/utils/scenario-deaths.cfg:15
@@ -13571,6 +13581,9 @@ msgid ""
 msgstr ""
 "Esclusivamente in difesa:\n"
 "Questa arma è disponibile solo per la difesa."
+
+#~ msgid "You retrieve {AMOUNT} pieces of gold."
+#~ msgstr "Recuperi {AMOUNT} pezzi d'oro."
 
 #, fuzzy
 #~ msgid "BLAH BLAH BLAH FIXME"
