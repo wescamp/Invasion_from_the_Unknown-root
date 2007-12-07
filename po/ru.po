@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-12-05 11:08-0300\n"
+"POT-Creation-Date: 2007-12-07 12:12-0300\n"
 "PO-Revision-Date: 2007-10-25 17:56+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -86,31 +86,31 @@ msgstr ""
 msgid "Graphics"
 msgstr ""
 
-#: Invasion_from_the_Unknown/about.cfg:88
+#: Invasion_from_the_Unknown/about.cfg:86
 msgid "Sound effects"
 msgstr ""
 
-#: Invasion_from_the_Unknown/about.cfg:93
+#: Invasion_from_the_Unknown/about.cfg:91
 msgid "Music tracks (non-specific)"
 msgstr ""
 
-#: Invasion_from_the_Unknown/about.cfg:100
+#: Invasion_from_the_Unknown/about.cfg:98
 msgid "Additional thanks to"
 msgstr ""
 
-#: Invasion_from_the_Unknown/about.cfg:111
+#: Invasion_from_the_Unknown/about.cfg:109
 msgid "Descent into Darkness"
 msgstr ""
 
-#: Invasion_from_the_Unknown/about.cfg:113
+#: Invasion_from_the_Unknown/about.cfg:111
 msgid "Imperial Era"
 msgstr ""
 
-#: Invasion_from_the_Unknown/about.cfg:117
+#: Invasion_from_the_Unknown/about.cfg:115
 msgid "You, for playing this campaign"
 msgstr ""
 
-#: Invasion_from_the_Unknown/about.cfg:118
+#: Invasion_from_the_Unknown/about.cfg:116
 msgid "Anyone else I could forget to mention"
 msgstr ""
 
@@ -990,7 +990,6 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:351
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:377
-#: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:395
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:418
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:438
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:458
@@ -2123,8 +2122,12 @@ msgstr ""
 msgid "Thine journey is mine; but keep close to lite; lite will be shine."
 msgstr ""
 
+#: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:395
+msgid "Hidden touchplate triggered. A wall moves."
+msgstr ""
+
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:525
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:169
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:238
 msgid "Potion of Strength"
 msgstr ""
 
@@ -2133,8 +2136,8 @@ msgid "Strength is temporarily given to the drinker."
 msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/07_E1_Boss.cfg:530
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:173
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:219
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:242
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:288
 msgid "This potion can only be used by living beings. Let other take it."
 msgstr ""
 
@@ -3778,6 +3781,7 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:741
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:763
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:628
 msgid "A wall moves."
 msgstr ""
 
@@ -8229,50 +8233,132 @@ msgstr ""
 msgid "Into the Keep"
 msgstr ""
 
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:172
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:241
 msgid "Strength is given to the drinker."
 msgstr ""
 
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:215
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:284
 msgid "Potion of Deftness"
 msgstr ""
 
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:218
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:287
 msgid ""
 "This magic potion will increase the drinker's movement points by one "
 "(quick), and increase the inflicted base damage of its ranged attacks by one "
 "(dextrous), if applicable."
 msgstr ""
 
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:260
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:329
 msgid "Amulet of the Arcane Flows"
 msgstr ""
 
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:263
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:332
 msgid ""
 "This amulet will grant the bearer's arcane power to their melee attacks, and "
 "increase their resistance to arcane damage by 10%."
 msgstr ""
 
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:264
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:333
 msgid ""
 "This potion can only be used by living beings that are not faeries. Let "
 "other unit take it."
 msgstr ""
 
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:310
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:432
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:379
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:501
 msgid "Find the touchgem trigger to deactivate this magic force-field."
 msgstr ""
 
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:346
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:406
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:415
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:475
 msgid "Touchgem triggered. A magic force-field is deactivated."
 msgstr ""
 
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:349
-#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:409
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:418
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:478
 msgid "Touchgem already triggered."
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:517
+msgid "Hell Gatekeeper"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:526
+msgid "Hive Sentinel"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:534
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:541
+msgid "Hive Defender"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:548
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:569
+msgid "Biomechanical Drone"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:562
+msgid "Metallic Guardian"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:576
+msgid "Crawling Horror"
+msgstr ""
+
+#: Invasion_from_the_Unknown/units/spirits/Shadow_Minion.cfg:5
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:604
+msgid "Shadow Minion"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:609
+msgid ""
+"Your foolishness ends here with your death, enemies of the Master! We were "
+"sent to stop you from reaching the Gate of Inferno by the Shadow Master, and "
+"this time you have no escapatory."
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:611
+msgid "Ssslay... ssslash... flesshhh..."
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:612
+msgid "Shriak! Greeeeshaaaahhhh..."
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:613
+msgid "Damned we are, is it that there is an unlimited source of enemy bosses?"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:614
+msgid ""
+"Ah, the Shadow Master! I cannot wait to meet him personally anymore... get "
+"out of our path, you bastards!"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:651
+msgid "Get back, filthy rebels! No living ones should tresspass these gates!"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:652
+msgid "Aha, the entrance hall of Inferno!"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:653
+msgid ""
+"This place must have been severily corrupted to cause this anomaly that "
+"connects our world with the demonic homeland."
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:654
+msgid "Can you close it?"
+msgstr ""
+
+#: Invasion_from_the_Unknown/scenarios/25_Into_the_Keep.cfg:655
+msgid ""
+"No, it is not safe until we discover who did this; bending our space-time to "
+"build this connection requires great powers, and I would not doubt that the "
+"author of it can open the connection from the other side if its closed from "
+"ours."
 msgstr ""
 
 #: Invasion_from_the_Unknown/terrain/terrain.cfg:7
@@ -10627,10 +10713,6 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#: Invasion_from_the_Unknown/units/spirits/Shadow_Minion.cfg:5
-msgid "Shadow Minion"
-msgstr ""
-
 #: Invasion_from_the_Unknown/units/spirits/Water_Spirit.cfg:5
 msgid "female^Water Spirit"
 msgstr ""
@@ -11823,12 +11905,77 @@ msgid ""
 "Empire of Chaos."
 msgstr ""
 
-#: Invasion_from_the_Unknown/utils/storytxt.cfg:568
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:559
+msgid ""
+"All civilians were thus, left behind, and given the order to set home in the "
+"Aragwaith country and its surroundings, given that almost all orcish tribes "
+"were now allies of us, and those who didn't accept the treaty, were quickly "
+"forced to surrender. So there was now enough room left for elves in these "
+"peaceful lands; peaceful, anyway, till the dawn of this war."
+msgstr ""
+
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:562
+msgid ""
+"But as the Chaos armies are forced to keep their positions in their own "
+"territory to resist the alliance's invasion, I am sure peace will soon "
+"return to the Aragwaith country."
+msgstr ""
+
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:565
+msgid ""
+"We headed towards the frying pan, towards the Heart of the Empire, through a "
+"mountain pass that was difficult to find, access and pass, according to "
+"Erathan. And it was, indeed."
+msgstr ""
+
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:574
+msgid ""
+"We set camp in middle of the mountains, to rest and sleep. Though sleeping "
+"was not an easy task, as we assigned surveilance turns to each one of our "
+"comrades, so that there would be always a pair of eyes watching for our "
+"safety."
+msgstr ""
+
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:577
+msgid ""
+"I was assigned the first watch turn. After completing my duty, sleepiness "
+"sent me immediately to my tent, to fall asleep as soon as I touched floor."
+msgstr ""
+
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:580
+msgid ""
+"When I wake up that morning I found Elynia lying by my side. I do not know "
+"when she came to my tent, but there she was, peacefully sleeping. Nor I "
+"remember what else happened that night, but I hope that it was just that, as "
+"I would not like to offend the memory of Argan by usurping his place by her "
+"side."
+msgstr ""
+
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:583
+msgid ""
+"And then was another march day. Another one, until we arrived to the end of "
+"the pass. From the top of one of the highest mountains we could behold a "
+"disturbing, desolated landscape."
+msgstr ""
+
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:595
 msgid "Episode IV: The Final Clash"
 msgstr ""
 
-#: Invasion_from_the_Unknown/utils/storytxt.cfg:573
-msgid "blahblah"
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:600
+msgid ""
+"The darkness... somehow, I feel even more vulnerable than the last time we "
+"were underground. I am not sure if it is because of the absence of Analia, "
+"to whom we owe our lives, or if that there is something else here."
+msgstr ""
+
+#: Invasion_from_the_Unknown/utils/storytxt.cfg:603
+msgid ""
+"The caves, close to the entrance, looked common and normal; but as we went "
+"further into them, we started to notice what was wrong there... everything. "
+"Everything looked evil, corrupted, and unnatural. The rocks were red as the "
+"lava, and strange beating roots could be seen inside some of the gaps on the "
+"walls, like if they were part of a giant animal, rather than roots of plants."
 msgstr ""
 
 #: Invasion_from_the_Unknown/utils/traits.cfg:7
